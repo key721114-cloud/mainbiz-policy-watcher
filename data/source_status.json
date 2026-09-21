@@ -1,65 +1,66 @@
 {
   "motie(산업통상부(본체))": {
     "track": "crawl",
-    "last_run_at": "2026-09-21T17:15:15+09:00",
+    "last_run_at": "2026-09-21T17:31:17+09:00",
     "last_status": "OK",
     "last_count": 30,
-    "last_success_at": "2026-09-21T17:15:15+09:00",
+    "last_success_at": "2026-09-21T17:31:17+09:00",
     "last_error": ""
   },
   "kiat(한국산업기술진흥원(KIAT))": {
     "track": "crawl",
-    "last_run_at": "2026-09-21T17:15:15+09:00",
+    "last_run_at": "2026-09-21T17:31:17+09:00",
     "last_status": "OK",
     "last_count": 30,
-    "last_success_at": "2026-09-21T17:15:15+09:00",
+    "last_success_at": "2026-09-21T17:31:17+09:00",
     "last_error": ""
   },
   "kotra(대한무역투자진흥공사(KOTRA))": {
     "track": "crawl",
-    "last_run_at": "2026-09-21T17:15:15+09:00",
+    "last_run_at": "2026-09-21T17:31:17+09:00",
     "last_status": "OK",
     "last_count": 10,
-    "last_success_at": "2026-09-21T17:15:15+09:00",
+    "last_success_at": "2026-09-21T17:31:17+09:00",
     "last_error": ""
   },
   "keit(한국산업기술기획평가원(KEIT))": {
     "track": "crawl",
-    "last_run_at": "2026-09-21T17:15:15+09:00",
+    "last_run_at": "2026-09-21T17:31:17+09:00",
     "last_status": "OK",
     "last_count": 30,
-    "last_success_at": "2026-09-21T17:15:15+09:00",
+    "last_success_at": "2026-09-21T17:31:17+09:00",
     "last_error": ""
   },
   "ketep(한국에너지기술평가원(KETEP))": {
     "track": "crawl",
-    "last_run_at": "2026-09-21T17:15:15+09:00",
+    "last_run_at": "2026-09-21T17:31:17+09:00",
     "last_status": "OK",
     "last_count": 30,
-    "last_success_at": "2026-09-21T17:15:15+09:00",
+    "last_success_at": "2026-09-21T17:31:17+09:00",
     "last_error": ""
   },
   "semas(소상공인시장진흥공단(소진공))": {
     "track": "crawl",
-    "last_run_at": "2026-09-21T17:15:15+09:00",
-    "last_status": "FAIL",
-    "last_count": 0,
-    "last_error": "HTTPSConnectionPool(host='www.semas.or.kr', port=443): Max retries exceeded with url: /web/board/webBoardList.kmdc?bCd=2001&pNm=BOA0101&page=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.semas.or.kr', port=443) at 0x26eb06c6f60>, 'Connection to www.semas.or.kr timed out. (connect timeout=20)'))"
+    "last_run_at": "2026-09-21T17:31:17+09:00",
+    "last_status": "OK",
+    "last_count": 15,
+    "last_error": "",
+    "last_success_at": "2026-09-21T17:31:17+09:00"
   },
   "kosmes(중소벤처기업진흥공단(KOSMES))": {
     "track": "crawl",
-    "last_run_at": "2026-09-21T17:15:15+09:00",
+    "last_run_at": "2026-09-21T17:31:17+09:00",
     "last_status": "OK",
     "last_count": 28,
-    "last_success_at": "2026-09-21T17:15:15+09:00",
+    "last_success_at": "2026-09-21T17:31:17+09:00",
     "last_error": ""
   },
   "tipa_smartfactory(중소기업기술정보진흥원(TIPA)-스마트공장 모집공고)": {
     "track": "crawl",
-    "last_run_at": "2026-09-21T17:15:15+09:00",
+    "last_run_at": "2026-09-21T17:31:17+09:00",
     "last_status": "OK",
     "last_count": 29,
-    "last_success_at": "2026-09-21T17:15:15+09:00",
+    "last_success_at": "2026-09-21T17:31:17+09:00",
     "last_error": ""
   },
   "MSS(중소벤처기업부)": {
