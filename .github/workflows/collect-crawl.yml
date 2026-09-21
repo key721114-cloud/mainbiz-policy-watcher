@@ -32,16 +32,43 @@ jobs:
       - name: 크롤러 실행
         run: python scripts/run_crawlers.py
 
-      - name: 변경사항 커밋
+      # data/announcements.json·source_status.json은 매 실행마다 통째로
+      # 다시 쓰이는 파일이라 git이 자동으로 merge하지 못한다(API 트랙과
+      # 거의 동시에 돌면 rebase 충돌 발생 - 실제로 겪음). 그래서 이 두 파일은
+      # 절대 그대로 커밋하지 않고, raw_crawl.json + 이번 실행 요약만 먼저
+      # 커밋한 뒤, git pull로 API 트랙의 최신 데이터까지 받아온 상태에서
+      # scripts/build.py로 다시 만들어 커밋한다(순수 로컬 계산이라 재시도해도
+      # 외부 사이트를 다시 긁지 않음).
+      - name: raw 데이터 커밋
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          # 스크립트가 로컬 편의상 다시 써둔 announcements.json/source_status.json은
+          # 어차피 build.py가 다시 만들 것이므로, pull --rebase가 걸리지 않게 되돌려둔다.
+          git checkout -- data/announcements.json data/source_status.json 2>/dev/null || true
+          git add data/raw_crawl.json data/status/crawl_last_run.json
           if git diff --cached --quiet; then
-            echo "변경 없음"
+            echo "raw 변경 없음"
           else
-            git commit -m "chore: 크롤링 공고 수집 결과 갱신 [skip ci]"
+            git commit -m "chore: 크롤링 원본 수집 데이터 갱신 [skip ci]"
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push
           fi
 
+      - name: 최종 결과 재생성 및 커밋
+        run: |
+          for i in 1 2 3; do
+            python scripts/build.py
+            git add data/announcements.json data/source_status.json
+            if git diff --cached --quiet; then
+              echo "최종 결과 변경 없음"
+              break
+            fi
+            git commit -m "chore: 최종 공고 목록 갱신 [skip ci]"
+            if git push; then
+              break
+            fi
+            echo "push 충돌, 재시도 ($i/3)"
+            git reset --mixed HEAD~1
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+          done

@@ -21,7 +21,14 @@ from common.crawl_config import load_crawl_targets  # noqa: E402
 from common.config import load_keywords  # noqa: E402
 from common.schema import now_kst_iso  # noqa: E402
 from crawlers.registry import build_crawler  # noqa: E402
-from pipeline import RAW_CRAWL_PATH, build_announcements, save_raw, update_source_status  # noqa: E402
+from pipeline import (  # noqa: E402
+    CRAWL_RUN_SUMMARY_PATH,
+    RAW_CRAWL_PATH,
+    build_announcements,
+    rebuild_source_status,
+    save_raw,
+    save_run_summary,
+)
 
 
 def main() -> int:
@@ -51,7 +58,10 @@ def main() -> int:
             exit_code = 1
 
     save_raw(all_results, ROOT / RAW_CRAWL_PATH)
-    update_source_status(ROOT, "crawl", summary)
+    save_run_summary(ROOT / CRAWL_RUN_SUMMARY_PATH, summary)
+    # 아래 두 줄은 로컬에서 한 번에 돌려볼 때 편하라고 두는 것 - CI에서는
+    # git pull 이후 scripts/build.py가 다시 불러서 최신 상태로 덮어쓴다.
+    rebuild_source_status(ROOT)
     matched = build_announcements(ROOT, keywords)
 
     print("\n=== 요약 ===")

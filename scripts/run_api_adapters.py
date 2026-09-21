@@ -27,7 +27,14 @@ from adapters.kstartup import KStartupAdapter  # noqa: E402
 from adapters.mss import MSSAdapter  # noqa: E402
 from common.config import get_setting, load_env_file, load_keywords  # noqa: E402
 from common.schema import now_kst_iso  # noqa: E402
-from pipeline import RAW_API_PATH, build_announcements, save_raw, update_source_status  # noqa: E402
+from pipeline import (  # noqa: E402
+    API_RUN_SUMMARY_PATH,
+    RAW_API_PATH,
+    build_announcements,
+    rebuild_source_status,
+    save_raw,
+    save_run_summary,
+)
 
 
 def build_adapters(api_keys: dict[str, str], keywords: list[str]):
@@ -67,7 +74,10 @@ def main() -> int:
             exit_code = 1
 
     save_raw(all_results, ROOT / RAW_API_PATH)
-    update_source_status(ROOT, "api", summary)
+    save_run_summary(ROOT / API_RUN_SUMMARY_PATH, summary)
+    # 아래 두 줄은 로컬에서 한 번에 돌려볼 때 편하라고 두는 것 - CI에서는
+    # git pull 이후 scripts/build.py가 다시 불러서 최신 상태로 덮어쓴다.
+    rebuild_source_status(ROOT)
     matched = build_announcements(ROOT, keywords)
 
     print("\n=== 요약 ===")
