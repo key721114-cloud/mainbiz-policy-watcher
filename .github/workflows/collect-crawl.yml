@@ -1,0 +1,46 @@
+name: 공고 수집 - 크롤링
+
+on:
+  schedule:
+    # 06:00 KST (UTC 21:00 전날). 상대 서버 부담을 고려해 하루 1회만 실행.
+    - cron: "0 21 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  collect-crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      # 지금 등록된 크롤링 대상(crawl_targets.yaml)은 전부 static_html/json_api
+      # 드라이버라 Playwright가 필요 없다. 나중에 driver: playwright_dom 또는
+      # playwright_capture를 쓰는 대상을 enabled: true로 켜면 아래 스텝의
+      # 주석을 풀어야 한다.
+      # - name: Playwright 브라우저 설치
+      #   run: playwright install --with-deps chromium
+
+      - name: 크롤러 실행
+        run: python scripts/run_crawlers.py
+
+      - name: 변경사항 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "chore: 크롤링 공고 수집 결과 갱신 [skip ci]"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi

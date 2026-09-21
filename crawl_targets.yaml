@@ -1,0 +1,274 @@
+# 크롤링 대상 설정 (config-driven).
+#
+# 새 사이트를 추가할 때는 이 파일에 아래와 같은 블록 하나만 더 쓰면 된다 -
+# 새 파이썬 코드를 작성할 필요는 없다(driver가 static_html/json_api/
+# playwright_dom/playwright_capture 중 하나로 충분한 한). 선택자 문법은
+# src/crawlers/html_extract.py, src/crawlers/json_extract.py 상단 docstring 참고.
+#
+# crawl_targets.csv는 "이 사이트가 실제로 사업공고 게시판이 맞는지" 조사한
+# 기록(연구 로그)이고, 이 파일(crawl_targets.yaml)이 실제로 실행되는 설정이다.
+# 새 후보 사이트는 먼저 csv에 조사 결과를 남긴 뒤, 여기에 옮겨 적는 순서를 권장한다.
+#
+# 드라이버 선택 기준:
+#   static_html        - requests로 받은 HTML을 그대로 CSS 선택자로 파싱 (GET/POST 둘 다 가능).
+#                         목록이 서버사이드 렌더링이거나, AJAX 응답 자체가 HTML 조각인 사이트에 사용.
+#   json_api           - requests로 GET/POST해서 JSON을 그대로 받는, 세션/토큰이 필요 없는 REST형 AJAX.
+#   playwright_capture - 위 두 방식이 안 통하는(세션·토큰·리퍼러가 복잡하게 얽힌) AJAX 사이트.
+#                         실제 브라우저로 페이지를 열어 사이트가 스스로 보내는 요청의 응답만 가로챈다.
+#   playwright_dom     - 목록이 최종적으로 DOM 테이블에 남는 JS 렌더링 사이트(AJAX 캡처가 어려운 경우).
+
+- id: motie
+  name: 산업통상부(본체)
+  org: 산업통상부
+  stage: 모집공고
+  driver: static_html
+  enabled: true
+  list:
+    url: "https://www.motir.go.kr/kor/article/ATCL2826a2625"
+    method: GET
+    pagination:
+      param: pageIndex
+      max_pages: 3
+    row_selector: "div.board-tbl.board-list table tbody tr"
+    fields:
+      title:
+        selector: "td.ta-l a"
+        attr: text
+      detail_url:
+        selector: "td.ta-l a"
+        attr: href
+        base_url: "https://www.motir.go.kr"
+      org:
+        selector: "td:nth-child(3)"
+        attr: text
+      # 이 게시판 목록에는 접수기간이 없고 등록일만 있어 period는 비워둔다.
+
+- id: kiat
+  name: 한국산업기술진흥원(KIAT)
+  org: 한국산업기술진흥원
+  stage: 모집공고
+  driver: static_html
+  enabled: true
+  list:
+    # 2026-09-21 확인: 이 AJAX 엔드포인트가 돌려주는 건 JSON이 아니라 HTML 조각이라
+    # static_html 드라이버(POST)로 그대로 처리 가능 - Playwright 불필요.
+    url: "https://www.kiat.or.kr/front/board/boardContentsListAjax.do"
+    method: POST
+    params:
+      miv_pageSize: 10
+      mode: W
+      board_id: 90
+      MenuId: b159c9dac684471b87256f1e25404f5e
+      state_filter: W
+      searchkey: T
+    pagination:
+      param: miv_pageNo
+      max_pages: 3
+    row_selector: "tbody tr"
+    fields:
+      title:
+        selector: "td.td_title a"
+        attr: text
+      detail_url:
+        selector: "td.td_title a"
+        attr: href
+        regex: "contentsView\\('([^']+)'\\)"
+        template: "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id={0}"
+      period:
+        selector: "td.td_app_term"
+        attr: text
+      external_id:
+        selector: "td.td_title a"
+        attr: href
+        regex: "contentsView\\('([^']+)'\\)"
+
+- id: kotra
+  name: 대한무역투자진흥공사(KOTRA)
+  org: 대한무역투자진흥공사
+  stage: 모집공고
+  driver: static_html
+  enabled: true
+  list:
+    # 2026-09-21 확인: 이 AJAX 엔드포인트도 JSON이 아니라 HTML 카드 조각을 반환.
+    # pageNo/pageNo2/pageNoA 세 파라미터를 동시에 같은 페이지번호로 채워야 함.
+    url: "https://www.kotra.or.kr/module/subhome/bizAply/selectBmBizAllListAjax.do"
+    method: POST
+    params:
+      pageSize: 10
+      listCount: 10
+      query: "+"
+      collection: business_application
+      sch_nation_cd: "Y"
+    pagination:
+      params: [pageNo, pageNo2, pageNoA]
+      max_pages: 3
+    row_selector: "div.card"
+    fields:
+      title:
+        selector: "a.card-tit"
+        attr: text
+      detail_url:
+        selector: "a.card-tit"
+        attr: href
+        regex: "fn_selectBizMntInfoDetailNew\\('([^']+)'\\)"
+        base_url: "https://www.kotra.or.kr"
+      period:
+        selector: 'dt:-soup-contains("신청기간") + dd'
+        attr: text
+
+- id: keit
+  name: 한국산업기술기획평가원(KEIT)
+  org: 한국산업기술기획평가원
+  stage: 모집공고
+  driver: static_html
+  enabled: true
+  list:
+    # keit.re.kr이 아니라 별도 시스템 SROME(srome.keit.re.kr)에 진짜 사업공고가 있음.
+    url: "https://srome.keit.re.kr/srome/biz/perform/opnnPrpsl/retrieveTaskAnncmListView.do"
+    method: GET
+    params:
+      prgmId: XPG201040000
+    pagination:
+      param: pageIndex
+      max_pages: 3
+    row_selector: "#assignment-notice_list div.table_box_wrap"
+    fields:
+      title:
+        selector: "p.subject span.title"
+        attr: text
+      detail_url:
+        selector: "p.subject a"
+        attr: onclick
+        regex: "f_detail\\('([^']+)',\\s*'([^']+)'\\)"
+        template: "https://srome.keit.re.kr/srome/biz/perform/opnnPrpsl/retrieveTaskAnncmInfoView.do?ancmId={0}&bsnsYy={1}&prgmId=XPG201040000"
+      external_id:
+        selector: "p.subject a"
+        attr: onclick
+        regex: "f_detail\\('([^']+)'"
+      period:
+        selector: "div.info p:nth-of-type(1) span.value"
+        attr: text
+
+- id: ketep
+  name: 한국에너지기술평가원(KETEP)
+  org: 한국에너지기술평가원
+  stage: 모집공고
+  driver: static_html
+  enabled: true
+  list:
+    url: "https://www.ketep.re.kr/businessAcment"
+    method: GET
+    params:
+      menuId: MENU002080200000000
+    pagination:
+      param: pageNum
+      max_pages: 3
+    row_selector: "table.tstyle_list tbody tr"
+    fields:
+      title:
+        selector: "td.txt_left a"
+        attr: text
+      detail_url:
+        selector: "td.txt_left a"
+        attr: href
+        base_url: "https://www.ketep.re.kr"
+      # 목록에 접수기간이 없고 등록일만 있어 period는 비워둔다.
+
+- id: semas
+  name: 소상공인시장진흥공단(소진공)
+  org: 소상공인시장진흥공단
+  stage: 모집공고
+  driver: static_html
+  enabled: true
+  list:
+    url: "https://www.semas.or.kr/web/board/webBoardList.kmdc"
+    method: GET
+    params:
+      bCd: 2001
+      pNm: BOA0101
+    pagination:
+      param: page
+      max_pages: 3
+    # 한 행 전체가 <a class="aconbox">라서 detail_url은 selector: self 로 행 자기 자신을 사용.
+    row_selector: "a.aconbox"
+    fields:
+      title:
+        selector: "div.cut_text1"
+        attr: text
+      detail_url:
+        selector: "self"
+        attr: href
+      period:
+        selector: "div.date_box div.date"
+        attr: text
+
+- id: kosmes
+  name: 중소벤처기업진흥공단(KOSMES)
+  org: 중소벤처기업진흥공단
+  stage: 모집공고
+  driver: json_api
+  enabled: true
+  list:
+    # 2026-09-21 확인: 알림광장>공지사항(SHNTS001M0.do)이 사실상 KOSMES 통합 공고판.
+    # activatedTab=01을 안 보내면 rowMax=0(빈 결과)이 돌아오니 반드시 포함해야 함.
+    url: "https://www.kosmes.or.kr/sh/nts/notice_list.json"
+    method: POST
+    request_format: form
+    body:
+      pageCount: 10
+      rowCount: 10
+      param: "proc=List"
+      bKind: popluar
+      activatedTab: "01"
+    pagination:
+      param: nowPage
+      max_pages: 3
+    items_path: ds_infoList
+    fields:
+      title:
+        key: TITL_NM
+      org:
+        key: CATG_CD
+      period:
+        key: VALI_DT   # 유효일(마감기한). 등록일은 REG_DTM.
+      external_id:
+        key: SLNO
+      detail_url:
+        key: SLNO
+        # json_extract는 template에 item 필드를 그대로 꽂아준다 (SLNO -> seqNo)
+        template: "https://www.kosmes.or.kr/nsh/SH/NTS/SHNTS001F0.do?seqNo={SLNO}"
+
+- id: tipa_smartfactory
+  name: 중소기업기술정보진흥원(TIPA)-스마트공장 모집공고
+  org: 중소기업기술정보진흥원(TIPA)
+  stage: 모집공고
+  driver: json_api
+  enabled: true
+  list:
+    # 기존 계획이던 '중소벤처24 공고정보 API'는 실제 엔드포인트를 공개적으로
+    # 찾을 수 없어 이 크롤링으로 대체(2026-09-21 학준님 확인). Playwright 불필요.
+    url: "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc/selectRcrtPbancPage.do"
+    method: POST
+    request_format: json
+    body:
+      key: list
+      bizYr: ""
+      rcrtPbancNm: ""
+      rcptStts: ""     # 빈 값 = 전체(접수중+접수마감 모두 포함) - 마감 공고도 봐야 한다는 요구사항 반영
+      ordrSe: REG
+    pagination:
+      param: currentPage
+      max_pages: 3
+    items_path: rcrtPbancList
+    fields:
+      title:
+        key: rcrtPbancNm
+      period:
+        key: rcptYmd
+      external_id:
+        key: rcrtPbancId
+      # 상세페이지가 React 클라이언트 라우팅이라 개별 공고로 딥링크가 안 됨(URL에 id가 안 실림).
+      # 목록 페이지로 연결하고, 정확한 공고는 제목으로 찾아야 함.
+      detail_url:
+        key: rcrtPbancId
+        template: "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc"
