@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:31:17+09:00",
+  "generated_at": "2026-09-21T17:40:21+09:00",
   "count": 177,
   "items": [
     {
@@ -3023,7 +3023,7 @@
         "소부장"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:30:53+09:00"
+      "collected_at": "2026-09-21T17:40:00+09:00"
     },
     {
       "source": "MOTIE",
@@ -3042,7 +3042,7 @@
         "소부장"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:30:53+09:00"
+      "collected_at": "2026-09-21T17:40:01+09:00"
     },
     {
       "source": "MOTIE",
@@ -3061,7 +3061,7 @@
         "소부장"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:30:54+09:00"
+      "collected_at": "2026-09-21T17:40:01+09:00"
     },
     {
       "source": "KIAT",
@@ -3080,7 +3080,7 @@
         "소부장"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:30:56+09:00"
+      "collected_at": "2026-09-21T17:40:03+09:00"
     },
     {
       "source": "KIAT",
@@ -3099,7 +3099,7 @@
         "소부장"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-09-21T17:30:56+09:00"
+      "collected_at": "2026-09-21T17:40:04+09:00"
     },
     {
       "source": "KIAT",
@@ -3118,7 +3118,7 @@
         "소부장"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:30:56+09:00"
+      "collected_at": "2026-09-21T17:40:04+09:00"
     },
     {
       "source": "KIAT",
@@ -3137,7 +3137,7 @@
         "소부장"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:30:57+09:00"
+      "collected_at": "2026-09-21T17:40:04+09:00"
     },
     {
       "source": "KEIT",
@@ -3156,7 +3156,7 @@
         "피지컬AI"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:31:02+09:00"
+      "collected_at": "2026-09-21T17:40:09+09:00"
     },
     {
       "source": "SEMAS",
@@ -3175,7 +3175,7 @@
         "스마트제조"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:31:11+09:00"
+      "collected_at": "2026-09-21T17:40:14+09:00"
     },
     {
       "source": "KOSMES",
@@ -3194,7 +3194,7 @@
         "재도전"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-09-21T17:31:14+09:00"
+      "collected_at": "2026-09-21T17:40:16+09:00"
     },
     {
       "source": "KOSMES",
@@ -3213,7 +3213,7 @@
         "재도전"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:31:15+09:00"
+      "collected_at": "2026-09-21T17:40:16+09:00"
     },
     {
       "source": "KOSMES",
@@ -3232,7 +3232,7 @@
         "스마트제조"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:31:15+09:00"
+      "collected_at": "2026-09-21T17:40:16+09:00"
     },
     {
       "source": "KOSMES",
@@ -3251,7 +3251,7 @@
         "스마트제조"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-09-21T17:31:15+09:00"
+      "collected_at": "2026-09-21T17:40:17+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3270,7 +3270,7 @@
         "제조데이터"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:31:16+09:00"
+      "collected_at": "2026-09-21T17:40:19+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3289,7 +3289,7 @@
         "스마트제조"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:31:16+09:00"
+      "collected_at": "2026-09-21T17:40:19+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3308,7 +3308,7 @@
         "스마트제조"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:31:16+09:00"
+      "collected_at": "2026-09-21T17:40:19+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3327,7 +3327,7 @@
         "스마트제조"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:31:16+09:00"
+      "collected_at": "2026-09-21T17:40:19+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3346,7 +3346,7 @@
         "제조AI"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:31:16+09:00"
+      "collected_at": "2026-09-21T17:40:19+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3365,7 +3365,7 @@
         "제조데이터"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-21T17:31:17+09:00"
+      "collected_at": "2026-09-21T17:40:19+09:00"
     }
   ]
 }
