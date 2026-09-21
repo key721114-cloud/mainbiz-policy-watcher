@@ -22,7 +22,14 @@ jobs:
       - name: 의존성 설치
         run: pip install -r requirements.txt
 
+      # 소스 하나가 실패해도(429, 일시 타임아웃 등) 스크립트는 exit 1을
+      # 반환할 수 있다 - 그래도 나머지 소스가 수집한 데이터는 반드시 커밋
+      # 돼야 하므로(개별 소스 실패가 전체 파이프라인을 막으면 안 됨) 이
+      # 스텝만 continue-on-error로 두고, 잡 전체의 성공/실패 표시는 맨
+      # 마지막 "수집 결과 확인" 스텝에서 따로 판정한다.
       - name: API 어댑터 실행
+        id: fetch
+        continue-on-error: true
         env:
           MSS_API_KEY: ${{ secrets.MSS_API_KEY }}
           KSTARTUP_API_KEY: ${{ secrets.KSTARTUP_API_KEY }}
@@ -70,3 +77,9 @@ jobs:
             git reset --mixed HEAD~1
             git pull --rebase origin "${GITHUB_REF_NAME}"
           done
+
+      - name: 수집 결과 확인
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo "::warning::일부 소스 수집 실패 - data/source_status.json에서 어느 소스인지 확인하세요. (성공한 소스의 데이터는 이미 커밋됨)"
+          exit 1
