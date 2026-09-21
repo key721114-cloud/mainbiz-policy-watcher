@@ -29,7 +29,7 @@ USER_AGENT = "Mozilla/5.0 (compatible; MainbizPolicyWatcher/1.0)"
 
 
 class JsonApiCrawler(Adapter):
-    def __init__(self, target: CrawlTarget, timeout: int = 20):
+    def __init__(self, target: CrawlTarget, timeout: int = 30):
         self.target = target
         self.source = target.id.upper()
         self.source_name = target.name

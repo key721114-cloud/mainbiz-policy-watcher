@@ -32,7 +32,7 @@ class KStartupAdapter(Adapter):
         per_page: int = 100,
         max_pages: int = 20,
         lookback_days: int = 60,
-        timeout: int = 15,
+        timeout: int = 30,
     ):
         self.service_key = service_key
         self.per_page = per_page

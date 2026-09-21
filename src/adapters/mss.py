@@ -20,7 +20,7 @@ class MSSAdapter(Adapter):
     source = "MSS"
     source_name = "중소벤처기업부"
 
-    def __init__(self, service_key: str, num_of_rows: int = 100, max_pages: int = 30, timeout: int = 15):
+    def __init__(self, service_key: str, num_of_rows: int = 100, max_pages: int = 30, timeout: int = 30):
         self.service_key = service_key
         self.num_of_rows = num_of_rows
         self.max_pages = max_pages

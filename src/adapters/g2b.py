@@ -44,7 +44,7 @@ class G2BAdapter(Adapter):
         lookback_days: int = 21,
         num_of_rows: int = 100,
         max_pages_per_call: int = 10,
-        timeout: int = 15,
+        timeout: int = 30,
     ):
         self.service_key = service_key
         self.keywords = keywords

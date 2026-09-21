@@ -23,7 +23,7 @@ class BizinfoAdapter(Adapter):
     source = "BIZINFO"
     source_name = "기업마당"
 
-    def __init__(self, crtfc_key: str, page_unit: int = 100, max_pages: int = 30, timeout: int = 15):
+    def __init__(self, crtfc_key: str, page_unit: int = 100, max_pages: int = 30, timeout: int = 30):
         self.crtfc_key = crtfc_key
         self.page_unit = page_unit
         self.max_pages = max_pages
