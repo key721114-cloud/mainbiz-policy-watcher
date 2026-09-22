@@ -1,0 +1,16 @@
+# Vercel은 index.html + data/*.json만 정적으로 서빙하면 된다.
+# 수집 파이프라인(파이썬)은 GitHub Actions에서만 돌아가고 Vercel 빌드에는
+# 필요 없다 - requirements.txt가 배포에 포함되면 Vercel이 Python 런타임으로
+# 오인해 진입점을 찾다가 빌드가 실패한다(실제로 겪음).
+requirements.txt
+src/
+scripts/
+crawl_targets.yaml
+crawl_targets.csv
+keywords.env
+.github/
+CLAUDE.md
+정부지원사업 모니터링 PRD.md
+data/raw_api.json
+data/raw_crawl.json
+data/status/
