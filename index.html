@@ -375,37 +375,55 @@
     source: "",
     sort: "deadline",
     hideDup: true,
-    ministryFilter: "", // "" | "산업부" | "중기부" | "산하기관"
+    ministryFilter: "", // "" | "산업부" | "중기부" | 산하기관 개별 키(예: "KIAT")
   };
 
   // 소스 자체가 특정 기관 하나로 고정된 크롤링 대상은 이걸로 바로 분류한다.
   // (API 소스 중 기업마당·나라장터는 공고마다 소관기관이 제각각이라 org 텍스트로 판별)
+  // agencyKey: 산하기관 세분화 필터에서 쓰는 짧은 식별자 (본부 부처 자체 공고는 null)
   var MINISTRY_BY_SOURCE = {
-    MOTIE: { ministry: "산업부", agency: false },
-    KIAT: { ministry: "산업부", agency: true },
-    KOTRA: { ministry: "산업부", agency: true },
-    KEIT: { ministry: "산업부", agency: true },
-    KETEP: { ministry: "산업부", agency: true },
-    MSS: { ministry: "중기부", agency: false },
-    KSTARTUP: { ministry: "중기부", agency: true },
-    SEMAS: { ministry: "중기부", agency: true },
-    KOSMES: { ministry: "중기부", agency: true },
-    TIPA_SMARTFACTORY: { ministry: "중기부", agency: true },
+    MOTIE: { ministry: "산업부", agency: false, agencyKey: null },
+    KIAT: { ministry: "산업부", agency: true, agencyKey: "KIAT" },
+    KOTRA: { ministry: "산업부", agency: true, agencyKey: "KOTRA" },
+    KEIT: { ministry: "산업부", agency: true, agencyKey: "KEIT" },
+    KETEP: { ministry: "산업부", agency: true, agencyKey: "KETEP" },
+    MSS: { ministry: "중기부", agency: false, agencyKey: null },
+    KSTARTUP: { ministry: "중기부", agency: true, agencyKey: "K-Startup" },
+    SEMAS: { ministry: "중기부", agency: true, agencyKey: "소진공" },
+    KOSMES: { ministry: "중기부", agency: true, agencyKey: "KOSMES" },
+    TIPA_SMARTFACTORY: { ministry: "중기부", agency: true, agencyKey: "TIPA" },
   };
-  var INDUSTRY_ORG_HINTS = ["산업통상부", "한국산업기술진흥원", "대한무역투자진흥공사", "한국산업기술기획평가원", "한국에너지기술평가원"];
-  var SME_ORG_HINTS = ["중소벤처기업부", "창업진흥원", "소상공인시장진흥공단", "중소벤처기업진흥공단", "중소기업기술정보진흥원"];
+  // org 텍스트로 판별해야 하는 경우(기업마당·나라장터) 힌트 문자열 -> 산하기관 키 매핑.
+  // 배열 순서가 매칭 우선순위 (더 구체적인 기관명을 부처명보다 먼저 검사)
+  var INDUSTRY_ORG_HINTS = [
+    { hint: "한국산업기술진흥원", key: "KIAT" },
+    { hint: "대한무역투자진흥공사", key: "KOTRA" },
+    { hint: "한국산업기술기획평가원", key: "KEIT" },
+    { hint: "한국에너지기술평가원", key: "KETEP" },
+    { hint: "산업통상부", key: null },
+  ];
+  var SME_ORG_HINTS = [
+    { hint: "창업진흥원", key: "K-Startup" },
+    { hint: "소상공인시장진흥공단", key: "소진공" },
+    { hint: "중소벤처기업진흥공단", key: "KOSMES" },
+    { hint: "중소기업기술정보진흥원", key: "TIPA" },
+    { hint: "중소벤처기업부", key: null },
+  ];
+  var AGENCY_ORDER = ["KIAT", "KOTRA", "KEIT", "KETEP", "K-Startup", "소진공", "KOSMES", "TIPA"];
 
   function classifyMinistry(item) {
     var direct = MINISTRY_BY_SOURCE[item.source];
     if (direct) return direct;
     var org = item.org || "";
-    if (org.indexOf("산업통상부") !== -1 || INDUSTRY_ORG_HINTS.some(function (h) { return org.indexOf(h) !== -1; })) {
-      return { ministry: "산업부", agency: org.indexOf("산업통상부") === -1 };
+    var industryHit = INDUSTRY_ORG_HINTS.find(function (h) { return org.indexOf(h.hint) !== -1; });
+    if (industryHit) {
+      return { ministry: "산업부", agency: !!industryHit.key, agencyKey: industryHit.key };
     }
-    if (org.indexOf("중소벤처기업부") !== -1 || SME_ORG_HINTS.some(function (h) { return org.indexOf(h) !== -1; })) {
-      return { ministry: "중기부", agency: org.indexOf("중소벤처기업부") === -1 };
+    var smeHit = SME_ORG_HINTS.find(function (h) { return org.indexOf(h.hint) !== -1; });
+    if (smeHit) {
+      return { ministry: "중기부", agency: !!smeHit.key, agencyKey: smeHit.key };
     }
-    return { ministry: null, agency: false };
+    return { ministry: null, agency: false, agencyKey: null };
   }
 
   function el(tag, cls, text) {
@@ -469,7 +487,7 @@
       if (q && it.title.toLowerCase().indexOf(q) === -1) return false;
       if (state.ministryFilter === "산업부" && it._ministry.ministry !== "산업부") return false;
       if (state.ministryFilter === "중기부" && it._ministry.ministry !== "중기부") return false;
-      if (state.ministryFilter === "산하기관" && !it._ministry.agency) return false;
+      if (AGENCY_ORDER.indexOf(state.ministryFilter) !== -1 && it._ministry.agencyKey !== state.ministryFilter) return false;
       return true;
     });
 
@@ -533,11 +551,12 @@
   }
 
   function buildMinistryRow() {
-    var counts = { 산업부: 0, 중기부: 0, 산하기관: 0 };
+    var counts = { 산업부: 0, 중기부: 0 };
+    AGENCY_ORDER.forEach(function (key) { counts[key] = 0; });
     state.items.forEach(function (it) {
       if (it._ministry.ministry === "산업부") counts["산업부"]++;
       if (it._ministry.ministry === "중기부") counts["중기부"]++;
-      if (it._ministry.agency) counts["산하기관"]++;
+      if (it._ministry.agencyKey) counts[it._ministry.agencyKey]++;
     });
 
     var row = document.getElementById("mnRow");
@@ -550,17 +569,21 @@
     });
     row.appendChild(allChip);
 
-    ["산업부", "중기부", "산하기관"].forEach(function (label) {
-      var chip = el("span", "kw-chip" + (state.ministryFilter === label ? " active" : ""));
+    function addChip(label, key) {
+      var chip = el("span", "kw-chip" + (state.ministryFilter === key ? " active" : ""));
       chip.appendChild(document.createTextNode(label));
-      chip.appendChild(el("span", "n", String(counts[label])));
+      chip.appendChild(el("span", "n", String(counts[key])));
       chip.addEventListener("click", function () {
-        state.ministryFilter = state.ministryFilter === label ? "" : label;
+        state.ministryFilter = state.ministryFilter === key ? "" : key;
         refreshMinistryChips();
         render();
       });
       row.appendChild(chip);
-    });
+    }
+
+    addChip("산업부", "산업부");
+    addChip("중기부", "중기부");
+    AGENCY_ORDER.forEach(function (key) { addChip(key, key); });
   }
 
   function refreshMinistryChips() {
