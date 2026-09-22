@@ -22,6 +22,10 @@
     --warn-soft: #faf0dd;
     --dup: #9b9a90;
     --link: #2f5c4a;
+    --industry: #2a5f8f;
+    --industry-soft: #e4eef7;
+    --sme: #7a4b9e;
+    --sme-soft: #f0e7f7;
     --shadow: 0 1px 2px rgba(20, 20, 15, 0.05), 0 1px 8px rgba(20, 20, 15, 0.04);
     --radius: 10px;
     padding-top: env(safe-area-inset-top, 0px);
@@ -44,6 +48,10 @@
       --warn-soft: #2f2718;
       --dup: #77766b;
       --link: #8fcaa9;
+      --industry: #7fb2e0;
+      --industry-soft: #1c2d3d;
+      --sme: #c9a3e0;
+      --sme-soft: #2c2035;
       --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 8px rgba(0, 0, 0, 0.25);
     }
   }
@@ -63,6 +71,10 @@
     --warn-soft: #2f2718;
     --dup: #77766b;
     --link: #8fcaa9;
+    --industry: #7fb2e0;
+    --industry-soft: #1c2d3d;
+    --sme: #c9a3e0;
+    --sme-soft: #2c2035;
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 8px rgba(0, 0, 0, 0.25);
   }
 
@@ -161,12 +173,13 @@
   .toggle-chip input { accent-color: var(--accent); }
   .toggle-chip.active { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
 
-  .kw-row {
+  .kw-row, .mn-row {
     display: flex;
     flex-wrap: wrap;
     gap: 6px;
-    margin-bottom: 16px;
+    margin-bottom: 10px;
   }
+  .kw-row { margin-bottom: 16px; }
   .kw-chip {
     font-size: 12.5px;
     padding: 5px 11px;
@@ -196,12 +209,12 @@
   .card.is-dup { opacity: 0.55; }
   .card-top {
     display: flex;
-    justify-content: space-between;
     align-items: flex-start;
-    gap: 10px;
+    gap: 8px;
     margin-bottom: 6px;
   }
   .card-title {
+    flex: 1 1 auto;
     font-size: 15px;
     font-weight: 600;
     line-height: 1.4;
@@ -210,6 +223,18 @@
   }
   .card-title:hover { color: var(--link); text-decoration: underline; }
   .card-title .ext { font-size: 12px; color: var(--text-faint); font-weight: 400; margin-left: 4px; }
+
+  .ministry-badge {
+    flex: none;
+    font-size: 11.5px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 6px;
+    white-space: nowrap;
+    margin-top: 1px;
+  }
+  .ministry-badge.industry { background: var(--industry-soft); color: var(--industry); }
+  .ministry-badge.sme { background: var(--sme-soft); color: var(--sme); }
 
   .dday {
     flex: none;
@@ -324,6 +349,7 @@
     </label>
   </div>
 
+  <div class="mn-row" id="mnRow"></div>
   <div class="kw-row" id="kwRow"></div>
 
   <div class="result-count" id="resultCount"></div>
@@ -350,7 +376,38 @@
     source: "",
     sort: "deadline",
     hideDup: true,
+    ministryFilter: "", // "" | "산업부" | "중기부" | "산하기관"
   };
+
+  // 소스 자체가 특정 기관 하나로 고정된 크롤링 대상은 이걸로 바로 분류한다.
+  // (API 소스 중 기업마당·나라장터는 공고마다 소관기관이 제각각이라 org 텍스트로 판별)
+  var MINISTRY_BY_SOURCE = {
+    MOTIE: { ministry: "산업부", agency: false },
+    KIAT: { ministry: "산업부", agency: true },
+    KOTRA: { ministry: "산업부", agency: true },
+    KEIT: { ministry: "산업부", agency: true },
+    KETEP: { ministry: "산업부", agency: true },
+    MSS: { ministry: "중기부", agency: false },
+    KSTARTUP: { ministry: "중기부", agency: true },
+    SEMAS: { ministry: "중기부", agency: true },
+    KOSMES: { ministry: "중기부", agency: true },
+    TIPA_SMARTFACTORY: { ministry: "중기부", agency: true },
+  };
+  var INDUSTRY_ORG_HINTS = ["산업통상부", "한국산업기술진흥원", "대한무역투자진흥공사", "한국산업기술기획평가원", "한국에너지기술평가원"];
+  var SME_ORG_HINTS = ["중소벤처기업부", "창업진흥원", "소상공인시장진흥공단", "중소벤처기업진흥공단", "중소기업기술정보진흥원"];
+
+  function classifyMinistry(item) {
+    var direct = MINISTRY_BY_SOURCE[item.source];
+    if (direct) return direct;
+    var org = item.org || "";
+    if (org.indexOf("산업통상부") !== -1 || INDUSTRY_ORG_HINTS.some(function (h) { return org.indexOf(h) !== -1; })) {
+      return { ministry: "산업부", agency: org.indexOf("산업통상부") === -1 };
+    }
+    if (org.indexOf("중소벤처기업부") !== -1 || SME_ORG_HINTS.some(function (h) { return org.indexOf(h) !== -1; })) {
+      return { ministry: "중기부", agency: org.indexOf("중소벤처기업부") === -1 };
+    }
+    return { ministry: null, agency: false };
+  }
 
   function el(tag, cls, text) {
     var e = document.createElement(tag);
@@ -411,6 +468,9 @@
       if (state.source && it.source_name !== state.source) return false;
       if (state.activeKeyword && (it.matched_keywords || []).indexOf(state.activeKeyword) === -1) return false;
       if (q && it.title.toLowerCase().indexOf(q) === -1) return false;
+      if (state.ministryFilter === "산업부" && it._ministry.ministry !== "산업부") return false;
+      if (state.ministryFilter === "중기부" && it._ministry.ministry !== "중기부") return false;
+      if (state.ministryFilter === "산하기관" && !it._ministry.agency) return false;
       return true;
     });
 
@@ -437,6 +497,11 @@
       var card = el("div", "card" + (it.is_duplicate ? " is-dup" : ""));
 
       var top = el("div", "card-top");
+      if (it._ministry.ministry === "산업부") {
+        top.appendChild(el("span", "ministry-badge industry", "산업부"));
+      } else if (it._ministry.ministry === "중기부") {
+        top.appendChild(el("span", "ministry-badge sme", "중기부"));
+      }
       var a = document.createElement("a");
       a.className = "card-title";
       a.href = it.url || "#";
@@ -468,6 +533,46 @@
     });
   }
 
+  function buildMinistryRow() {
+    var counts = { 산업부: 0, 중기부: 0, 산하기관: 0 };
+    state.items.forEach(function (it) {
+      if (it._ministry.ministry === "산업부") counts["산업부"]++;
+      if (it._ministry.ministry === "중기부") counts["중기부"]++;
+      if (it._ministry.agency) counts["산하기관"]++;
+    });
+
+    var row = document.getElementById("mnRow");
+    row.innerHTML = "";
+    var allChip = el("span", "kw-chip" + (state.ministryFilter === "" ? " active" : ""), "전체");
+    allChip.addEventListener("click", function () {
+      state.ministryFilter = "";
+      refreshMinistryChips();
+      render();
+    });
+    row.appendChild(allChip);
+
+    ["산업부", "중기부", "산하기관"].forEach(function (label) {
+      var chip = el("span", "kw-chip" + (state.ministryFilter === label ? " active" : ""));
+      chip.appendChild(document.createTextNode(label));
+      chip.appendChild(el("span", "n", String(counts[label])));
+      chip.addEventListener("click", function () {
+        state.ministryFilter = state.ministryFilter === label ? "" : label;
+        refreshMinistryChips();
+        render();
+      });
+      row.appendChild(chip);
+    });
+  }
+
+  function refreshMinistryChips() {
+    document.querySelectorAll("#mnRow .kw-chip").forEach(function (c) {
+      var isAll = c.textContent.trim() === "전체";
+      var label = c.firstChild ? c.firstChild.textContent : "";
+      var shouldBeActive = (isAll && state.ministryFilter === "") || (!isAll && label === state.ministryFilter);
+      c.classList.toggle("active", shouldBeActive);
+    });
+  }
+
   function buildKeywordRow() {
     var counts = {};
     state.items.forEach(function (it) {
@@ -493,8 +598,8 @@
   }
 
   function refreshChips() {
-    document.querySelectorAll(".kw-chip").forEach(function (c) { c.classList.remove("active"); });
-    var chips = document.querySelectorAll(".kw-chip");
+    var chips = document.querySelectorAll("#kwRow .kw-chip");
+    chips.forEach(function (c) { c.classList.remove("active"); });
     chips.forEach(function (c) {
       var isAll = c.textContent.trim() === "전체";
       if ((isAll && state.activeKeyword === "") || (!isAll && c.firstChild && c.firstChild.textContent === state.activeKeyword)) {
@@ -573,6 +678,7 @@
       })
       .then(function (data) {
         state.items = data.items || [];
+        state.items.forEach(function (it) { it._ministry = classifyMinistry(it); });
         var sub = document.getElementById("headerSub");
         sub.innerHTML = "";
         var b1 = el("b", null, String(data.count));
@@ -581,6 +687,7 @@
         sub.appendChild(document.createTextNode("건 · 마지막 갱신 "));
         sub.appendChild(el("b", null, fmtDateTime(data.generated_at)));
 
+        buildMinistryRow();
         buildKeywordRow();
         buildSourceSelect();
         render();
