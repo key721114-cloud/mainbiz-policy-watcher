@@ -206,7 +206,6 @@
     padding: 14px 16px;
     box-shadow: var(--shadow);
   }
-  .card.is-dup { opacity: 0.55; }
   .card-top {
     display: flex;
     align-items: flex-start;
@@ -494,7 +493,7 @@
     document.getElementById("emptyState").hidden = filtered.length > 0;
 
     filtered.forEach(function (it) {
-      var card = el("div", "card" + (it.is_duplicate ? " is-dup" : ""));
+      var card = el("div", "card");
 
       var top = el("div", "card-top");
       if (it._ministry.ministry === "산업부") {
