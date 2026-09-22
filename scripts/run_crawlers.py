@@ -46,7 +46,7 @@ def main() -> int:
             summary.append((label, "SKIP", 0, "비활성화"))
             continue
         try:
-            crawler = build_crawler(target)
+            crawler = build_crawler(target, keywords=keywords)
             items = crawler.fetch()
             all_results.extend(items)
             print(f"[OK]   {label}: {len(items)}건")

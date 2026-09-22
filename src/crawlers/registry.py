@@ -29,9 +29,9 @@ def _lazy_import():
     )
 
 
-def build_crawler(target: CrawlTarget) -> Adapter:
+def build_crawler(target: CrawlTarget, keywords: list[str] | None = None) -> Adapter:
     _lazy_import()
     cls = _DRIVERS.get(target.driver)
     if cls is None:
         raise ValueError(f"알 수 없는 driver: {target.driver} (target={target.id})")
-    return cls(target)
+    return cls(target, keywords=keywords)

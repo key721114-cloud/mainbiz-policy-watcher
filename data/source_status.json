@@ -33,66 +33,66 @@
   },
   "motie(산업통상부(본체))": {
     "track": "crawl",
-    "last_run_at": "2026-09-22T08:43:03+09:00",
+    "last_run_at": "2026-09-22T09:47:28+09:00",
     "last_status": "OK",
-    "last_count": 30,
-    "last_success_at": "2026-09-22T08:43:03+09:00",
+    "last_count": 44,
+    "last_success_at": "2026-09-22T09:47:28+09:00",
     "last_error": ""
   },
   "kiat(한국산업기술진흥원(KIAT))": {
     "track": "crawl",
-    "last_run_at": "2026-09-22T08:43:03+09:00",
+    "last_run_at": "2026-09-22T09:47:28+09:00",
     "last_status": "OK",
-    "last_count": 30,
-    "last_success_at": "2026-09-22T08:43:03+09:00",
+    "last_count": 57,
+    "last_success_at": "2026-09-22T09:47:28+09:00",
     "last_error": ""
   },
   "kotra(대한무역투자진흥공사(KOTRA))": {
     "track": "crawl",
-    "last_run_at": "2026-09-22T08:43:03+09:00",
+    "last_run_at": "2026-09-22T09:47:28+09:00",
     "last_status": "OK",
-    "last_count": 10,
-    "last_success_at": "2026-09-22T08:43:03+09:00",
+    "last_count": 50,
+    "last_success_at": "2026-09-22T09:47:28+09:00",
     "last_error": ""
   },
   "keit(한국산업기술기획평가원(KEIT))": {
     "track": "crawl",
-    "last_run_at": "2026-09-22T08:43:03+09:00",
+    "last_run_at": "2026-09-22T09:47:28+09:00",
     "last_status": "OK",
-    "last_count": 30,
-    "last_success_at": "2026-09-22T08:43:03+09:00",
+    "last_count": 2,
+    "last_success_at": "2026-09-22T09:47:28+09:00",
     "last_error": ""
   },
   "ketep(한국에너지기술평가원(KETEP))": {
     "track": "crawl",
-    "last_run_at": "2026-09-22T08:43:03+09:00",
+    "last_run_at": "2026-09-22T09:47:28+09:00",
     "last_status": "OK",
-    "last_count": 30,
-    "last_success_at": "2026-09-22T08:43:03+09:00",
+    "last_count": 0,
+    "last_success_at": "2026-09-22T09:47:28+09:00",
     "last_error": ""
   },
   "semas(소상공인시장진흥공단(소진공))": {
     "track": "crawl",
-    "last_run_at": "2026-09-22T08:43:03+09:00",
+    "last_run_at": "2026-09-22T09:47:28+09:00",
     "last_status": "OK",
-    "last_count": 15,
-    "last_success_at": "2026-09-22T08:43:03+09:00",
+    "last_count": 43,
+    "last_success_at": "2026-09-22T09:47:28+09:00",
     "last_error": ""
   },
   "kosmes(중소벤처기업진흥공단(KOSMES))": {
     "track": "crawl",
-    "last_run_at": "2026-09-22T08:43:03+09:00",
+    "last_run_at": "2026-09-22T09:47:28+09:00",
     "last_status": "OK",
-    "last_count": 28,
-    "last_success_at": "2026-09-22T08:43:03+09:00",
+    "last_count": 1,
+    "last_success_at": "2026-09-22T09:47:28+09:00",
     "last_error": ""
   },
   "tipa_smartfactory(중소기업기술정보진흥원(TIPA)-스마트공장 모집공고)": {
     "track": "crawl",
-    "last_run_at": "2026-09-22T08:43:03+09:00",
+    "last_run_at": "2026-09-22T09:47:28+09:00",
     "last_status": "OK",
-    "last_count": 29,
-    "last_success_at": "2026-09-22T08:43:03+09:00",
+    "last_count": 60,
+    "last_success_at": "2026-09-22T09:47:28+09:00",
     "last_error": ""
   }
 }

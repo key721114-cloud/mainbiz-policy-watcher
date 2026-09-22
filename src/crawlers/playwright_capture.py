@@ -26,11 +26,12 @@ from crawlers.json_extract import get_items, items_to_announcements
 
 
 class PlaywrightCaptureCrawler(Adapter):
-    def __init__(self, target: CrawlTarget):
+    def __init__(self, target: CrawlTarget, keywords: list[str] | None = None):
         self.target = target
         self.source = target.id.upper()
         self.source_name = target.name
         self.cfg = target.raw["list"]
+        self.keywords = keywords or []
 
     def fetch(self) -> list[Announcement]:
         from playwright.sync_api import sync_playwright

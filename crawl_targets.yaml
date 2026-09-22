@@ -29,6 +29,13 @@
     pagination:
       param: pageIndex
       max_pages: 3
+    # 2026-09-22 확인: 이 사이트 자체 검색(제목 검색)이 실제로 동작함(전체 3,498건 중
+    # 21건으로 정확히 필터링되는 것까지 확인) - "최신 30건"만 보면 몇 달 전에 올라온
+    # 키워드 매칭 공고를 통째로 놓친다(실제로 "바우처" 공고를 이렇게 놓쳤었음).
+    keyword_search:
+      keyword_param: searchKeyword
+      extra: {searchCondition: 1}  # 1 = 제목 검색
+      max_pages: 3
     row_selector: "div.board-tbl.board-list table tbody tr"
     fields:
       title:
@@ -64,6 +71,11 @@
     pagination:
       param: miv_pageNo
       max_pages: 3
+    # 2026-09-22 확인: searchtxt로 실제 제목 검색됨(전체 2,607건 중 "바우처" 10건대로
+    # 정확히 필터링, 2016~2022년치 오래된 공고까지 잡힘 - "최신 30건"으로는 불가능).
+    keyword_search:
+      keyword_param: searchtxt
+      max_pages: 3
     row_selector: "tbody tr"
     fields:
       title:
@@ -94,14 +106,19 @@
     url: "https://www.kotra.or.kr/module/subhome/bizAply/selectBmBizAllListAjax.do"
     method: POST
     params:
-      pageSize: 10
-      listCount: 10
+      pageSize: 50
+      listCount: 50
       query: "+"
       collection: business_application
+      sch_biz_name: ""
       sch_nation_cd: "Y"
+    # 2026-09-22 확인: sch_biz_name/schwrdVal/query 어느 것도 실제로 제목을 필터링하지
+    # 않음(이미 존재하는 제목으로 검색해도 0건) - 이 엔드포인트는 서버단 키워드 검색을
+    # 지원하지 않는 것으로 판단. 대신 전체 사업 수(173건 안팎) 자체가 크지 않으니
+    # pageSize/페이지 수를 늘려 거의 전량을 가져오는 방식으로 대응.
     pagination:
       params: [pageNo, pageNo2, pageNoA]
-      max_pages: 3
+      max_pages: 5
     row_selector: "div.card"
     fields:
       title:
@@ -130,6 +147,12 @@
       prgmId: XPG201040000
     pagination:
       param: pageIndex
+      max_pages: 3
+    # 2026-09-22 확인: srchGubun=ancmTl(제목검색) + srchKwd로 실제 필터링됨(전체 718건 중
+    # "로봇" 33건으로 정확히 걸러짐, 2025년치까지 잡힘).
+    keyword_search:
+      keyword_param: srchKwd
+      extra: {srchGubun: ancmTl}
       max_pages: 3
     row_selector: "#assignment-notice_list div.table_box_wrap"
     fields:
@@ -163,6 +186,11 @@
     pagination:
       param: pageNum
       max_pages: 3
+    # 2026-09-22 확인: ancm_nm으로 실제 제목 검색됨(전체 501건 중 "탄소" 관련 정확히
+    # 필터링, 2022년치까지 잡힘).
+    keyword_search:
+      keyword_param: ancm_nm
+      max_pages: 3
     row_selector: "table.tstyle_list tbody tr"
     fields:
       title:
@@ -189,6 +217,12 @@
     pagination:
       param: page
       max_pages: 3
+    # 2026-09-22 확인: schCon=1(제목검색) + schStr로 실제 필터링됨(전체 538건 중
+    # "바우처" 3건으로 정확히 걸러짐).
+    keyword_search:
+      keyword_param: schStr
+      extra: {schCon: 1}
+      max_pages: 3
     # 한 행 전체가 <a class="aconbox">라서 detail_url은 selector: self 로 행 자기 자신을 사용.
     row_selector: "a.aconbox"
     fields:
@@ -212,6 +246,7 @@
     # 2026-09-21 확인: 알림광장>공지사항(SHNTS001M0.do)이 사실상 KOSMES 통합 공고판.
     # activatedTab=01을 안 보내면 rowMax=0(빈 결과)이 돌아오니 반드시 포함해야 함.
     url: "https://www.kosmes.or.kr/sh/nts/notice_list.json"
+    warmup_url: "https://www.kosmes.or.kr/nsh/SH/NTS/SHNTS001M0.do"
     method: POST
     request_format: form
     body:
@@ -222,6 +257,13 @@
       activatedTab: "01"
     pagination:
       param: nowPage
+      max_pages: 3
+    # 2026-09-22 확인: searchG=title(제목검색) + searchT + code=""(필수, 없으면 서버가
+    # 검색을 무시하고 비필터 전체를 돌려줌)로 실제 필터링됨(전체 45건 중 "지원" 13건으로
+    # 정확히 걸러짐).
+    keyword_search:
+      keyword_param: searchT
+      extra: {searchG: title, code: ""}
       max_pages: 3
     items_path: ds_infoList
     fields:
@@ -258,6 +300,11 @@
       ordrSe: REG
     pagination:
       param: currentPage
+      max_pages: 3
+    # 2026-09-22 확인: rcrtPbancNm(원래도 있던 body 필드)에 키워드를 넣으면 실제
+    # 제목 검색됨(전체 177건 중 "지원" 39건으로 정확히 걸러짐).
+    keyword_search:
+      keyword_param: rcrtPbancNm
       max_pages: 3
     items_path: rcrtPbancList
     fields:

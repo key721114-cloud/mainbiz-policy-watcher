@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T09:33:02+09:00",
-  "count": 205,
+  "generated_at": "2026-09-22T09:47:28+09:00",
+  "count": 394,
   "items": [
     {
       "source": "MSS",
@@ -3560,13 +3560,2787 @@
       "collected_at": "2026-09-22T03:09:52+09:00"
     },
     {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2019 지역기업-청년 희망이음지원 사업 주관기관 추가 선정 공고",
+      "org": "지역경제총괄과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65311/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2019 지역기업-청년 희망이음지원 사업 주관기관 추가 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2019 지역기업-청년 희망이음 지원사업 주관기관 선정 공고",
+      "org": "지역경제총괄과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65235/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2019 지역기업-청년 희망이음 지원사업 주관기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 재공고",
+      "org": "섬유세라믹과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64870/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 재공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 공고",
+      "org": "섬유세라믹과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64790/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2018년 민군겸용기술개발사업 주관기관 선정계획 공고",
+      "org": "기계로봇과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64727/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2018년 민군겸용기술개발사업 주관기관 선정계획 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2016년 섬유패션활성화사업 및 K-패션토탈비즈니스 활성화 사업 주관기관 선정 공고",
+      "org": "섬유세라믹과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63434/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2016년 섬유패션활성화사업 및 K-패션토탈비즈니스 활성화 사업 주관기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "K-패션토탈비즈니스활성화사업 주관기관 선정공고",
+      "org": "섬유세라믹과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63197/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-K-패션토탈비즈니스활성화사업 주관기관 선정공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "섬유패션기술력향상사업 주관기관 선정공고",
+      "org": "섬유세라믹과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62884/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-섬유패션기술력향상사업 주관기관 선정공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2014년도 에너지기술개발사업 신규지원 대상과제 공고(3차)(혁신기술프로그램 주관기관 유형 수정)",
+      "org": "에너지기술과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62695/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2014년도 에너지기술개발사업 신규지원 대상과제 공고(3차)(혁신기술프로그램 주관기관 유형 수정)",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "엔지니어링 해외인재 유치사업 주관기관 선정 공고",
+      "org": "창의산업정책과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62640/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-엔지니어링 해외인재 유치사업 주관기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "FTA활용 전문인력양성사업 운영기관 모집공고",
+      "org": "국내대책과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68063/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-FTA활용 전문인력양성사업 운영기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2017년도 국제기술교류회 운영기관 선정 공고",
+      "org": "산업기술개발과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64191/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2017년도 국제기술교류회 운영기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "국제기술교류지원사업 운영기관 선정 공고",
+      "org": "산업기술개발과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63805/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-국제기술교류지원사업 운영기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2016년도 「FTA 활용 전문 인력 양성사업」운영기관 공고",
+      "org": "총괄기획과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63693/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2016년도 「FTA 활용 전문 인력 양성사업」운영기관 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2015년 FTA 전문 컨설턴트 양성사업 운영기관 공모",
+      "org": "총괄기획과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62980/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2015년 FTA 전문 컨설턴트 양성사업 운영기관 공모",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "국제기술교류회 운영기관 선정 공고",
+      "org": "산업기술개발과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62685/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-국제기술교류회 운영기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:06+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "지역산업위기대응 맞춤형지원사업 충남 당진시 수행기관 선정 공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/71164/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-지역산업위기대응 맞춤형지원사업 충남 당진시 수행기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "지역산업위기대응 맞춤형지원사업 울산광역시 남구 수행기관 선정 공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/71163/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-지역산업위기대응 맞춤형지원사업 울산광역시 남구 수행기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2026년도「해외기술도입지원기관」사업  신규 수행기관 선정 공고",
+      "org": "산업기술시장과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70893/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2026년도「해외기술도입지원기관」사업  신규 수행기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "지역산업위기대응 맞춤형지원사업 전남 광양시 수행기관 모집공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70733/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-지역산업위기대응 맞춤형지원사업 전남 광양시 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2025년도「해외기술도입지원기관」사업 신규 수행기관 선정 공고",
+      "org": "산업기술개발과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70536/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2025년도「해외기술도입지원기관」사업 신규 수행기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "「지역산업위기대응 맞춤형 지원사업」 충남 서산시 수행기관 모집 공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70519/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-「지역산업위기대응 맞춤형 지원사업」 충남 서산시 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "「지역산업위기대응 맞춤형 지원사업」 경북 포항시 수행기관 모집 공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70518/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-「지역산업위기대응 맞춤형 지원사업」 경북 포항시 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2025년도 탄소중립산단 대표모델 구축사업 수행기관 모집 공고",
+      "org": "입지총괄과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70442/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2025년도 탄소중립산단 대표모델 구축사업 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "「지역산업위기대응 맞춤형 지원사업」 전남 여수시 수행기관 모집 공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70440/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-「지역산업위기대응 맞춤형 지원사업」 전남 여수시 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고(안)",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70021/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고(안)",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고(안)",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70020/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고(안)",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/69937/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "코리아세일페스타 사업 수행기관(보조사업자) 모집 공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/69936/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-코리아세일페스타 사업 수행기관(보조사업자) 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2023년도 전사적 DX촉진 기술개발 컨설팅 수행기관 모집 공고",
+      "org": "산업기술시장혁신과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68357/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2023년도 전사적 DX촉진 기술개발 컨설팅 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68290/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "유통산업 실태조사 사업 수행기관(보조사업자) 모집 재공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68289/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-유통산업 실태조사 사업 수행기관(보조사업자) 모집 재공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 재공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68288/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 재공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68286/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "유통산업 실태조사 사업 수행기관(보조사업자) 모집 공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68183/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-유통산업 실태조사 사업 수행기관(보조사업자) 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68182/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2022년도 산업맞춤형 전문기술인력양성사업 수행기관 모집공고",
+      "org": "소재부품장비시장지원과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67401/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2022년도 산업맞춤형 전문기술인력양성사업 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2022년도 사업재편 이행전략 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+      "org": "산업정책과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67396/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2022년도 사업재편 이행전략 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2022년도 디지털통상 전문인력양성 사업 수행기관(보조사업자) 모집",
+      "org": "디지털경제통상과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67358/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2022년도 디지털통상 전문인력양성 사업 수행기관(보조사업자) 모집",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2022년 디지털 뿌리 명장 교육센터 수행기관 모집 공고",
+      "org": "소재부품장비총괄과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67244/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2022년 디지털 뿌리 명장 교육센터 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2021년도 사업재편 연계 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+      "org": "산업정책과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66799/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2021년도 사업재편 연계 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2021년 풀필먼트 구축 시범사업 수행기관 공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66755/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2021년 풀필먼트 구축 시범사업 수행기관 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2021년 「신뢰성기반활용지원사업」 수행기관 모집 공고",
+      "org": "소재부품장비시장지원과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66723/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2021년 「신뢰성기반활용지원사업」 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2021년도 산업맞춤형 전문기술인력양성(재직자 맞춤형 기술교육) 사업 수행기관 모집 공고",
+      "org": "소재부품장비총괄과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66563/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2021년도 산업맞춤형 전문기술인력양성(재직자 맞춤형 기술교육) 사업 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:07+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2021년도 월드클래스플러스사업 IP 전략수립 주관기관 선정 및 신규 지원기관 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2021-01-28~2021-03-04",
+      "period_start": "2021-01-28",
+      "period_end": "2021-03-04",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=77130",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-77130",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:09+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2020년도 중견기업 핵심연구인력 성장지원사업 주관기관 선정 시행계획",
+      "org": "한국산업기술진흥원",
+      "period_text": "2020-03-16~2020-03-27",
+      "period_start": "2020-03-16",
+      "period_end": "2020-03-27",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=75258",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-75258",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:09+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2020년도 중견기업 핵심연구인력 성장지원사업 주관기관 선정 시행계획 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2020-03-16~2020-03-27",
+      "period_start": "2020-03-16",
+      "period_end": "2020-03-27",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=75159",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-75159",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:09+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "지역기업-청년 희망이음 지원사업 주관기관 선정 추가 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2019-03-29~2019-04-17",
+      "period_start": "2019-03-29",
+      "period_end": "2019-04-17",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=72504",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-72504",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:09+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2019년 지역기업-청년희망이음 지원사업(희망이음프로젝트) 주관기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2019-02-18~2019-03-19",
+      "period_start": "2019-02-18",
+      "period_end": "2019-03-19",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=72297",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-72297",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:09+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2019년 「섬유패션산업활성화기반마련」내 ‘개인맞춤형 의류 생산역량강화’ 주관기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2019-01-30~2019-02-28",
+      "period_start": "2019-01-30",
+      "period_end": "2019-02-28",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=72252",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-72252",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:09+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2019년 「섬유패션산업활성화기반마련」 주관기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2019-01-14~2019-02-12",
+      "period_start": "2019-01-14",
+      "period_end": "2019-02-12",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=72152",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-72152",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:09+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2015년 특화산업 공정혁신지원 및 스마트공장 확산사업 시행계획 공고(주관기관 모집)",
+      "org": "한국산업기술진흥원",
+      "period_text": "2015-08-03~2015-08-21",
+      "period_start": "2015-08-03",
+      "period_end": "2015-08-21",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=45768",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-45768",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:09+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "「엔지니어링 해외인재 유치사업」주관기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2014-08-29~2014-08-29",
+      "period_start": "2014-08-29",
+      "period_end": "2014-08-29",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=44153",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-44153",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:09+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2010년 이공계전문기술연수사업 주관기관 선정결과 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2010-03-19~2010-03-19",
+      "period_start": "2010-03-19",
+      "period_end": "2010-03-19",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29786",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29786",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:09+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2009년(추경) 이공계전문기술연수사업 주관기관 선정결과 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2009-07-29~2009-07-29",
+      "period_start": "2009-07-29",
+      "period_end": "2009-07-29",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29735",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29735",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:10+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "한러 공동기술개발사업(미션형R&D) 주관기관 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2009-06-05~2009-06-05",
+      "period_start": "2009-06-05",
+      "period_end": "2009-06-05",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29729",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29729",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:10+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "디자인인력양성사업(코리아디자인멤버쉽) 주관기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2009-03-23~2009-03-23",
+      "period_start": "2009-03-23",
+      "period_end": "2009-03-23",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29691",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29691",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:10+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "섬유패션 기술력 향상사업 주관기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2009-03-18~2009-03-18",
+      "period_start": "2009-03-18",
+      "period_end": "2009-03-18",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29703",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29703",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:10+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "코리아디자인멤버쉽(Korea Design Membership)사업 주관기관 선정공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2008-02-22~2008-02-22",
+      "period_start": "2008-02-22",
+      "period_end": "2008-02-22",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29637",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29637",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:10+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2007년도 현장기술인력재교육사업 신규과제 주관기관 공모",
+      "org": "한국산업기술진흥원",
+      "period_text": "2007-03-19~2007-03-19",
+      "period_start": "2007-03-19",
+      "period_end": "2007-03-19",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29588",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29588",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:10+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2005년도 지역혁신인력양성사업 주관기관 모집",
+      "org": "한국산업기술진흥원",
+      "period_text": "2005-01-24~2005-01-24",
+      "period_start": "2005-01-24",
+      "period_end": "2005-01-24",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29457",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29457",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:10+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2025년도 반도체 핵심 실무인재 양성훈련 운영기관 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2025-07-16~2025-08-08",
+      "period_start": "2025-07-16",
+      "period_end": "2025-08-08",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=83ee510be9a141d08751839b86e4570b",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-83ee510be9a141d08751839b86e4570b",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:12+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "자동차부품제조원 비자 기량검증 및 지원 운영기관 선정",
+      "org": "한국산업기술진흥원",
+      "period_text": "2025-06-16~2025-07-15",
+      "period_start": "2025-06-16",
+      "period_end": "2025-07-15",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=62d926a6eb104d989bb0a31f25155831",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-62d926a6eb104d989bb0a31f25155831",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:12+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "국제기술교류회 운영기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2017-03-17~2017-04-17",
+      "period_start": "2017-03-17",
+      "period_end": "2017-04-17",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=48610",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-48610",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:12+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "한-베트남 소재부품협력사업 전문인력교육 프로그램 운영기관 모집공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2016-04-07~2016-04-29",
+      "period_start": "2016-04-07",
+      "period_end": "2016-04-29",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=47071",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-47071",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:12+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "한-베트남 소재부품협력사업 전문인력 교육프로그램 운영기관 모집공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2015-04-09~2015-04-09",
+      "period_start": "2015-04-09",
+      "period_end": "2015-04-09",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=44899",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-44899",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:12+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "[공고]기술사업화 심화과정운영기관 재공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2009-10-13~2009-10-13",
+      "period_start": "2009-10-13",
+      "period_end": "2009-10-13",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29762",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29762",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:12+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "기술사업화 심화과정운영기관 공모",
+      "org": "한국산업기술진흥원",
+      "period_text": "2009-09-30~2009-09-30",
+      "period_start": "2009-09-30",
+      "period_end": "2009-09-30",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29756",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29756",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:12+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "[재공고]기술사업화심화교육과정운영기관 모집",
+      "org": "한국산업기술진흥원",
+      "period_text": "2009-09-10~2009-09-10",
+      "period_start": "2009-09-10",
+      "period_end": "2009-09-10",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29750",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29750",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:12+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "기술사업화 심화교육과정 운영기관 모집공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2009-08-24~2009-08-24",
+      "period_start": "2009-08-24",
+      "period_end": "2009-08-24",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29742",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29742",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:12+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "[재공고]해외기술사업화교육과정 운영기관 재공모",
+      "org": "한국산업기술진흥원",
+      "period_text": "2009-08-24~2009-08-24",
+      "period_start": "2009-08-24",
+      "period_end": "2009-08-24",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=29743",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-29743",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:12+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "지역산업위기대응 맞춤형 지원사업 울산광역시 남구 수행기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2026-06-16~2026-07-06",
+      "period_start": "2026-06-16",
+      "period_end": "2026-07-06",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=ed24963af39f40f2b7df0e78de9f63e8",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-ed24963af39f40f2b7df0e78de9f63e8",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:16+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "지역산업위기대응 맞춤형 지원사업 충남 당진시 수행기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2026-06-16~2026-07-06",
+      "period_start": "2026-06-16",
+      "period_end": "2026-07-06",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=c4cebfaaf9f64724bc9d4b6a1c9a2792",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-c4cebfaaf9f64724bc9d4b6a1c9a2792",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:16+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2026년도 해외기술도입지원기관 사업 신규 수행기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2026-03-09~2026-03-20",
+      "period_start": "2026-03-09",
+      "period_end": "2026-03-20",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=96a90bd8bb2148f2874a3183de79c867",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-96a90bd8bb2148f2874a3183de79c867",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:16+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "지역산업위기대응 맞춤형 지원사업 전남 광양시 수행기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2026-01-02~2026-01-22",
+      "period_start": "2026-01-02",
+      "period_end": "2026-01-22",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=ec5e5f96a5214ba993bb82dfb63d14e9",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-ec5e5f96a5214ba993bb82dfb63d14e9",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:16+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2025년도 해외기술도입지원기관 사업 신규 수행기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2025-09-04~2025-09-18",
+      "period_start": "2025-09-04",
+      "period_end": "2025-09-18",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=9a83c3f53f7c43abbe731a15dee17fc8",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-9a83c3f53f7c43abbe731a15dee17fc8",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:16+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "지역산업위기대응 맞춤형 지원사업 경북 포항시 수행기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2025-08-28~2025-09-18",
+      "period_start": "2025-08-28",
+      "period_end": "2025-09-18",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=1b60c20b21634e9389537878bf547a44",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-1b60c20b21634e9389537878bf547a44",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:16+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "지역산업위기대응 맞춤형 지원사업 충남 서산시 수행기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2025-08-28~2025-09-18",
+      "period_start": "2025-08-28",
+      "period_end": "2025-09-18",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=77b54a3ff3504d5ab9f871bd37d95a2e",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-77b54a3ff3504d5ab9f871bd37d95a2e",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:16+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "지역산업위기대응 맞춤형지원사업 전남 여수시 수행기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2025-07-24~2025-08-13",
+      "period_start": "2025-07-24",
+      "period_end": "2025-08-13",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=d581b0499246401e84bf00a926e745c4",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-d581b0499246401e84bf00a926e745c4",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:16+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2025년 산업맞춤형 전문기술인력양성사업(재직자맞춤형기술교육) 수행기관 모집공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2025-01-22~2025-02-25",
+      "period_start": "2025-01-22",
+      "period_end": "2025-02-25",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=6a8d7de863154edd9d878d86765e5ba0",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-6a8d7de863154edd9d878d86765e5ba0",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:16+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2023년도 전사적 DX촉진 기술개발 컨설팅 수행기관 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2023-03-03~2023-03-17",
+      "period_start": "2023-03-03",
+      "period_end": "2023-03-17",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=4ab2941208f749f5a8da344bed807af4",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-4ab2941208f749f5a8da344bed807af4",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:16+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2022년도 산업맞춤형 전문기술인력양성사업 수행기관 모집공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2022-02-28~2022-03-29",
+      "period_start": "2022-02-28",
+      "period_end": "2022-03-29",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=5a87045cb85c4abda41d523dbeb2552e",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-5a87045cb85c4abda41d523dbeb2552e",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:19+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2022년도 사업재편 이행전략 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2022-02-23~2022-03-22",
+      "period_start": "2022-02-23",
+      "period_end": "2022-03-22",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=d9e9bceb4afa4143a8ecb35352239c4b",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-d9e9bceb4afa4143a8ecb35352239c4b",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:19+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "21년도 사업재편 연계 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2021-06-03~2021-06-23",
+      "period_start": "2021-06-03",
+      "period_end": "2021-06-23",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=78135",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-78135",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:19+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2021년 풀필먼트구축 시범사업 수행기관 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2021-05-11~2021-06-10",
+      "period_start": "2021-05-11",
+      "period_end": "2021-06-10",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=77960",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-77960",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:19+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2021년「신뢰성기반활용지원사업」수행기관 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2021-04-27~2021-05-11",
+      "period_start": "2021-04-27",
+      "period_end": "2021-05-11",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=77855",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-77855",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:19+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2021년도 산업맞춤형 전문기술인력양성 (재직자맞춤형 기술교육) 사업 수행기관 모집공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2021-03-04~2021-04-05",
+      "period_start": "2021-03-04",
+      "period_end": "2021-04-05",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=77394",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-77394",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:19+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2020년 「신뢰성기반활용지원사업」 수행기관 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2020-06-26~2020-07-10",
+      "period_start": "2020-06-26",
+      "period_end": "2020-07-10",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=75750",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-75750",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:19+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2020년 월드클래스300프로젝트 기술개발 IP 전략수립 수행기관 공고 안내",
+      "org": "한국산업기술진흥원",
+      "period_text": "2020-06-05~2020-06-18",
+      "period_start": "2020-06-05",
+      "period_end": "2020-06-18",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=75660",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-75660",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:19+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2019년도 스마트공장시스템 솔루션 지원 수행기관 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2019-11-15~2019-11-28",
+      "period_start": "2019-11-15",
+      "period_end": "2019-11-28",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=74326",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-74326",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:19+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2019년 창의산업융합 특성화 인재양성사업 수행기관 모집 재공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2019-07-11~2019-07-30",
+      "period_start": "2019-07-11",
+      "period_end": "2019-07-30",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=73509",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-73509",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:19+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2019년 지역대표 중견기업 육성사업 IP 전략수립 수행기관 공고 안내",
+      "org": "한국산업기술진흥원",
+      "period_text": "2019-06-19~2019-07-02",
+      "period_start": "2019-06-19",
+      "period_end": "2019-07-02",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=73413",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-73413",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:22+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2019년 디지털 혁신성장을 위한 월드클래스300 기업 역량진단 수행기관 공고 안내",
+      "org": "한국산업기술진흥원",
+      "period_text": "2019-06-19~2019-07-02",
+      "period_start": "2019-06-19",
+      "period_end": "2019-07-02",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=73412",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-73412",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:22+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2019년 창의산업융합 특성화 인재양성사업 수행기관 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2019-05-22~2019-06-21",
+      "period_start": "2019-05-22",
+      "period_end": "2019-06-21",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=72939",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-72939",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:22+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2019년 바이오인력양성사업 수행기관 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2019-01-28~2019-02-26",
+      "period_start": "2019-01-28",
+      "period_end": "2019-02-26",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=72218",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-72218",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:22+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2018년 World Class 300 R&D 해외마케팅 전략수립 수행기관 공고 안내",
+      "org": "한국산업기술진흥원",
+      "period_text": "2018-04-04~2018-04-20",
+      "period_start": "2018-04-04",
+      "period_end": "2018-04-20",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=66650",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-66650",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:22+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2018 신뢰성바우처사업 수행기관 모집공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2018-03-06~2018-03-20",
+      "period_start": "2018-03-06",
+      "period_end": "2018-03-20",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=66501",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-66501",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:22+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "글로벌전문기업육성프로그램 시장진출전략수립지원사업 수행기관 선정 재공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2016-05-20~2016-06-20",
+      "period_start": "2016-05-20",
+      "period_end": "2016-06-20",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=47326",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-47326",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:22+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "2016년 「글로벌강소기업 육성사업」 해외마케팅 수행기관 모집 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2016-05-02~2016-05-31",
+      "period_start": "2016-05-02",
+      "period_end": "2016-05-31",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=47247",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-47247",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:22+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "고급경영자과정 및 시장진출전략수립지원사업 수행기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2016-04-01~2016-04-29",
+      "period_start": "2016-04-01",
+      "period_end": "2016-04-29",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=47042",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-47042",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:22+09:00"
+    },
+    {
+      "source": "KIAT",
+      "source_name": "한국산업기술진흥원(KIAT)",
+      "title": "글로벌인재현지화교육 및 멘토링 프로그램 수행기관 선정 공고",
+      "org": "한국산업기술진흥원",
+      "period_text": "2016-02-18~2016-03-17",
+      "period_start": "2016-02-18",
+      "period_end": "2016-03-17",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=46879",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KIAT-46879",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:22+09:00"
+    },
+    {
+      "source": "KEIT",
+      "source_name": "한국산업기술기획평가원(KEIT)",
+      "title": "섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 재공고",
+      "org": "한국산업기술기획평가원",
+      "period_text": "2018-06-08 09:00 ~ 2018-06-22 18:00",
+      "period_start": "2018-06-08",
+      "period_end": "2018-06-22",
+      "url": "https://srome.keit.re.kr/srome/biz/perform/opnnPrpsl/retrieveTaskAnncmInfoView.do?ancmId=A00058&bsnsYy=2018&prgmId=XPG201040000",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KEIT-A00058",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:23+09:00"
+    },
+    {
+      "source": "KEIT",
+      "source_name": "한국산업기술기획평가원(KEIT)",
+      "title": "섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 공고",
+      "org": "한국산업기술기획평가원",
+      "period_text": "2018-04-20 09:00 ~ 2018-05-17 18:00",
+      "period_start": "2018-04-20",
+      "period_end": "2018-05-17",
+      "url": "https://srome.keit.re.kr/srome/biz/perform/opnnPrpsl/retrieveTaskAnncmInfoView.do?ancmId=A00042&bsnsYy=2018&prgmId=XPG201040000",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "KEIT-A00042",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:23+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "「2026년 혁신 소상공인 AI 활용지원 사업」  주관기관 추가 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-05-12 ~ 2026-05-26",
+      "period_start": "2026-05-12",
+      "period_end": "2026-05-26",
+      "url": "https://www.sbiz24.kr/#/pbanc/716",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-「2026년 혁신 소상공인 AI 활용지원 사업」  주관기관 추가 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소상공인 생활문화 혁신지원 사업 주관기관 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-06-05 ~ 2026-06-08",
+      "period_start": "2026-06-05",
+      "period_end": "2026-06-08",
+      "url": "https://www.sbiz24.kr/#/pbanc/713",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소상공인 생활문화 혁신지원 사업 주관기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 글로벌 소상공인(K-소상공인) 육성사업 주관기관 등록 안내",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-04-13 ~ 2026-04-14",
+      "period_start": "2026-04-13",
+      "period_end": "2026-04-14",
+      "url": "https://www.sbiz24.kr/#/pbanc/674",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 글로벌 소상공인(K-소상공인) 육성사업 주관기관 등록 안내",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "「2026년 혁신 소상공인 AI 활용지원 사업」  주관기관 모집 공고(수정)",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-04-08 ~ 2026-04-28",
+      "period_start": "2026-04-08",
+      "period_end": "2026-04-28",
+      "url": "https://www.sbiz24.kr/#/pbanc/667",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-「2026년 혁신 소상공인 AI 활용지원 사업」  주관기관 모집 공고(수정)",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소상공인 투자연계 지원사업 주관기관 등록 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-04-02 ~ 2026-05-10",
+      "period_start": "2026-04-02",
+      "period_end": "2026-05-10",
+      "url": "https://www.sbiz24.kr/#/pbanc/666",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소상공인 투자연계 지원사업 주관기관 등록 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 로컬창업기업 육성사업 주관기관 모집공고(수정)",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-01-22 ~ 2026-02-05",
+      "period_start": "2026-01-22",
+      "period_end": "2026-02-05",
+      "url": "https://www.sbiz24.kr/#/pbanc/574",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 로컬창업기업 육성사업 주관기관 모집공고(수정)",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 우리동네 크라우드펀딩 지원사업 주관기관 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-01-23 ~ 2026-02-06",
+      "period_start": "2026-01-23",
+      "period_end": "2026-02-06",
+      "url": "https://www.sbiz24.kr/#/pbanc/573",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 우리동네 크라우드펀딩 지원사업 주관기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 희망리턴패키지 재기사업화 주관기관 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-12-18 ~ 2026-01-02",
+      "period_start": "2025-12-18",
+      "period_end": "2026-01-02",
+      "url": "https://www.sbiz24.kr/#/pbanc/554",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 희망리턴패키지 재기사업화 주관기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2025년 신사업창업사관학교(글로컬상권) 주관기관 등록 안내",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-06-10 ~ 2025-06-11",
+      "period_start": "2025-06-10",
+      "period_end": "2025-06-11",
+      "url": "https://www.sbiz24.kr/#/pbanc/467",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2025년 신사업창업사관학교(글로컬상권) 주관기관 등록 안내",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "혁신소상공인 투자연계지원 사업 주관기관 모집공고(후속)",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-03-27 ~ 2025-03-27",
+      "period_start": "2025-03-27",
+      "period_end": "2025-03-27",
+      "url": "https://www.sbiz24.kr/#/pbanc/365",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-혁신소상공인 투자연계지원 사업 주관기관 모집공고(후속)",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "혁신소상공인 투자연계지원 사업 주관기관 모집공고(초기)",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-03-27 ~ 2025-03-27",
+      "period_start": "2025-03-27",
+      "period_end": "2025-03-27",
+      "url": "https://www.sbiz24.kr/#/pbanc/364",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-혁신소상공인 투자연계지원 사업 주관기관 모집공고(초기)",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2025년 우리동네 크라우드펀딩 지원사업 주관기관 추가 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-02-07 ~ 2025-02-20",
+      "period_start": "2025-02-07",
+      "period_end": "2025-02-20",
+      "url": "https://www.sbiz24.kr/#/pbanc/295",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2025년 우리동네 크라우드펀딩 지원사업 주관기관 추가 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2025년 강한 소상공인 성장지원사업 트랙I 주관기관 등록공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-01-20 ~ 2025-01-20",
+      "period_start": "2025-01-20",
+      "period_end": "2025-01-20",
+      "url": "https://www.sbiz24.kr/#/pbanc/279",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2025년 강한 소상공인 성장지원사업 트랙I 주관기관 등록공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2025년 강한 소상공인 성장지원사업 주관기관(트랙III, 글로벌) 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-01-16 ~ 2025-02-06",
+      "period_start": "2025-01-16",
+      "period_end": "2025-02-06",
+      "url": "https://www.sbiz24.kr/#/pbanc/275",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2025년 강한 소상공인 성장지원사업 주관기관(트랙III, 글로벌) 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2025년 강한 소상공인 성장지원사업 주관기관(트랙II, 온라인셀러) 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-01-16 ~ 2025-02-06",
+      "period_start": "2025-01-16",
+      "period_end": "2025-02-06",
+      "url": "https://www.sbiz24.kr/#/pbanc/274",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2025년 강한 소상공인 성장지원사업 주관기관(트랙II, 온라인셀러) 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 클린제조환경조성 사업 전문기관 추가 모집공고(운영기관)",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-06-30 ~ 2026-07-14",
+      "period_start": "2026-06-30",
+      "period_end": "2026-07-14",
+      "url": "https://www.sbiz24.kr/#/pbanc/792",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 클린제조환경조성 사업 전문기관 추가 모집공고(운영기관)",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소공인 스마트 제조지원사업(스마트공방) 클러스터 운영기관 추가 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-06-15 ~ 2026-07-03",
+      "period_start": "2026-06-15",
+      "period_end": "2026-07-03",
+      "url": "https://www.sbiz24.kr/#/pbanc/775",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소공인 스마트 제조지원사업(스마트공방) 클러스터 운영기관 추가 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소공인 스마트제조지원(스마트공방) 사업 부처협업형 클러스터 운영기관 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-06-19 ~ 2026-06-19",
+      "period_start": "2026-06-19",
+      "period_end": "2026-06-19",
+      "url": "https://www.sbiz24.kr/#/pbanc/739",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소공인 스마트제조지원(스마트공방) 사업 부처협업형 클러스터 운영기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소공인 기능경진대회 운영기관 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-05-26 ~ 2026-06-09",
+      "period_start": "2026-05-26",
+      "period_end": "2026-06-09",
+      "url": "https://www.sbiz24.kr/#/pbanc/734",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소공인 기능경진대회 운영기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소공인 스마트 제조지원사업(스마트공방) 클러스터 운영기관 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-05-18 ~ 2026-06-02",
+      "period_start": "2026-05-18",
+      "period_end": "2026-06-02",
+      "url": "https://www.sbiz24.kr/#/pbanc/708",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소공인 스마트 제조지원사업(스마트공방) 클러스터 운영기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소공인특화지원센터 운영기관 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-03-20 ~ 2026-04-16",
+      "period_start": "2026-03-20",
+      "period_end": "2026-04-16",
+      "url": "https://www.sbiz24.kr/#/pbanc/652",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소공인특화지원센터 운영기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 찾아가는 1:1 교육 전문 운영기관 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-03-31 ~ 2026-04-15",
+      "period_start": "2026-03-31",
+      "period_end": "2026-04-15",
+      "url": "https://www.sbiz24.kr/#/pbanc/651",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 찾아가는 1:1 교육 전문 운영기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 협약연장 소공인특화지원센터 운영기관 등록 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-02-03 ~ 2026-03-11",
+      "period_start": "2026-02-03",
+      "period_end": "2026-03-11",
+      "url": "https://www.sbiz24.kr/#/pbanc/602",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 협약연장 소공인특화지원센터 운영기관 등록 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소상공인 업종전문기술교육 운영기관 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-03-31 ~ 2026-04-15",
+      "period_start": "2026-03-31",
+      "period_end": "2026-04-15",
+      "url": "https://www.sbiz24.kr/#/pbanc/600",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소상공인 업종전문기술교육 운영기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 희망리턴패키지 심리회복지원 운영기관 모집 공고(협약기관용)",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-02-20 ~ 2026-02-20",
+      "period_start": "2026-02-20",
+      "period_end": "2026-02-20",
+      "url": "https://www.sbiz24.kr/#/pbanc/599",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 희망리턴패키지 심리회복지원 운영기관 모집 공고(협약기관용)",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:26+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 중소유통 공동협력 활성화 지원사업 운영기관 모집공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-02-04 ~ 2026-02-18",
+      "period_start": "2026-02-04",
+      "period_end": "2026-02-18",
+      "url": "https://www.sbiz24.kr/#/pbanc/586",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 중소유통 공동협력 활성화 지원사업 운영기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2025년 소상공인 역량강화 컨설팅 공모전 운영기관 등록 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-10-29 ~ 2025-10-30",
+      "period_start": "2025-10-29",
+      "period_end": "2025-10-30",
+      "url": "https://www.sbiz24.kr/#/pbanc/546",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2025년 소상공인 역량강화 컨설팅 공모전 운영기관 등록 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "「2025년 하반기 소상공인 역량강화사업 컨설팅」 전문 운영기관 모집",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-07-30 ~ 2025-07-31",
+      "period_start": "2025-07-30",
+      "period_end": "2025-07-31",
+      "url": "https://www.sbiz24.kr/#/pbanc/496",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-「2025년 하반기 소상공인 역량강화사업 컨설팅」 전문 운영기관 모집",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "「2025년 소상공인 역량강화사업(수출지원 컨설팅)」 전문 운영기관 등록 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-02-12 ~ 2025-06-30",
+      "period_start": "2025-02-12",
+      "period_end": "2025-06-30",
+      "url": "https://www.sbiz24.kr/#/pbanc/446",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-「2025년 소상공인 역량강화사업(수출지원 컨설팅)」 전문 운영기관 등록 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2025년 소공인특화지원센터 신규 운영기관 모집",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-04-04 ~ 2025-04-24",
+      "period_start": "2025-04-04",
+      "period_end": "2025-04-24",
+      "url": "https://www.sbiz24.kr/#/pbanc/372",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2025년 소공인특화지원센터 신규 운영기관 모집",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소상공인 플랫폼협업교육 수행기관 등록",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-07-10 ~ 2026-07-13",
+      "period_start": "2026-07-10",
+      "period_end": "2026-07-13",
+      "url": "https://www.sbiz24.kr/#/pbanc/801",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소상공인 플랫폼협업교육 수행기관 등록",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소상공인 플랫폼 협업교육(특화) 수행기관 추가 모집공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-06-08 ~ 2026-06-22",
+      "period_start": "2026-06-08",
+      "period_end": "2026-06-22",
+      "url": "https://www.sbiz24.kr/#/pbanc/768",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소상공인 플랫폼 협업교육(특화) 수행기관 추가 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 해외 온라인 플랫폼 물류지원사업 수행기관 모집공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-05-15 ~ 2026-05-29",
+      "period_start": "2026-05-15",
+      "period_end": "2026-05-29",
+      "url": "https://www.sbiz24.kr/#/pbanc/728",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 해외 온라인 플랫폼 물류지원사업 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 해외 온라인 플랫폼 활용지원사업 수행기관 모집공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-05-15 ~ 2026-05-29",
+      "period_start": "2026-05-15",
+      "period_end": "2026-05-29",
+      "url": "https://www.sbiz24.kr/#/pbanc/727",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 해외 온라인 플랫폼 활용지원사업 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소상공인 플랫폼 협업교육 수행기관 모집공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-05-15 ~ 2026-05-29",
+      "period_start": "2026-05-15",
+      "period_end": "2026-05-29",
+      "url": "https://www.sbiz24.kr/#/pbanc/725",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소상공인 플랫폼 협업교육 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 1:1 현장방문교육 수행기관 등록",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-04-21 ~ 2026-04-21",
+      "period_start": "2026-04-21",
+      "period_end": "2026-04-21",
+      "url": "https://www.sbiz24.kr/#/pbanc/668",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 1:1 현장방문교육 수행기관 등록",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소상공인 AI 상생협업교육 수행기관 모집공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-03-31 ~ 2026-04-20",
+      "period_start": "2026-03-31",
+      "period_end": "2026-04-20",
+      "url": "https://www.sbiz24.kr/#/pbanc/603",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소상공인 AI 상생협업교육 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2026년 소상공인 1:1현장방문교육 수행기관 모집공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2026-01-19 ~ 2026-02-02",
+      "period_start": "2026-01-19",
+      "period_end": "2026-02-02",
+      "url": "https://www.sbiz24.kr/#/pbanc/569",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2026년 소상공인 1:1현장방문교육 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2025년 소상공인 상생협업교육(소상공인 AI활용 교육) 수행기관 모집공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-10-20 ~ 2025-11-03",
+      "period_start": "2025-10-20",
+      "period_end": "2025-11-03",
+      "url": "https://www.sbiz24.kr/#/pbanc/529",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2025년 소상공인 상생협업교육(소상공인 AI활용 교육) 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "「2025년 글로벌시장지원사업」 글로벌 쇼룸 지원 사업 수행기관 모집 공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-05-12 ~ 2025-05-26",
+      "period_start": "2025-05-12",
+      "period_end": "2025-05-26",
+      "url": "https://www.sbiz24.kr/#/pbanc/444",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-「2025년 글로벌시장지원사업」 글로벌 쇼룸 지원 사업 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2025년 소상공인 상생협업교육 수행기관 모집공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-04-11 ~ 2025-05-02",
+      "period_start": "2025-04-11",
+      "period_end": "2025-05-02",
+      "url": "https://www.sbiz24.kr/#/pbanc/425",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2025년 소상공인 상생협업교육 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2025년 소상공인 온라인판로지원 글로벌시장지원 수행기관 모집공고",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-01-17 ~ 2025-02-07",
+      "period_start": "2025-01-17",
+      "period_end": "2025-02-07",
+      "url": "https://www.sbiz24.kr/#/pbanc/277",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2025년 소상공인 온라인판로지원 글로벌시장지원 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
+      "source": "SEMAS",
+      "source_name": "소상공인시장진흥공단(소진공)",
+      "title": "2025년 소상공인 온라인판로 교육사업 수행기관 모집공고(수정)",
+      "org": "소상공인시장진흥공단",
+      "period_text": "2025-01-17 ~ 2025-02-07",
+      "period_start": "2025-01-17",
+      "period_end": "2025-02-07",
+      "url": "https://www.sbiz24.kr/#/pbanc/276",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "SEMAS-2025년 소상공인 온라인판로 교육사업 수행기관 모집공고(수정)",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:27+09:00"
+    },
+    {
       "source": "KOSMES",
       "source_name": "중소벤처기업진흥공단(KOSMES)",
       "title": "2026년 글로벌베이스캠프 사업 수행기관 선정 결과 공지",
       "org": "수출인큐베이터",
       "period_text": "2026-12-31",
       "period_start": null,
-      "period_end": null,
+      "period_end": "2026-12-31",
       "url": "https://www.kosmes.or.kr/nsh/SH/NTS/SHNTS001F0.do?seqNo=6107081",
       "collect_method": "CRAWL",
       "stage": "모집공고",
@@ -3576,7 +6350,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:01+09:00"
+      "collected_at": "2026-09-22T09:47:27+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3595,7 +6369,7 @@
         "주관기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3614,7 +6388,7 @@
         "주관기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3633,7 +6407,7 @@
         "주관기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3652,45 +6426,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
-    },
-    {
-      "source": "TIPA_SMARTFACTORY",
-      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
-      "title": "2026년 베트남 현지ODA 사업지원 운영기관 모집공고",
-      "org": "중소기업기술정보진흥원(TIPA)",
-      "period_text": "2026-06-04 11:00 ~ 2026-06-19 18:00",
-      "period_start": "2026-06-04",
-      "period_end": "2026-06-19",
-      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
-      "collect_method": "CRAWL",
-      "stage": "모집공고",
-      "external_id": "TIPA_SMARTFACTORY-2026-N-0041",
-      "content": "",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
-    },
-    {
-      "source": "TIPA_SMARTFACTORY",
-      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
-      "title": "2026년 지역특화형 스마트공장 지원사업 운영기관 공고",
-      "org": "중소기업기술정보진흥원(TIPA)",
-      "period_text": "2026-05-06 10:00 ~ 2026-05-08 17:00",
-      "period_start": "2026-05-06",
-      "period_end": "2026-05-08",
-      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
-      "collect_method": "CRAWL",
-      "stage": "모집공고",
-      "external_id": "TIPA_SMARTFACTORY-2026-N-0035",
-      "content": "",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3709,45 +6445,7 @@
         "주관기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-09-22T08:43:03+09:00"
-    },
-    {
-      "source": "TIPA_SMARTFACTORY",
-      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
-      "title": "2026년 데이터 인프라 구축사업 운영기관 모집 공고",
-      "org": "중소기업기술정보진흥원(TIPA)",
-      "period_text": "2026-03-09 09:00 ~ 2026-04-03 16:00",
-      "period_start": "2026-03-09",
-      "period_end": "2026-04-03",
-      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
-      "collect_method": "CRAWL",
-      "stage": "모집공고",
-      "external_id": "TIPA_SMARTFACTORY-2026-N-0020",
-      "content": "",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
-    },
-    {
-      "source": "TIPA_SMARTFACTORY",
-      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
-      "title": "2026년 선도형제조혁신 스마트공장 운영기관 협약",
-      "org": "중소기업기술정보진흥원(TIPA)",
-      "period_text": "2026-02-24 09:00 ~ 2026-03-31 18:00",
-      "period_start": "2026-02-24",
-      "period_end": "2026-03-31",
-      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
-      "collect_method": "CRAWL",
-      "stage": "모집공고",
-      "external_id": "TIPA_SMARTFACTORY-2026-N-0018",
-      "content": "",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3766,7 +6464,539 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년도 식품제조업 스마트공장 구축지원 사업 주관기관 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-05-12 00:00 ~ 2026-05-29 00:00",
+      "period_start": "2026-05-12",
+      "period_end": "2026-05-29",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0036",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[울산항만공사] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-09 00:00 ~ 2026-06-30 00:00",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0047",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[두산밥캣코리아] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-04 00:00 ~ 2026-07-17 00:00",
+      "period_start": "2026-06-04",
+      "period_end": "2026-07-17",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0040",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[한국광해광업공단] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-09 00:00 ~ 2026-06-30 00:00",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0042",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[한국서부발전] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-09 00:00 ~ 2026-06-30 00:00",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0043",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[한국도로공사] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-09 00:00 ~ 2026-06-30 00:00",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0044",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[한국중부발전] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-09 00:00 ~ 2026-06-30 00:00",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0046",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[한국남부발전] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-09 00:00 ~ 2026-06-30 00:00",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0051",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[한국국제협력단] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-09 00:00 ~ 2026-06-30 00:00",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0048",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[인천항만공사] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-09 00:00 ~ 2026-06-30 00:00",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0049",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[한국환경공단] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-09 00:00 ~ 2026-06-30 00:00",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0050",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[부산항만공사] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-09 00:00 ~ 2026-07-10 00:00",
+      "period_start": "2026-06-09",
+      "period_end": "2026-07-10",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0054",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[현대차그룹] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-05-21 00:00 ~ 2026-06-05 00:00",
+      "period_start": "2026-05-21",
+      "period_end": "2026-06-05",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0039",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[풀무원식품] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-05-21 00:00 ~ 2026-06-30 00:00",
+      "period_start": "2026-05-21",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0038",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[HD건설기계] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-05-21 00:00 ~ 2026-06-30 23:59",
+      "period_start": "2026-05-21",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0037",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[LG전자-AI트랙] 2026년도 대중소상생형 스마트공장 주관기관 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-04-17 00:00 ~ 2026-07-17 00:00",
+      "period_start": "2026-04-17",
+      "period_end": "2026-07-17",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0032",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[국민건강보험공단] 2026년도 대중소 상생형 스마트공장 주관기관 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-04-17 00:00 ~ 2026-05-29 00:00",
+      "period_start": "2026-04-17",
+      "period_end": "2026-05-29",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0031",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[한국수력원자력] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-04-17 00:00 ~ 2026-06-30 00:00",
+      "period_start": "2026-04-17",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0030",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[LG이노텍] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-04-17 00:00 ~ 2026-05-29 00:00",
+      "period_start": "2026-04-17",
+      "period_end": "2026-05-29",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0029",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[삼성디스플레이] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-04-17 00:00 ~ 2026-06-30 23:59",
+      "period_start": "2026-04-17",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0028",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[LIG넥스원] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-04-17 00:00 ~ 2026-05-29 00:00",
+      "period_start": "2026-04-17",
+      "period_end": "2026-05-29",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0027",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[LG전자] 2026년도 대중소 상생형 스마트공장 주관기관 모집(상생형 일반)",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-04-17 00:00 ~ 2026-06-30 23:59",
+      "period_start": "2026-04-17",
+      "period_end": "2026-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0026",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[LS일렉트릭] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-04-17 00:00 ~ 2026-05-04 00:00",
+      "period_start": "2026-04-17",
+      "period_end": "2026-05-04",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0025",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "[한국교통안전공단] 2026년도 대중소 상생형 스마트공장 주관기관(대기업) 등 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-09 00:00 ~ 2026-07-17 00:00",
+      "period_start": "2026-06-09",
+      "period_end": "2026-07-17",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0065",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년 베트남 현지ODA 사업지원 운영기관 모집공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-06-04 11:00 ~ 2026-06-19 18:00",
+      "period_start": "2026-06-04",
+      "period_end": "2026-06-19",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0041",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년 지역특화형 스마트공장 지원사업 운영기관 공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-05-06 10:00 ~ 2026-05-08 17:00",
+      "period_start": "2026-05-06",
+      "period_end": "2026-05-08",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0035",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년 데이터 인프라 구축사업 운영기관 모집 공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-03-09 09:00 ~ 2026-04-03 16:00",
+      "period_start": "2026-03-09",
+      "period_end": "2026-04-03",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0020",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년 선도형제조혁신 스마트공장 운영기관 협약",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-02-24 09:00 ~ 2026-03-31 18:00",
+      "period_start": "2026-02-24",
+      "period_end": "2026-03-31",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0018",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3785,12 +7015,12 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
       "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
-      "title": "2026년 부처협업형 사업(산업보안분야) 선정 운영기관 협약",
+      "title": "2026년 부처협업형 사업(조선기자재분야) 선정 운영기관 협약",
       "org": "중소기업기술정보진흥원(TIPA)",
       "period_text": "2026-01-19 15:00 ~ 2026-02-06 17:00",
       "period_start": "2026-01-19",
@@ -3798,13 +7028,13 @@
       "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
       "collect_method": "CRAWL",
       "stage": "모집공고",
-      "external_id": "TIPA_SMARTFACTORY-2026-N-0003",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0006",
       "content": "",
       "matched_keywords": [
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3823,7 +7053,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3842,7 +7072,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3861,7 +7091,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3880,7 +7110,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3899,7 +7129,369 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-22T08:43:03+09:00"
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년 부처협업형 사업(화장품분야) 선정 운영기관 협약",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-01-19 15:00 ~ 2026-02-06 17:00",
+      "period_start": "2026-01-19",
+      "period_end": "2026-02-06",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0007",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년 부처협업형 사업(방위산업분야) 선정 운영기관 협약",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-01-19 15:00 ~ 2026-02-06 17:00",
+      "period_start": "2026-01-19",
+      "period_end": "2026-02-06",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0005",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년 부처협업형 사업(산업단지분야) 선정 운영기관 협약",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-01-19 15:00 ~ 2026-02-06 17:00",
+      "period_start": "2026-01-19",
+      "period_end": "2026-02-06",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0004",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년 부처협업형 사업(산업보안분야) 선정 운영기관 협약",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-01-19 15:00 ~ 2026-02-06 17:00",
+      "period_start": "2026-01-19",
+      "period_end": "2026-02-06",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0003",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년 부처협업형 사업(산업안전분야) 선정 운영기관 협약",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2026-01-19 15:00 ~ 2026-02-06 17:00",
+      "period_start": "2026-01-19",
+      "period_end": "2026-02-06",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2026-N-0002",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년 제조DX멘토단 활용지원 운영기관(사전기획, AX기획) 모집공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2025-12-01 17:29 ~ 2025-12-31 17:00",
+      "period_start": "2025-12-01",
+      "period_end": "2025-12-31",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2025-N-0077",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2026년 부처협업형 스마트공장 운영기관 모집공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2025-11-03 09:00 ~ 2025-12-19 17:00",
+      "period_start": "2025-11-03",
+      "period_end": "2025-12-19",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2025-N-0074",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2025년 지역특화형 스마트공장 지원사업 운영기관 공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2025-02-19 15:00 ~ 2025-02-21 13:00",
+      "period_start": "2025-02-19",
+      "period_end": "2025-02-21",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2025-N-0006",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "공급기업 역량진단사업 운영기관 모집 공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2025-02-03 00:00 ~ 2025-02-14 17:00",
+      "period_start": "2025-02-03",
+      "period_end": "2025-02-14",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2025-N-0003",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2025년 제조DX멘토단 활용지원사업 운영기관 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2025-02-01 02:01 ~ 2025-06-30 17:00",
+      "period_start": "2025-02-01",
+      "period_end": "2025-06-30",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2025-N-0018",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2025년도 부처협업형 스마트공장 구축 지원사업 운영기관 모집공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2024-11-18 00:00 ~ 2024-12-12 17:00",
+      "period_start": "2024-11-18",
+      "period_end": "2024-12-12",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2024-N-0011",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "제조데이터 표준화 수행기관 모집 공고(운영기관)",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2024-07-01 09:00 ~ 2024-07-16 17:00",
+      "period_start": "2024-07-01",
+      "period_end": "2024-07-16",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2024-N-0008",
+      "content": "",
+      "matched_keywords": [
+        "운영기관",
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2024년 부처협업형 스마트공장 구축 지원사업 운영기관 모집공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2024-01-02 00:00 ~ 2024-02-29 18:00",
+      "period_start": "2024-01-02",
+      "period_end": "2024-02-29",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2023-N-0058",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "(참조모델 개발기관) 제조데이터 표준화 사업 수행기관 모집 공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2025-05-14 00:00 ~ 2025-05-28 17:00",
+      "period_start": "2025-05-14",
+      "period_end": "2025-05-28",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2025-N-0045",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "(참조모델 실증기관)제조데이터 표준화 사업 수행기관 모집 공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2025-05-14 00:00 ~ 2025-05-28 17:00",
+      "period_start": "2025-05-14",
+      "period_end": "2025-05-28",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2025-N-0046",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "2025년 지역특화 제조데이터 활성화 사업 수행기관 모집",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2025-04-01 09:00 ~ 2025-04-14 17:00",
+      "period_start": "2025-04-01",
+      "period_end": "2025-04-14",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2025-N-0015",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": true,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "국가표준정책연구사업 수행기관 모집 공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2025-03-06 09:00 ~ 2025-03-20 17:00",
+      "period_start": "2025-03-06",
+      "period_end": "2025-03-20",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2025-N-0007",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "선도형제조혁신 수행기관 모집 공고",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2025-02-19 18:00 ~ 2025-03-04 17:00",
+      "period_start": "2025-02-19",
+      "period_end": "2025-03-04",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2025-N-0008",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
+    },
+    {
+      "source": "TIPA_SMARTFACTORY",
+      "source_name": "중소기업기술정보진흥원(TIPA)-스마트공장 모집공고",
+      "title": "제조데이터 표준화 수행기관 모집 공고(참조모델 개발기관)",
+      "org": "중소기업기술정보진흥원(TIPA)",
+      "period_text": "2024-07-01 09:00 ~ 2024-07-16 17:00",
+      "period_start": "2024-07-01",
+      "period_end": "2024-07-16",
+      "url": "https://www.smart-factory.kr/usr/bg/ra/ma/rcrtPbanc",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "TIPA_SMARTFACTORY-2024-N-0009",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-22T09:47:28+09:00"
     }
   ]
 }
