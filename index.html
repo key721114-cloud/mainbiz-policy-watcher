@@ -351,6 +351,10 @@
       <input type="checkbox" id="hideDupToggle" checked />
       중복 숨기기
     </label>
+    <label class="toggle-chip" id="showClosedChip">
+      <input type="checkbox" id="showClosedToggle" />
+      마감공고 포함
+    </label>
   </div>
 
   <div class="mn-row" id="mnRow"></div>
@@ -380,6 +384,7 @@
     source: "",
     sort: "deadline",
     hideDup: true,
+    showClosed: false, // false면 마감된(D-day 지난) 공고는 목록에서 제외
     ministryFilter: "", // "" | "산업부" | "중기부" | 산하기관 개별 키(예: "KIAT")
   };
 
@@ -483,10 +488,19 @@
     return s.replace("T", " ").slice(0, 16);
   }
 
+  function sortItems(arr) {
+    if (state.sort === "deadline") {
+      arr.sort(function (a, b) { return a._dday.sortWeight - b._dday.sortWeight; });
+    } else {
+      arr.sort(function (a, b) { return (b.collected_at || "").localeCompare(a.collected_at || ""); });
+    }
+  }
+
   function render() {
     var q = state.query.trim().toLowerCase();
     var filtered = state.items.filter(function (it) {
       if (state.hideDup && it.is_duplicate) return false;
+      if (!state.showClosed && it._dday.cls === "over") return false;
       if (state.source && it.source_name !== state.source) return false;
       if (state.activeKeyword && (it.matched_keywords || []).indexOf(state.activeKeyword) === -1) return false;
       if (q && it.title.toLowerCase().indexOf(q) === -1) return false;
@@ -496,12 +510,15 @@
       return true;
     });
 
-    filtered.forEach(function (it) { it._dday = ddayInfo(it); });
-
-    if (state.sort === "deadline") {
-      filtered.sort(function (a, b) { return a._dday.sortWeight - b._dday.sortWeight; });
+    // 마감공고 포함 시에도 정렬기준과 무관하게 항상 유효공고 아래로 붙인다.
+    if (state.showClosed) {
+      var validArr = filtered.filter(function (it) { return it._dday.cls !== "over"; });
+      var closedArr = filtered.filter(function (it) { return it._dday.cls === "over"; });
+      sortItems(validArr);
+      sortItems(closedArr);
+      filtered = validArr.concat(closedArr);
     } else {
-      filtered.sort(function (a, b) { return (b.collected_at || "").localeCompare(a.collected_at || ""); });
+      sortItems(filtered);
     }
 
     var countEl = document.getElementById("resultCount");
@@ -509,7 +526,7 @@
     var b = el("b", null, String(filtered.length));
     countEl.appendChild(document.createTextNode("총 "));
     countEl.appendChild(b);
-    countEl.appendChild(document.createTextNode("건" + (state.hideDup ? " (중복 숨김)" : "")));
+    countEl.appendChild(document.createTextNode("건" + (state.hideDup ? " (중복 숨김)" : "") + (state.showClosed ? "" : " (마감 제외)")));
 
     var cardsEl = document.getElementById("cards");
     cardsEl.innerHTML = "";
@@ -667,6 +684,15 @@
       dupChip.classList.toggle("active", e.target.checked);
       render();
     });
+
+    var closedToggle = document.getElementById("showClosedToggle");
+    var closedChip = document.getElementById("showClosedChip");
+    closedChip.classList.toggle("active", closedToggle.checked);
+    closedToggle.addEventListener("change", function (e) {
+      state.showClosed = e.target.checked;
+      closedChip.classList.toggle("active", e.target.checked);
+      render();
+    });
   }
 
   function renderSystemStatus(status) {
@@ -705,7 +731,10 @@
       })
       .then(function (data) {
         state.items = data.items || [];
-        state.items.forEach(function (it) { it._ministry = classifyMinistry(it); });
+        state.items.forEach(function (it) {
+          it._ministry = classifyMinistry(it);
+          it._dday = ddayInfo(it);
+        });
         var sub = document.getElementById("headerSub");
         sub.innerHTML = "";
         var b1 = el("b", null, String(data.count));
