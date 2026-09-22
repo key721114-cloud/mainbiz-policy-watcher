@@ -98,6 +98,13 @@
     border-bottom: 1px solid var(--border);
     margin-bottom: 20px;
   }
+  header.page .header-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
   header.page h1 {
     font-size: 22px;
     margin: 0 0 4px;
@@ -107,6 +114,80 @@
     font-size: 14px;
     font-weight: 400;
     color: var(--text-dim);
+  }
+  .help-btn {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-dim);
+    padding: 6px 14px;
+    border-radius: 999px;
+    font-size: 12px;
+    cursor: pointer;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .help-btn:hover { color: var(--text); border-color: var(--text-dim); }
+
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(10, 10, 8, 0.55);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    z-index: 100;
+  }
+  .modal-box {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    max-width: 480px;
+    width: 100%;
+    max-height: 85vh;
+    overflow-y: auto;
+    padding: 24px;
+  }
+  .modal-box h2 {
+    margin: 0 0 12px;
+    font-size: 17px;
+    letter-spacing: -0.01em;
+  }
+  .modal-box p {
+    margin: 0 0 12px;
+    color: var(--text-dim);
+    font-size: 13.5px;
+    line-height: 1.65;
+  }
+  .modal-box ul {
+    margin: 0 0 4px;
+    padding-left: 18px;
+    color: var(--text-dim);
+    font-size: 13.5px;
+    line-height: 1.75;
+  }
+  .modal-box ul li { margin-bottom: 6px; }
+  .modal-box ul li b { color: var(--text); }
+  .modal-actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 18px;
+  }
+  .modal-btn {
+    border: 1px solid var(--border);
+    background: var(--surface-2);
+    color: var(--text);
+    padding: 8px 18px;
+    border-radius: 8px;
+    font-size: 13.5px;
+    cursor: pointer;
+  }
+  .modal-btn.primary {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--surface);
+    font-weight: 600;
   }
   header.page .sub {
     color: var(--text-dim);
@@ -335,7 +416,10 @@
 <body>
 <div class="wrap">
   <header class="page">
-    <h1>정책사업팀 사업공고 모니터링웹<span class="h1-admin"> · 관리자 김학준 선임</span></h1>
+    <div class="header-top">
+      <h1>정책사업팀 사업공고 모니터링웹<span class="h1-admin"> · 관리자 김학준 선임</span></h1>
+      <button class="help-btn" id="helpBtn" type="button">사용법 안내</button>
+    </div>
     <div class="sub" id="headerSub">불러오는 중…</div>
     <div class="status-banner" id="statusBanner" hidden></div>
   </header>
@@ -370,6 +454,27 @@
   </details>
 
   <footer class="page">메인비즈협회 정책사업팀 · 정부지원사업 모니터링</footer>
+</div>
+
+<div class="modal-overlay" id="welcomeModal" hidden>
+  <div class="modal-box">
+    <h2>정책사업팀 사업공고 모니터링웹에 오신 것을 환영합니다</h2>
+    <p>정부지원사업 공고를 컴퓨터가 하루에 몇 번씩 자동으로 모아 보여주는 화면입니다.
+      아무것도 설치하실 필요 없고, 여기서 아무리 눌러보셔도 공고 정보가 바뀌거나
+      지워지지 않는 "보기 전용" 화면이니 편하게 써보세요.</p>
+    <ul>
+      <li>기본 정렬은 <b>마감임박순</b>이고, <b>마감된 공고는 기본적으로 숨겨져</b> 있습니다.
+        지난 공고까지 보시려면 "마감공고 포함"을 체크하세요.</li>
+      <li>상단 <b>산업부/중기부</b> 배지·필터와 기관별 버튼으로 소관 부처·기관을 골라볼 수
+        있습니다.</li>
+      <li>키워드 동그라미 버튼을 누르면 그 키워드가 들어간 공고만 볼 수 있습니다.</li>
+      <li>궁금한 점이나 추가하고 싶은 키워드/기관이 있으면 정책사업팀 김학준 선임에게
+        말씀해주세요.</li>
+    </ul>
+    <div class="modal-actions">
+      <button class="modal-btn primary" id="welcomeCloseBtn" type="button">확인했습니다</button>
+    </div>
+  </div>
 </div>
 
 <script>
@@ -695,6 +800,30 @@
     });
   }
 
+  var WELCOME_SEEN_KEY = "pw_welcome_seen_v1";
+
+  function showWelcomeModal() {
+    document.getElementById("welcomeModal").hidden = false;
+  }
+
+  function hideWelcomeModal() {
+    document.getElementById("welcomeModal").hidden = true;
+    try { localStorage.setItem(WELCOME_SEEN_KEY, "1"); } catch (e) { /* 사생활 보호 모드 등에서는 무시 */ }
+  }
+
+  function wireWelcomeModal() {
+    var modal = document.getElementById("welcomeModal");
+    document.getElementById("welcomeCloseBtn").addEventListener("click", hideWelcomeModal);
+    document.getElementById("helpBtn").addEventListener("click", showWelcomeModal);
+    modal.addEventListener("click", function (e) {
+      if (e.target === modal) hideWelcomeModal();
+    });
+
+    var seen = false;
+    try { seen = localStorage.getItem(WELCOME_SEEN_KEY) === "1"; } catch (e) { /* 무시 */ }
+    if (!seen) showWelcomeModal();
+  }
+
   function renderSystemStatus(status) {
     var keys = Object.keys(status || {});
     if (!keys.length) return;
@@ -723,6 +852,7 @@
 
   function boot() {
     wireControls();
+    wireWelcomeModal();
 
     fetch("data/announcements.json", { cache: "no-store" })
       .then(function (r) {
