@@ -5,6 +5,8 @@ import re
 _YYYYMMDD = re.compile(r"^(\d{4})(\d{2})(\d{2})$")
 # 날짜 뒤에 "09:00" 같은 시각이 붙어도(KEIT 등) 날짜만 뽑아낸다.
 _PERIOD_DASHED = re.compile(r"(\d{4}-\d{2}-\d{2})(?:\s+\d{2}:\d{2})?\s*~\s*(\d{4}-\d{2}-\d{2})(?:\s+\d{2}:\d{2})?")
+# KOSMES의 '유효일(마감기한)'처럼 범위가 아니라 날짜 하나만 오는 경우 - 마감일로 취급한다.
+_SINGLE_DATE = re.compile(r"^(\d{4}-\d{2}-\d{2})$")
 
 
 def yyyymmdd_to_dashed(raw: str | None) -> str | None:
@@ -23,6 +25,9 @@ def extract_period(period_text: str | None) -> tuple[str | None, str | None]:
     if not period_text:
         return None, None
     m = _PERIOD_DASHED.search(period_text)
-    if not m:
-        return None, None
-    return m.group(1), m.group(2)
+    if m:
+        return m.group(1), m.group(2)
+    m = _SINGLE_DATE.match(period_text.strip())
+    if m:
+        return None, m.group(1)
+    return None, None
