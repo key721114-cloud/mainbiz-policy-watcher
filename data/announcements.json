@@ -1,3127 +1,7 @@
 {
-  "generated_at": "2026-09-23T08:21:46+09:00",
-  "count": 489,
+  "generated_at": "2026-09-23T13:24:15+09:00",
+  "count": 322,
   "items": [
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2027년 초격차 스타트업 프로젝트 기술사업화 및 투자유치 주관기관 모집공고",
-      "org": "신산업기술창업과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071256",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1071256",
-      "content": "2027년 초격차 스타트업 프로젝트 기술사업화 및 투자유치 주관기관을 붙임과 같이 모집 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:31+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2027년 스마트공장 구축지원사업 주관기관 모집 공고",
-      "org": "제조혁신과",
-      "period_text": "2026-09-16~2026-10-13",
-      "period_start": "2026-09-16",
-      "period_end": "2026-10-13",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071206",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1071206",
-      "content": "2027년 스마트공장 구축지원사업 주관기관 모집 공고 디지털‧인공지능 전환을 통한 중소·중견기업의 경쟁력 제고를 위한 2027년 스마트공장 구축지원 사업 추진과 관련하여, 사업관리 및 제조현장 혁신활동을 전문적으로 수행할 역량 있는 주관기관을 모집을 붙임과 같이 공고하오니 많은 참여부탁드립니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:31+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년도 딥테크 특화 창업중심대학 추천형 창업기업 모집공고",
-      "org": "청년정책과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1070649",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1070649",
-      "content": "신산업 창업 분야 유망 창업기업을 발굴‧지원하는「2026년도 딥테크 특화 창업중심대학」 추천형 창업기업 모집계획을 공고하오니 많은 참여 바랍니다. □ 공고 기간: 2026. 8. 21. ( 금 ) ∼ 9. 4. ( 금 ) , 16:00 까지 * 창업기업은 추천받은 과학기술원을 주관기관으로 선택하여 K-Startup에 신청 □ 접수 방법: K-Startup 누리집 온라인 접수(www.k-startup.go.kr)",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:31+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "「민관협력 오픈이노베이션 지원」 '성과기업 후속 지원' 주관기관 모집공고",
-      "org": "신산업기술창업과",
-      "period_text": "2026-07-03~2026-07-22",
-      "period_start": "2026-07-03",
-      "period_end": "2026-07-22",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1069581",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1069581",
-      "content": "대·중견기업 공공기관 등 수요기업과 창업기업 간 협력을 통한 동반 성장 지원을 위해 「민관협력 오픈이노베이션 지원」 '성과기업 후속 지원' 주관기관을 다음과 같이 모집합니다. □ 사업목적 : 중소벤처기업부 오픈이노베이션 지원사업에 참여한 우수 창업기업과 수요기업 간 시장검증(PoV) 등 후속 협업을 지원할 주관기관 선정 □ 선정규모 : 1개 기관 □ 운영기간 : 2년('26~'27년) □ 지원예산 : 총 8억원 내외 □ 모집기간 : 2026.7.3.(금) ~ 7.22.(수) 16:00까지 ※ 사업내용 및 신청방법은 공고문(첨부파일)을 확인하여 주시기 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:31+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 창업도시 조성 프로젝트 창업기업 모집 통합공고",
-      "org": "창업생태계과",
-      "period_text": "2026-06-22~2026-07-07",
-      "period_start": "2026-06-22",
-      "period_end": "2026-07-07",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1069194",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1069194",
-      "content": "수도권-비수도권의 창업 양극화 해소 및 지역 창업 생태계 강화를 촉진하는 창업도시 조성 프로젝트의 추진을 위해, ｢투자연계형 창업패키지(초기·도약)｣ 및 ｢지역창업패키지(성장·이전)｣에 참여할 창업기업을 4개 광역시(대구, 광주, 대전, 울산)로 구분하여 모집공고 하오니, 많은 참여 바랍니다. ㅇ (접수 기간) : 2026년 6월 22일(월) ~ 7월 7일(화) 15:00까지 * 접수는 2026년 7월 7일(화), 15:00에 신청·접수 종료 후 별도 접수 유예시간 없으며, '제출완료' 및 접수증을 발급받은 창업기업에 한해 평가 참여 가능 ㅇ (신청 자격) : 창업기업이 창업도시(대구, 광주, 대전, 울산) 내 소재하거나 이전을 희망하며, ｢중소기업창업 지원법｣ 제2조, 제3조에 따른 창업기업의 대표자 * 국외창업은 신청대상에서 제외하며, 신청 가능 업력은 사업, 세부트랙별 상이 ㅇ (제출 서류) : 사업신청서, 사업계획서 및 증빙자료 ㅇ (신청 방법) : K-스타트업 누리집 온라인 신청 ㅇ (관련 문의) : 창업도시별 운영기관(공고문 15쪽 하단 참고)",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:31+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 소상공인 생활문화 혁신지원 사업 주관기관 모집 공고",
-      "org": "소상공인정책과",
-      "period_text": "2026-05-08~2026-05-26",
-      "period_start": "2026-05-08",
-      "period_end": "2026-05-26",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1068076",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1068076",
-      "content": "지역 소상공인의 제품·서비스 개선을 통한 부가가치 제고와 지역기반 성장 촉진을 위한 「 2026년 소상공인 생활문화 혁신지원」 사업에 참여할 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:35+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 글로벌베이스캠프 사업 수행기관 모집 재공고",
-      "org": "글로벌성장정책과",
-      "period_text": "2026-04-27~2026-05-10",
-      "period_start": "2026-04-27",
-      "period_end": "2026-05-10",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1067772",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1067772",
-      "content": "민간의 역량을 활용하여 현지 거점을 기반으로 중소벤처기업의 글로벌 진출을 지원하는 '글로벌베이스캠프'의 민간위탁 수행기관를 다음과 같이 모집합니다(재공고). - 접수 기간 : 4.27.(월) ~ 5.10.(일) - 신청 자격 : 아래 요건을 모두 충족하는 기관 1. 글로벌 거점을 보유한 기관 2. 미국 동남부 지역 내 현지 유관기관/경제단체 협력 인프라를 보유한 기관 3. 현지 진출 기업 지원 관련 사업 실적 보유한 기관 - 과업 내용 : 현지 진출 중소벤처기업 모집 및 선정, 상설 전시장 운영, 바이어 발굴 및 매칭 등 - 문의처 : 중소벤처기업진흥공단 글로벌협력처 055-751-9674 자세한 사항은 사업 공고문 및 과업내용서를 참고바랍니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:35+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년도 상생형 AX선도모델 주관기관(대기업 등) 모집공고",
-      "org": "제조혁신과",
-      "period_text": "2026-04-27",
-      "period_start": "2026-04-27",
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1067692",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1067692",
-      "content": "2026년도 ICT융합스마트공장 보급확산사업 \"상생형 AX 선도모델\" 주관기관(대기업 등) 모집계획을 붙임과 같이 공고합니다. - 신청기간 : 2026.4.27.(월) ~ 예산 소진시 까지",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:35+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 글로벌베이스캠프 사업 수행기관 모집 공고",
-      "org": "글로벌성장정책과",
-      "period_text": "2026-04-09~2026-04-23",
-      "period_start": "2026-04-09",
-      "period_end": "2026-04-23",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1067114",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1067114",
-      "content": "민간의 역량을 활용하여 현지 거점을 기반으로 중소벤처기업의 글로벌 진출을 지원하는 '글로벌베이스캠프' 의 민간위탁 수행기관 를 다음과 같이 모집합니다. - 접수 기간 : 4.9.(목) ~ 4.23.(목) - 신청 자격 : 아래 요건을 모두 충족하는 기관 1. 글로벌 거점을 보유한 기관 2. 미국 동남부 지역 내 현지 유관기관/경제단체 협력 인프라를 보유한 기관 3. 현지 진출 기업 지원 관련 사업 실적 보유한 기관 - 과업 내용 : 현지 진출 중소벤처기업 모집 및 선정, 상설 전시장 운영, 바이어 발굴 및 매칭 등 - 문의처 : 중소벤처기업진흥공단 글로벌협력처 055-751-9674 자세한 사항은 사업 공고문 및 과업내용서를 참고바랍니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:35+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 「K-뷰티 수출 거점」 주관기관 모집공고",
-      "org": "글로벌성장정책과",
-      "period_text": "2026-03-31~2026-05-14",
-      "period_start": "2026-03-31",
-      "period_end": "2026-05-14",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1066854",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1066854",
-      "content": "중소벤처기업부 공고 제 2026-223호 2026년 「K-뷰티 수출 거점」 주관기관 모집공고 K-뷰티 글로벌 초격차 경쟁력 확보를 위한 2026년 「K-뷰티 수출 거점」 육성에 참여할 주관기관(지방정부)을 다음과 같이 모집하오니 많은 참여 바랍니다. 신청접수기간 : 2026.3.31(화) ~ 2026.5.14(목) 18시 상세한 내용은 공고문을 참조하여 주시기 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:35+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 소공인특화지원센터 운영기관 모집공고",
-      "org": "소공인성장촉진단",
-      "period_text": "2026-03-20~2026-04-16",
-      "period_start": "2026-03-20",
-      "period_end": "2026-04-16",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1066475",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1066475",
-      "content": "2026년 소공인특화지원센터 운영기관 모집을 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:35+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 온라인 수출 중소기업 물류 지원 사업 수행기관 모집공고",
-      "org": "글로벌성장정책과",
-      "period_text": "2026-03-12~2026-03-19",
-      "period_start": "2026-03-12",
-      "period_end": "2026-03-19",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1066223",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1066223",
-      "content": "중소기업 온라인수출 물량 집적을 통해 물류비 절감, 배송 최적화 등 수출물류 부담을 완화하고 수출 경쟁력을 제고하는 2026년 온라인 수출 중소기업 물류 지원 사업 수행기관을 붙임임과 같이 모집합니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "중소기업 기후공시, 공급망실사 대응 기반구축 사업 참여기업 모집 공고",
-      "org": "대외환경대응과",
-      "period_text": "2026-03-05~2026-03-26",
-      "period_start": "2026-03-05",
-      "period_end": "2026-03-26",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1066037",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1066037",
-      "content": "EU 공급망 실사지침 시행 등에 대비하여 중소기업의 대응력 강화를 위해 「중소기업 기후공시, 공급망실사 대응 기반구축」의 참여기업을 다음과 같이 모집합니다. - 지원 대상: 「중소기업기본법」 제2조 제1항 및 동법 시행령 제3조에 따른 「중소기업」 - 모집 단위: 개별 중소기업 또는 컨소시엄(원청기업•중소기업•수행기관으로 구성) - 접수 기간: 3.5.(목) ~ 3.26.(목) 18:00 - 신청 방법: ESG탄소중립 통합플랫폼(esg.kosmes.or.kr)에서 온라인 신청 - 문의처: 중소벤처기업진흥공단 탄소중립지원센터 055-751-9731, 9737 자세한 사항은 사업 공고문을 참고바랍니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년도 데이터 인프라 구축사업 운영기관 모집 공고문",
-      "org": "제조혁신과",
-      "period_text": "2026-03-03~2026-04-03",
-      "period_start": "2026-03-03",
-      "period_end": "2026-04-03",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1066003",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1066003",
-      "content": "2026년도 중소 제조기업의 데이터 및 인공지능 활용을 촉진하는 민간 클라우드 기반 제조분야 디지털전환 종합 플랫폼(KAMP) 운영을 위한 데이터인프라구축 운영기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 글로벌쇼핑몰 활용 판매 지원사업 수행기관 모집 공고",
-      "org": "글로벌성장정책과",
-      "period_text": "2026-02-13~2026-02-27",
-      "period_start": "2026-02-13",
-      "period_end": "2026-02-27",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1065622",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1065622",
-      "content": "중소기업의 글로벌쇼핑몰을 통한 온라인 수출을 지원하는 글로벌쇼핑몰 활용 판매 지원사업의 수행기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 청소년비즈쿨 운영기관 모집 공고",
-      "org": "청년정책과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1065522",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1065522",
-      "content": "2026년 청소년 비즈쿨 운영기관 모집을 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 비즈니스지원단(현장클리닉) 사업 수행기관 모집 공고문",
-      "org": "혁신행정담당관",
-      "period_text": "2026-02-09~2026-02-27",
-      "period_start": "2026-02-09",
-      "period_end": "2026-02-27",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1065478",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1065478",
-      "content": "중소기업의 경영, 기술애로 해결을 위해 중소벤처기업부가 추진 중인 비즈니스지원단(현장클리닉)의 수행기관을 다음과 같이 모집하오니, 역량을 보유한 관련 기관의 많은 참여를 바랍니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 지역 첨단제조 스타트업 스케일업 지원사업 주관기관 모집 공고",
-      "org": "창업생태계과",
-      "period_text": "2026-02-02~2026-02-25",
-      "period_start": "2026-02-02",
-      "period_end": "2026-02-25",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1065249",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1065249",
-      "content": "2026년 지역 첨단제조 스타트업 스케일업 지원사업 주관기관 모집 공고 지역 첨단제조 스타트업의 조기 스케일업과 지속 가능한 성장 기반 마련을 위한 '지역 첨단제조 스타트업 스케일업 지원사업' 주관기관을 아래와 같이 모집하오니 많은 참여 바랍니다. 2026년 2월 2일 중소벤처기업부장관 ※ 자세한 내용은 첨부파일 확인 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 온라인 브랜드 소상공인 육성사업(TOPS프로그램) 수행기관 모집 공고",
-      "org": "디지털소상공인과",
-      "period_text": "2026-01-21~2026-02-05",
-      "period_start": "2026-01-21",
-      "period_end": "2026-02-05",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1064924",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1064924",
-      "content": "소상공인의 온라인 전환 연착륙을 돕고, 소기업으로의 성장을 지원할 「2026년 온라인 브랜드 소상공인 육성사업」의 수행기관을 붙임과 같이 모집합니다. 많은 관심과 참여를 부탁드립니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 K-스타트업 그랜드 챌린지 주관기관 모집공고",
-      "org": "글로벌창업팀",
-      "period_text": "2026-01-19~2026-02-10",
-      "period_start": "2026-01-19",
-      "period_end": "2026-02-10",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1064863",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1064863",
-      "content": "2026년 K-스타트업 그랜드 챌린지 주관기관 모집공고를 붙임파일과 같이 진행하026년 K-스타트업 그랜드 챌린지 주관기관 모집공고를 첨부와 같이 진행합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 제조전문형 메이커 스페이스 주관기관 모집 공고",
-      "org": "창업생태계과",
-      "period_text": "2026-01-13~2026-02-03",
-      "period_start": "2026-01-13",
-      "period_end": "2026-02-03",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1064765",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1064765",
-      "content": "2026년 제조전문형 메이커 스페이스 주관기관 모집 공고 메이커 활동과 제조창업 활성화를 위한 2026년 제조전문형 메이커 스페이스 주관기관을 아래와 같이 모집하오니 많은 참여 바랍니다. 2026년 1월 13일 중소벤처기업부장관 ※ 자세한 내용은 첨부파일 확인 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 시제품 제작터 주관기관 모집 공고",
-      "org": "창업생태계과",
-      "period_text": "2026-01-13~2026-02-03",
-      "period_start": "2026-01-13",
-      "period_end": "2026-02-03",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1064764",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1064764",
-      "content": "2026년 시제품 제작터 주관기관 모집 공고 제조 창업 촉진, 메이커 저변확대를 위해 시제품 제작터를 운영할 주관기관을 아래와 같이 모집하오니 많은 참여 바랍니다. 2026년 1월 13일 중소벤처기업부장관 ※ 자세한 내용은 첨부파일 확인 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 제품화 올인원팩 주관기관 모집 공고",
-      "org": "창업생태계과",
-      "period_text": "2026-01-08~2026-01-29",
-      "period_start": "2026-01-08",
-      "period_end": "2026-01-29",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1064614",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1064614",
-      "content": "2026년 제품화 올인원팩 주관기관 모집 공고 제조 스타트업의 제품화 전 과정을 원스톱으로 지원하여 신속한 시장 진입을 돕는 “제품화 올인원팩” 사업의 주관기관을 아래와 같이 모집하오니 많은 참여 바랍니다. 2026년 1월 8일 중소벤처기업부장관 ※ 자세한 내용은 첨부파일 확인 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 프리 팁스 신규 주관기관 모집공고",
-      "org": "신산업기술창업과",
-      "period_text": "2026-01-07~2026-01-23",
-      "period_start": "2026-01-07",
-      "period_end": "2026-01-23",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1064601",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1064601",
-      "content": "'26년 프리 팁스 신규 주관기관 모집공고입니다. 신청기한 : 2026년 1월 7일(수) ~ 1월 27일(화), 16:00까지 * 자세한 사항은 공고를 참고해주시기 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:40+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 창업성공패키지(청년창업사관학교) 투자형(민간주도형) 운영사 모집 공고",
-      "org": "청년정책과",
-      "period_text": "2026-01-06~2026-01-15",
-      "period_start": "2026-01-06",
-      "period_end": "2026-01-15",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1064554",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1064554",
-      "content": "청년창업사관학교 운영기관을 붙임과 같이 모집하오니 많은 지원 부탁드립니다. * 입교기업 모집은 1월중 별도 공고 예정",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 국제개발협력(ODA) 사업수행기관 모집 공고",
-      "org": "국제통상협력과",
-      "period_text": "2026-01-06~2026-01-21",
-      "period_start": "2026-01-06",
-      "period_end": "2026-01-21",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1064529",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1064529",
-      "content": "2026년 국제개발협력(ODA) 각 사업별 수행기관을 다음과 같이 수정 공고합니다. [수정사항 안내] * ('26.1.8) 통합모집 공고문 1쪽 지정기간 오기재 수정(빨간색 글씨)",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년도 대중소 상생형 스마트공장 주관기관(대기업 등) 모집 공고",
-      "org": "제조혁신과",
-      "period_text": "2026-01-02~2026-05-29",
-      "period_start": "2026-01-02",
-      "period_end": "2026-05-29",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1064406",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1064406",
-      "content": "2026년도 대중소 상생형 스마트공장 주관기관(대기업 등) 모집 공고문을 붙임과 같이 게시합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 판교 창업존 운영사업 주관기관 모집 공고(연장공고)",
-      "org": "창업생태계과",
-      "period_text": "2025-12-09~2025-12-29",
-      "period_start": "2025-12-09",
-      "period_end": "2025-12-29",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1064252",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1064252",
-      "content": "2026년 판교 창업존 운영사업 주관기관 모집을 붙임과 같이 연장공고 하오니, 자격요건 등 자세한 내용은 첨부 공고문 등을 참고하시기 바랍니다. * 신청기한: (기존) ~12.19.(금) 16시까지 (변경) ~ 12.29.(월) 16시까지",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 판교 창업존 운영사업 주관기관 모집 공고",
-      "org": "창업생태계과",
-      "period_text": "2025-12-09~2025-12-19",
-      "period_start": "2025-12-09",
-      "period_end": "2025-12-19",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1063890",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1063890",
-      "content": "2026년 판교 창업존 운영사업 주관기관 모집을 붙임과 같이 공고하오니, 자격요건 등 자세한 내용은 첨부 공고문 등을 참고하시기 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년 글로벌 기업 협업 프로그램(Around X) 지원사업 신규 주관기관 모집 공고",
-      "org": "글로벌창업팀",
-      "period_text": "2025-11-12~2025-11-27",
-      "period_start": "2025-11-12",
-      "period_end": "2025-11-27",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1063102",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1063102",
-      "content": "2026년 글로벌 기업 협업 프로그램(Around X) 지원사업 신규 주관기관 모집 공고를 붙임과 같이 게시합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2026년도 부처협업형 스마트 공장 운영기관 모집 공고",
-      "org": "제조혁신과",
-      "period_text": "2025-11-03~2025-12-19",
-      "period_start": "2025-11-03",
-      "period_end": "2025-12-19",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1062989",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1062989",
-      "content": "2026년도 부처협업형 스마트공장 구축 지원사업의 운영기관 모집 계획을 붙임과 같이 공고합니다. - 본 공고는 부처협업형 스마트공장 구축 지원사업의 운영 관리를 위한 기관을 모집하는 것이며, 지원사업에 참여할 중소, 중견기업 모집 공고는 운영기관 선정 이후 추후 실시될 예정입니다. 자세한 사항은 붙임의 공고문을 참고하시길 바랍니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "(가칭) 글로벌 창업허브 주관기관 모집 공고",
-      "org": "창업생태계과",
-      "period_text": "2025-09-18~2025-10-31",
-      "period_start": "2025-09-18",
-      "period_end": "2025-10-31",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1061956",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1061956",
-      "content": "(가칭) 글로벌 창업허브 주관기관 모집 공고를 붙임과 같이 게시합니다. - 신청기간 : 2025년 9월 18일 ~ 2025년 10월 31일 16:00까지 - 신청방법 : K-스타트업 누리집 → 창업사업통합정보관리시스템 로그인 후 신청",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "『경영기술지도사 양성주관기관 및 지정교육기관』 모집 공고",
-      "org": "기업구조개선과",
-      "period_text": "2025-08-29~2025-09-15",
-      "period_start": "2025-08-29",
-      "period_end": "2025-09-15",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1061332",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1061332",
-      "content": "경영지도사 및 기술지도사의 양성과 역량강화를 위한 『경영기술지도사 양성과정 및 지정교육』 사업의 운영기관을 다음과 같이 모집하오니 붙임의 서식을 작성하여 신청해 주시기 바랍니다.",
-      "matched_keywords": [
-        "주관기관",
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 전자상거래수출시장진출(온라인수출 공동물류 사업) 수행기관 추가 모집공고",
-      "org": "글로벌성장정책과",
-      "period_text": "2025-05-16~2025-05-23",
-      "period_start": "2025-05-16",
-      "period_end": "2025-05-23",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1058952",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1058952",
-      "content": "2025년 전자상거래수출시장진출(온라인수출 공동물류 사업)에 참여할 수행기관 추가 모집을 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:50+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년도 제조데이터 표준화 수행기관 모집공고",
-      "org": "제조혁신과",
-      "period_text": "2025-05-14~2025-05-28",
-      "period_start": "2025-05-14",
-      "period_end": "2025-05-28",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1058554",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1058554",
-      "content": "공장‧기업 간 디지털 연결을 촉진하는 제조데이터 표준 기반 스마트공장 구축을 위해 중소벤처기업부에서 추진중인 제조데이터 표준화 사업의 수행기관(운영기관, 참조모델 개발기관)을 선정하고자 하오니, 사업 참여를 희망하는 기관은 신청하시기 바랍니다. ※ 참고용 표준참조모델·가이던스(별첨2) 및 교육자료(별첨3)는 스마트공장사업관리시스템(smart-factory.kr)을 통하여 스마트제조혁신추진단(중소기업기술정보진흥원 부설)에서 별도 배포 예정",
-      "matched_keywords": [
-        "운영기관",
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:50+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 협업형 메이커 스페이스 주관기관 모집공고(3차)",
-      "org": "창업생태계과",
-      "period_text": "2025-04-23~2025-05-02",
-      "period_start": "2025-04-23",
-      "period_end": "2025-05-02",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1058340",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1058340",
-      "content": "메이커 활동과 제조 창업을 활성화하기 위한 '2025년 협업형 메이커 스페이스' 주관기관(컨소시엄)을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:50+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "｢2025년 로컬 창업보육센터 지원사업｣ 주관기관 모집 공고",
-      "org": "창업생태계과",
-      "period_text": "2025-04-28~2025-05-09",
-      "period_start": "2025-04-28",
-      "period_end": "2025-05-09",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1058276",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1058276",
-      "content": "인구 감소로 인한 지역 경제 위축을 해결하고 지속 가능한 지역 발전을 도모하고자 ｢2025년 로컬 창업보육센터 지원사업｣ 주관기관을 다음과 같이 공고하오니, 많은 참여 바랍니다 □ 지원대상 : 비수도권 인구감소지역 내 중소벤처기업부 지정 창업보육센터 운영자 또는 사업자(법인) □ 선정규모 : 5개 내외 선정, 40백만원 내외 지원 □ 지원내용 : 창업보육센터 사업자의 특징 및 강점을 활용한 특성화 보육프로그램 개발 및 운영을 지원",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:50+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 소공인특화지원센터 운영기관 모집공고",
-      "org": "지역상권과",
-      "period_text": "2025-04-04~2025-04-24",
-      "period_start": "2025-04-04",
-      "period_end": "2025-04-24",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1057858",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1057858",
-      "content": "2025년 소공인특화지원센터 운영기관 모집을 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년도 중소‧벤처기업 M&A 활성화 지원사업 공고",
-      "org": "벤처정책과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1057557",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1057557",
-      "content": "중소‧벤처기업의 M&A 지원을 위한 ‘2025년도 중소‧벤처기업 M&A 활성화 지원사업’을 다음과 같이 공고하오니, 동 사업에 참여하고자 하는 기업과 거래정보망 등록 M&A 자문기관은 붙임 공고문을 참고하시기 바랍니다. □ 운영기관 : 한국벤처캐피탈협회(M&A지원센터) □ 시 기 : 2025년 3월 26일부터 연중 수시 □ 대 상 : M&A를 희망하는 중소‧벤처기업 및 M&A정보망 등록 자문기관",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 글로벌 스타트업 센터 운영기관 모집 공고",
-      "org": "글로벌창업팀",
-      "period_text": "2025-03-26~2025-04-08",
-      "period_start": "2025-03-26",
-      "period_end": "2025-04-08",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1057541",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1057541",
-      "content": "2025년 글로벌 스타트업 센터 운영기관 모집 공고문을 다음과 같이 공고하합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 지역특화 제조데이터 활성화사업 수행기관 모집 공고",
-      "org": "제조혁신과",
-      "period_text": "2025-04-01~2025-04-14",
-      "period_start": "2025-04-01",
-      "period_end": "2025-04-14",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1057274",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1057274",
-      "content": "지역AI센터를 중심으로 중소제조기업의 AI·제조데이터 도입 및 활용 지원체계를 마련하기 위해 「2025년 지역특화 제조데이터 활성화사업」의 수행기관 모집을 붙임과 같이 공고합니다. * 신청서 양식 등 자세한 사항은 스마트공장 사업관리시스템(smart-factory.kr)의 공고내용(사업안내-모집공고)을 참조하여 주시기 바랍니다. * 사업설명회 : 2025.3.20(목) 15:00 , 중소기업기술정보진흥원(세종본원) B1 컨퍼런스홀 ※ 사업설명회 시간이 당초 14:00 → 15:00로 변경되었음",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 전자상거래수출시장진출(온라인수출 공동물류 사업) 수행기관 모집공고",
-      "org": "글로벌성장정책과",
-      "period_text": "2025-03-07~2025-03-17",
-      "period_start": "2025-03-07",
-      "period_end": "2025-03-17",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1057173",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1057173",
-      "content": "2025년 전자상거래수출시장진출(온라인수출 공동물류 사업)에 참여할 수행기관 모집 공고를 붙임과 같이 게시합니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 협업형 메이커 스페이스 주관기관 모집공고(재공고)",
-      "org": "창업생태계과",
-      "period_text": "2025-03-05~2025-03-25",
-      "period_start": "2025-03-05",
-      "period_end": "2025-03-25",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1057088",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1057088",
-      "content": "메이커 활동과 제조 창업을 활성화하기 위한 '2025년 협업형 메이커 스페이스' 주관기관(컨소시엄)을 붙임과 같이 재모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 전자상거래수출시장진출사업(글로벌쇼핑몰 활용 판매 지원사업, 자사몰 진출 지원사업) 수행기관 모집 공고",
-      "org": "글로벌성장정책과",
-      "period_text": "2025-03-04~2025-03-18",
-      "period_start": "2025-03-04",
-      "period_end": "2025-03-18",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1057064",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1057064",
-      "content": "2025년 전자상거래수출시장진출사업(글로벌쇼핑몰 활용 판매 지원사업, 자사몰 진출 지원사업)에 참여할 수행기관 모집 공고를 붙임과 같이 게시합니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 포스트팁스 신규 주관기관 모집 공고",
-      "org": "신산업기술창업과",
-      "period_text": "2025-02-24~2025-03-17",
-      "period_start": "2025-02-24",
-      "period_end": "2025-03-17",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1056872",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1056872",
-      "content": "2025년 포스트팁스 신규 주관기관 모집 공고를 붙임과 같이 게시합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년도 국가표준정책연구 사업 수행기관 모집공고문",
-      "org": "제조혁신과",
-      "period_text": "2025-03-06~2025-03-20",
-      "period_start": "2025-03-06",
-      "period_end": "2025-03-20",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1056778",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1056778",
-      "content": "2025년 국가표준정책연구 사업 수행기관 모집 공고를 붙임과 같이 게시합니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년글로벌 액셀러레이팅 지원사업 주관기관 모집 수정공고",
-      "org": "글로벌창업팀",
-      "period_text": "2025-01-17~2025-03-13",
-      "period_start": "2025-01-17",
-      "period_end": "2025-03-13",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1056725",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1056725",
-      "content": "『2025년글로벌 액셀러레이팅 지원사업』 주관기관 모집 수정공고 국내 창업기업이 해외 진출 가능성을 탐색하고, 해외 시장에 안정적인 정착지원을 수행할 ｢글로벌 액셀러레이팅 지원사업｣의 주관기관을 다음과 같이 모집 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025 글로벌 액셀러레이팅 주관기관 모집공고",
-      "org": "글로벌창업팀",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1056672",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1056672",
-      "content": "중소벤처기업부 공고 제2025-23호 『2025년글로벌 액셀러레이팅 지원사업』 주관기관 모집 공고 국내 창업기업이 해외 진출 가능성을 탐색하고, 해외 시장에 안정적인 정착지원을 수행할 ｢글로벌 액셀러레이팅 지원사업｣의 주관기관을 다음과 같이 모집 공고합니다. 2025년 1월 17일 중소벤처기업부 장관",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025 글로벌 스타트업 페스티벌(ComeUp) 주관기관 모집공고",
-      "org": "글로벌창업팀",
-      "period_text": "2025-02-14",
-      "period_start": "2025-02-14",
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1056669",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1056669",
-      "content": "중소벤처기업부 공고 제2025-107호 글로벌 스타트업 페스티벌(COMEUP) 주관기관 모집공고 국내 스타트업 생태계의 글로벌 연계 강화를 위해 운영되는 글로벌 스타트업 페스티벌 행사의 주관기관 모집을 다음과 같이 공고합니다. 2025년 2월 14일 중소벤처기업부장관",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년도 부처협업형 스마트공장 구축 지원 사업 공고",
-      "org": "제조혁신과",
-      "period_text": "2025-02-14",
-      "period_start": "2025-02-14",
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1056648",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1056648",
-      "content": "제조현장에 최적화된 맞춤형 스마트공장 도입을 지원하기 위해 2025년도 부처협업형 스마트공장 구축 지원사업에 참여할 기업을 모집합니다. 각 분야(10개 분야, 150개 내외 지원 예정) 별 내용은 운영기관별 공고문을 확인해 주시길 바랍니다. (운영기관별 신청 접수 기간이 상이하오니 확인 부탁드립니다.)",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:55+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 서울 창신 의류제조 공동인프라 운영기관 모집공고",
-      "org": "지역상권과",
-      "period_text": "2025-02-05~2025-02-24",
-      "period_start": "2025-02-05",
-      "period_end": "2025-02-24",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1056399",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1056399",
-      "content": "2025년 서울 창신 의류제조 공동인프라 운영기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 청소년비즈쿨 운영기관(학교 및 센터) 모집 공고",
-      "org": "청년정책과",
-      "period_text": "2025-02-03~2025-02-13",
-      "period_start": "2025-02-03",
-      "period_end": "2025-02-13",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1056336",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1056336",
-      "content": "2025년 청소년비즈쿨 운영기관(학교 및 센터) 모집 공고 청소년의 기업가정신 확산을 통해 창의성과 도전정신을 갖춘 융합형 창의인재 양성을 선도할 「2025년 청소년비즈쿨 운영기관(학교 및 센터)」 모집 계획을 다음과 같이 공고합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "「2025년 온라인 브랜드 소상공인 육성사업(TOPS프로그램)」 수행기관 모집공고",
-      "org": "디지털소상공인과",
-      "period_text": "2025-01-31~2025-02-17",
-      "period_start": "2025-01-31",
-      "period_end": "2025-02-17",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1056249",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1056249",
-      "content": "소상공인의 온라인 전환 연착륙을 돕고 소기업으로의 성장을 지원할 「2025년 온라인 브랜드 소상공인 육성사업(TOPS프로그램)」의 수행기관 모집공고를 붙임과 같이 게시하오니 많은 신청 바랍니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "K-수출전사 아카데미 운영기관 모집 공고",
-      "org": "인력정책과",
-      "period_text": "2025-01-31~2025-02-28",
-      "period_start": "2025-01-31",
-      "period_end": "2025-02-28",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1056241",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1056241",
-      "content": "2025년도 K-수출전사 아카데미 운영기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "공급기업 역량진단 운영기관 모집공고(안)",
-      "org": "제조혁신과",
-      "period_text": "2025-02-03~2025-02-14",
-      "period_start": "2025-02-03",
-      "period_end": "2025-02-14",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1056145",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1056145",
-      "content": "공급기업 역량진단사업 운영기관 모집을 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 협업형 메이커 스페이스 주관기관 모집공고",
-      "org": "창업생태계과",
-      "period_text": "2025-01-07~2025-02-03",
-      "period_start": "2025-01-07",
-      "period_end": "2025-02-03",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1055675",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1055675",
-      "content": "중소벤처기업부 공고 제2025-6호 2025년 협업형 메이커 스페이스 주관기관 모집공고 메이커 활동과 제조창업을 활성화하기 위한 2025년 협업형 메이커 스페이스 주관기관(컨소시엄)을 다음과 같이 모집합니다. 2025년 1월 7일 중소벤처기업부장관",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 팁스 주관기관 모집 공고",
-      "org": "신산업기술창업과",
-      "period_text": "2024-12-31~2025-01-20",
-      "period_start": "2024-12-31",
-      "period_end": "2025-01-20",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1055562",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1055562",
-      "content": "2025년 팁스 주관기관 모집공고를 붙임과 같이 게시합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년도 대중소 상생형 스마트공장 주관기관(대기업 등) 모집 공고",
-      "org": "제조혁신과",
-      "period_text": "2025-01-02~2025-06-27",
-      "period_start": "2025-01-02",
-      "period_end": "2025-06-27",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1055549",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1055549",
-      "content": "ㅇ 신청기간 : 2025년 1월 2일 ~ 2025년 6월 27일 17시까지 ※ 정부 지원예산 소진 시 조기 마감될 수 있음 ㅇ 신청방법 : 스마트공장 사업관리시스템(http://smart-factory.kr)에서 온라인 신청 자세한 내용은 (붙임)의 모집공고문을 참고해 주시기 바랍니다",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 비즈니스지원단 사업 운영기관 모집 공고",
-      "org": "정보화담당관",
-      "period_text": "2024-12-09~2024-12-27",
-      "period_start": "2024-12-09",
-      "period_end": "2024-12-27",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1055081",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1055081",
-      "content": "2025년 비즈니스지원단 사업운영기관 공개 모집합니다. 참여를 희망하는 기관은 공고문의 안내에 따라 신청해주시기 바랍니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 재도전성공패키지 주관기관 모집공고",
-      "org": "창업정책과",
-      "period_text": "2024-12-16~2025-01-03",
-      "period_start": "2024-12-16",
-      "period_end": "2025-01-03",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1055066",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1055066",
-      "content": "2025년 재도전성공패키지 주관기관을 모집하기 위한 공고문을 붙임과 같이 게시합니다. 본 공고는 (예비)재창업자 지원을 담당하는 주관기관을 모집하는 공고문이며, (예비)재창업자 모집공고문은 '25.1월말 별도 게시할 예정입니다. 온라인 신청 방법 및 제출양식은 창업지원포털 (www.k-startup.go.kr) 을 통해 확인하실 수 있습니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년도 부처협업형 스마트공장 운영기관 모집공고",
-      "org": "제조혁신과",
-      "period_text": "2024-11-18~2024-12-12",
-      "period_start": "2024-11-18",
-      "period_end": "2024-12-12",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1054595",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1054595",
-      "content": "2025년도 부처협업형 스마트공장 구축 지원사업의 운영기관 모집계획을 다음과 같이 공고합니다. 상세한 사항은 첨부 공고문을 참고바랍니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2025년 초격차 프로젝트 기술사업화 및 개방형 혁신 주관기관 공고",
-      "org": "신산업기술창업과",
-      "period_text": "2024-11-13~2024-12-05",
-      "period_start": "2024-11-13",
-      "period_end": "2024-12-05",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1054565",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1054565",
-      "content": "중소벤처기업부 공고 제2024-558호 2025년 초격차 프로젝트 기술사업화 및 개방형 혁신 주관기관 모집을 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:43:59+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2024년 제조데이터 표준화 사업 수행기관 모집 공고",
-      "org": "제조혁신과",
-      "period_text": "2024-07-01~2024-07-16",
-      "period_start": "2024-07-01",
-      "period_end": "2024-07-16",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1051112",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1051112",
-      "content": "공장‧기업 간 디지털 연결을 촉진하는 제조데이터 표준 기반 스마트공장 구축을 위해 중소벤처기업부에서 추진중인 제조데이터 표준화 사업의 수행기관(운영기관, 참조모델 개발기관)을 선정하고자 하오니, 사업 참여를 희망하는 기관은 신청하시기 바랍니다. ※ 참고용 표준참조모델·가이던스(별첨2) 및 교육자료(별첨3)는 스마트공장사업관리시스템(smart-factory.kr)을 통하여 스마트제조혁신추진단(중소기업기술정보진흥원 부설)에서 별도 배포 예정",
-      "matched_keywords": [
-        "운영기관",
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:04+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2024년 동네펀딩 연계형 소상공인 NFT사업 주관기관 모집 공고",
-      "org": "소상공인성장촉진과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1050230",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1050230",
-      "content": "2024년동네펀딩 연계형 소상공인 NFT사업 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2024년 소공인특화지원센터 운영기관 모집공고",
-      "org": "지역상권과",
-      "period_text": "2024-04-15~2024-05-10",
-      "period_start": "2024-04-15",
-      "period_end": "2024-05-10",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1049616",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1049616",
-      "content": "2024년 소공인특화지원센터 운영기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "24년 온라인수출 컨설팅 수행기관 모집공고",
-      "org": "글로벌성장정책과",
-      "period_text": "2024-03-12~2024-03-25",
-      "period_start": "2024-03-12",
-      "period_end": "2024-03-25",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1048844",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1048844",
-      "content": "24년 온라인수출 컨설팅 수행기관을 붙임과 같이 공고합니다. - 사업목적 : 온라인수출 실적 보유기업 대상, 온라인수출 분야에 특화된 컨설팅을 제공하여 온라인수출 전문기업으로 집중 육성 - 모집기간 : 2024. 3. 12.(화) ~ 3. 25(월) 18:00 - 문의처 중소벤처기업진흥공단 (055-751-9757) 중소벤처기업부 글로벌성장정책과 (044-204-7507)",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2024년 전자상거래수출 시장진출 사업 수행기관 모집 공고",
-      "org": "글로벌성장정책과",
-      "period_text": "2024-02-27~2024-03-12",
-      "period_start": "2024-02-27",
-      "period_end": "2024-03-12",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1048464",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1048464",
-      "content": "중소벤처기업의 온라인수출을 지원하는 전자상거래수출 시장진출 사업의 수행기관을 다음과 같이 모집합니다. 1. 신청기간 및 방법 - 신청기간: 2024. 2. 27.(화) ∼ 3. 12.(화) 18:00 - 신청방법: 고비즈코리아(http://kr.gobizkorea.com) 온라인 접수 2. 모집사업 ① 글로벌쇼핑몰 진출지원사업 ② 자사몰 진출사업 ③ 온라인수출 신시장 진출 지원사업 ④ 미디어콘텐츠 마케팅사업 ⑤ 미디어콘텐츠 마케팅사업(중국) ⑥ 온라인수출 공동물류 사업 ※ 자세한 사항은 첨부의 공고문을 참고해주시기 바랍니다. 3. 문의처 - 중소벤처기업부 글로벌성장정책과 : 044-204-7507 - 중소벤처기업진흥공단 온라인수출처 ① 글로벌쇼핑몰 진출지원사업: 055-751-9777, 9779, 9755, 9763 ② 자사몰 진출사업: 055-751-9778, 9756, 9766 ③ 온라인수출 신시장 진출 지원사업: 055-751-9753 ④ 미디어콘텐츠 마케팅사업: 02-2130-1482, 1485 ⑤ 미디어콘텐츠 마케팅사업(중국): 02-2130-1482, 1485 ⑥ 온라인수출 공동물류 사업: (물류)02-2130-1484, 1486, (연계마케팅)02-2130-1484, 1488",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2024년도 재도전성공패키지 (예비)재창업자 모집 수정공고",
-      "org": "창업정책과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1048096",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1048096",
-      "content": "사업경험과 우수한 아이템을 바탕으로 성장 가능성이 높은 (예비)재창업자를 발굴하고, 패키지형 재창업 지원을 위한 「2024년도 재도전성공패키지 (예비)재창업자 모집계획」을 붙임과 같이 공고합니다. 자세한 신청방법 및 제출서류 양식은 K-Startup 창업지원포털(www.k-startup.go.kr)을 참고하시기 바랍니다. * 수정사항 : IP전략형 주관기관 지정(한국발명진흥회) 및 '압류ㆍ매각의 유예승인 통지서' 서식명 개정에 따른 수정",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:14+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2024년 중소기업 스마트서비스 지원사업 수행기관 모집 공고",
-      "org": "디지털혁신과",
-      "period_text": "2024-02-14~2024-02-29",
-      "period_start": "2024-02-14",
-      "period_end": "2024-02-29",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1048092",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1048092",
-      "content": "2024년 중소기업 스마트서비스 지원사업 수행기관 모집 공고 * 본 공고는 사업을 수행하는 수행기관(협단체 등) 모집 공고이며, 스마트서비스 도입, 구축(참여)을 원하는 중소기업(도입기업+공급기업) 모집은 별도 공고 예정(3~4월중 예정) ** 신청/접수 문의처 : 중소기업기술정보진흥원 스타트업사업실(044-300-0553)",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:14+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2024년도 메이커 활성화 지원사업 협업형 주관기관 모집 공고",
-      "org": "창업생태계과",
-      "period_text": "2024-01-16~2024-02-13",
-      "period_start": "2024-01-16",
-      "period_end": "2024-02-13",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1047415",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1047415",
-      "content": "제조 창작공간 조성·운영과 메이커 문화확산을 통해 제조 창업의 마중물 역할을 하는 2024년「메이커 활성화 지원사업」의 협업형(컨소시엄) 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:14+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2024년도 메이커 활성화 지원사업 시제품 제작터 주관기관 모집 재공고",
-      "org": "창업생태계과",
-      "period_text": "2024-01-18~2024-01-25",
-      "period_start": "2024-01-18",
-      "period_end": "2024-01-25",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1047197",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1047197",
-      "content": "제조창업 촉진, 메이커 저변확대를 위해 시제품 제작터를 운영할 주관기관을 모집하오니, 관심 있는 기관의 많은 참여 바랍니다. - 선정규모 : 1개 주관기관 - 신청기간 : '24.1.18~1.25 16:00까지",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:14+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2024년 국제개발협력(ODA) 사업수행기관 모집 공고",
-      "org": "국제통상협력과",
-      "period_text": "2024-01-05~2024-01-22",
-      "period_start": "2024-01-05",
-      "period_end": "2024-01-22",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1047120",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1047120",
-      "content": "중소벤처기업부 2024년도 국제개발협력(ODA) 사업수행기관 모집 공고입니다. 자세한 내용은 첨부파일을 확인하여 주시기 바랍니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:14+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2024년도 대중소 상생형 스마트공장 주관기관 (대기업 등) 모집 공고",
-      "org": "제조혁신과",
-      "period_text": "2024-01-11~2024-06-28",
-      "period_start": "2024-01-11",
-      "period_end": "2024-06-28",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1046953",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1046953",
-      "content": "중소기업 제조현장의 경쟁력 제고를 위해 2024년도 스마트공장 보급 확산 사업의 대중소 상생형 스마트공장 주관기관 모집을 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:14+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "초격차 스타트업 1000+ 프로젝트 기술사업화 및 투자유치 주관기관 모집 공고",
-      "org": "미래산업전략팀",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1046762",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1046762",
-      "content": "초격차 스타트업 1000+ 프로젝트 기술사업화 및 투자유치 주관기관 모집공고문입니다. 자세한 사항은 붙임 파일에서 확인하실 수 있습니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:14+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "'23년 메이커활성화 지원사업 시제품 제작터 주관기관 모집공고",
-      "org": "창업생태계과",
-      "period_text": "2023-11-01~2023-11-15",
-      "period_start": "2023-11-01",
-      "period_end": "2023-11-15",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1045395",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1045395",
-      "content": "제조창업 촉진, 메이커 저변확대를 위해 시제품 제작터를 운영할 주관기관을 모집하오니 관심 있는 기관의 많은 참여바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:18+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 서울 창신 의류제조 공동인프라 운영기관 모집공고",
-      "org": "지역상권과",
-      "period_text": "2023-04-27~2023-05-19",
-      "period_start": "2023-04-27",
-      "period_end": "2023-05-19",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1041286",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1041286",
-      "content": "2023년 서울 창신 의류제조 공동인프라 운영기관 모집공고를 붙임과 같이 안내합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:23+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년도 부처협업형 스마트공장 구축 지원사업 공고",
-      "org": "제조혁신과",
-      "period_text": "2023-03-03~2023-04-27",
-      "period_start": "2023-03-03",
-      "period_end": "2023-04-27",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1039873",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1039873",
-      "content": "부처간 협업을 통해 국가 전략산업 육성 또는 산업안전 등 현안문제 해결을 위하여 중소벤처기업부의 스마트공장 구축과 협업부처의 기업지원서비스를 연계하여 지원하는 2023년도 부처협업형 스마트공장 구축 지원사업의 지원계획을 다음과 같이 공고합니다. (본 공고는 부처협업형 스마트공장 구축 지원사업의 원활한 운영 관리를 위해 운영기관을 모집하는 공고이며, 분야별 운영기관 선정 이후 중소.중견기업 모집을 위한 공고는 추후 실시 예정) o 신청기간 : 2023년 3월 3일(금) ~ 2023년 4월 27일(목) 17시까지 o 신청방법 : 스마트공장 사업관리시스템(smart-factory.kr)을 통해 온라인 신청 기타 자세한 사항은 붙임의 사업공고문 참조",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:23+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 「중소기업 규제개선 지원사업」 수행기관 추가 모집공고",
-      "org": "총괄운영담당관",
-      "period_text": "2023-02-27~2023-03-13",
-      "period_start": "2023-02-27",
-      "period_end": "2023-03-13",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1039740",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1039740",
-      "content": "중소벤처기업부는 중소기업이 겪고 있는 규제와 애로를 발굴하고 개선방안 마련을 추진할 중소기업 협·단체를 추가 모집하오니, 많은 관심과 참여 바랍니다. 2023년 2월 27일 중소벤처기업부 장관",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:23+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 국제개발협력(ODA) 사업수행기관 모집 재공고",
-      "org": "국제통상협력과",
-      "period_text": "2023-02-14~2023-02-24",
-      "period_start": "2023-02-14",
-      "period_end": "2023-02-24",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1039473",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1039473",
-      "content": "중기부 2023년도 국제개발협력사업(ODA) 사업수행기관 모집을 재공고합니다. 자세한 내용은 첨부파일을 확인하여 주시기 바랍니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:23+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "「’23년 민관협력 오픈이노베이션 지원」 수요기반형 프로그램 시범운영기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2023-02-08~2023-03-22",
-      "period_start": "2023-02-08",
-      "period_end": "2023-03-22",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1039358",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1039358",
-      "content": "「’23년 민관협력 오픈이노베이션 지원」 수요기반형 프로그램 시범운영기관 모집 공고 ㅇ 신청기간 : 2023년 2월 8일(수) ～ 3월 22일(수), 16:00까지 ㅇ 신청방법 : K-Startup(www.k-startup.go.kr)을 통한 온라인 신청·접수 ㅇ 자세한 사항은 첨부 공고문 참조",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 해외실증(POC) 지원 프로그램 주관기관(컨소시엄) 모집 공고",
-      "org": "기술창업과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1039269",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1039269",
-      "content": "글로벌(북미, 유럽, 아시아 등) 기업과 국내 창업기업과의 협력 수요 발굴 및 매칭을 지원하는 '해외 실증(POC) 지원 프로그램' 주관기관을 다음과 같이 모집 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 K-스타트업 센터(KSC) 프로그램 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2023-02-03",
-      "period_start": "2023-02-03",
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1039268",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1039268",
-      "content": "해외 진출을 희망하는 창업 7년 이내 창업기업을 대상으로 글로벌 창업지원 프로그램 등을 운영할 K-스타트업 센터(KSC' 신규 주관기관을 다음과 같이 모집 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 데이터 인프라 구축사업 운영기관 모집 공고",
-      "org": "디지털혁신과",
-      "period_text": "2023-02-09~2023-03-02",
-      "period_start": "2023-02-09",
-      "period_end": "2023-03-02",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1039076",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1039076",
-      "content": "2023년 데이터 인프라 구축사업 운영기관 모집을 위한 공고문을 붙임과 같이 게시하오니, 많은 참여 부탁 드립니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 제조데이터 AI문제해결 컨설팅 및 솔루션 실증 지원사업 운영기관 모집 공고",
-      "org": "디지털혁신과",
-      "period_text": "2023-02-15~2023-03-02",
-      "period_start": "2023-02-15",
-      "period_end": "2023-03-02",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1039073",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1039073",
-      "content": "2023년 제조데이터 AI문제해결 컨설팅 및 솔루션 실증 지원사업 운영기관 모집을 위한 공고문을 붙임과 게시하오니, 많은 참여 부탁드립니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "북한이탈주민 창업지원사업 주관기관 지정·운영 계획 공고",
-      "org": "기업환경정책과",
-      "period_text": "2023-01-30~2023-02-13",
-      "period_start": "2023-01-30",
-      "period_end": "2023-02-13",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1039011",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1039011",
-      "content": "중소벤처기업부 공고 제2023-75호 북한이탈주민 창업지원을 위한 \"북한이탈주민 창업지원사업 주관기관\" 지정·운영 계획을 공고하오니 많은 참여 바랍니다. 2023년 1월 30일 중소벤처기업부",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "23년도 중소기업 인력양성대학(중소기업 계약학과, 기술사관) 모집 공고",
-      "org": "인력정책과",
-      "period_text": "2023-01-30~2023-03-10",
-      "period_start": "2023-01-30",
-      "period_end": "2023-03-10",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038996",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038996",
-      "content": "2023년도 중소기업 인력양성대학(중소기업 계약학과, 기술사관) 사업에 참여할 주관기관(대학)을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "'23년도 대중소 상생형 스마트공장 주관기관(대기업 등) 모집 공고",
-      "org": "제조혁신과",
-      "period_text": "2023-02-01~2023-06-30",
-      "period_start": "2023-02-01",
-      "period_end": "2023-06-30",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038963",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038963",
-      "content": "2023년도 「대중소 상생형 스마트공장」 주관기관(대기업 등)을 모집합니다. ㅇ 신청기간 : 2023년 2월 1일 ~ 2023년 6월 30일 17시까지 ※ 정부 지원예산 소진 시 조기 마감될 수 있음 ㅇ 신청방법 : 스마트공장 사업관리시스템(http://smart-factory.kr)에서 온라인 신청 자세한 내용은 (붙임)의 모집공고문을 참고해 주시기 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 중소기업 스마트서비스 지원사업 수행기관 모집 공고",
-      "org": "기술혁신정책과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038855",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038855",
-      "content": "2023년 중소기업 스마트서비스 지원사업 수행기관 모집 공고 * 본 공고는 사업을 수행하는 수행기관(협단체 등) 모집 공고이며, 스마트서비스 도입, 구축(참여)을 원하는 중소기업(공급기업+도입기업) 모집기간은 3월중 예정 ** 자세한 문의는 전담기관(02-2280-0404)으로 문의요망",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 「중소기업 규제개선 지원사업」 수행기관 모집공고",
-      "org": "총괄운영담당관",
-      "period_text": "2023-01-19~2023-02-03",
-      "period_start": "2023-01-19",
-      "period_end": "2023-02-03",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038822",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038822",
-      "content": "중소벤처기업부는 중소기업이 겪고 있는 규제와 애로를 발굴하고 개선방안 마련을 추진할 중소기업 협·단체를 모집하오니, 많은 관심과 참여 바랍니다. 2023년 1월 19일 중소벤처기업부 장관",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 사내벤처 육성 프로그램 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2023-01-19~2023-02-17",
-      "period_start": "2023-01-19",
-      "period_end": "2023-02-17",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038787",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038787",
-      "content": "2023년 사내벤처 육성 프로그램 주관기관을 모집합니다. ㅇ 신청기간 : 2023년 1월 19일 ~ 2023년 2월 17일 ㅇ 신청방법 : K-스타트업 누리집( www.k-startup.go.kr) 에서 온라인 신청 자세한 내용은 (붙임)의 모집공고문을 참고해 주시기 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 로컬콘텐츠 중점대학 주관기관 모집 공고",
-      "org": "소상공인성장촉진과",
-      "period_text": "2023-01-18~2023-02-01",
-      "period_start": "2023-01-18",
-      "period_end": "2023-02-01",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038780",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038780",
-      "content": "중소벤처기업부 공고 제2023-39호 2023년 로컬콘텐츠 중점대학 주관기관 모집 공고 창의적인 아이디어와 지역자원의 특성을 결합한 차별화된 로컬 콘텐츠를 개발하고, 로컬창업에 필요한 체계적 계획 및 현장 경험을 갖춘 잠재력 있는 예비창업자 육성을 위한 『로컬콘텐츠 중점대학』의 주관기관을 붙임과 같이 모집합니다. 2023년 1월 18일 중소벤처기업부장관",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 혁신창업스쿨 주관기관 모집공고",
-      "org": "청년정책과",
-      "period_text": "2023-01-18~2023-02-15",
-      "period_start": "2023-01-18",
-      "period_end": "2023-02-15",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038772",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038772",
-      "content": "혁신기술 아이디어를 보유한 예비창업자 에게 창업교육 을 제공 하는 '2023년 혁신창업스쿨' 주관기관 을 다음과 같이 모집 합니다. ㅇ 신청기간 : 2023년 1월 18일 (수) ~ 2023년 2월 15일 (수) 16:00 까지 ㅇ 신청방법: K-Startup 홈페이지(www.k-startup.go.kr) 을 통한 온라인 신청·접수만 가능 (우편 및 현장접수 불가) 자세한 내용은 (붙임1)의 공고문을 참고해 주시기 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "「2023년 민관협력 오픈이노베이션 지원」 민관공동 운영기관 참여 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2023-01-18~2023-01-19",
-      "period_start": "2023-01-18",
-      "period_end": "2023-01-19",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038763",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038763",
-      "content": "「’23년 민관협력 오픈이노베이션 지원」 민관공동 운영기관 참여 주관기관 모집 공고 ㅇ 신청자격 : 산업계 및 스타트업 간 오픈이노베이션 생태계 구축 및 지원이 가능한 역량을 보유한 민간 법인단체 ㅇ 신청기간 : 2023년 1월 18일(수) ～ 2월 24일(금), 16:00까지 ㅇ 신청방법 : K-Startup(www.k-startup.go.kr)을 통한 온라인 신청·접수만 가능(우편 및 현장접수 불가)",
-      "matched_keywords": [
-        "주관기관",
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 메이커 활성화 지원사업 협업형 주관기관 모집공고",
-      "org": "창업생태계과",
-      "period_text": "2023-01-17~2023-02-09",
-      "period_start": "2023-01-17",
-      "period_end": "2023-02-09",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038721",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038721",
-      "content": "제조 창작공간 조성·운영과 메이커 문화확산을 통해 제조 창업의 마중물 역할을 하는 2023년 메이커활성화 지원사업의 협업형(컨소시엄) 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년도 민관협력형 팁스타운(시범운영) 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2023-01-16~2023-02-07",
-      "period_start": "2023-01-16",
-      "period_end": "2023-02-07",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038552",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038552",
-      "content": "2023년도 민관협력형 팁스타운(시범운영) 주관기관을 붙임과 같이 모집하고자 합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "혁신분야 창업패키지(신산업 스타트업 육성) 기술사업화 주관기관 모집공고",
-      "org": "미래산업전략팀",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038518",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038518",
-      "content": "신산업 분야의 우수 기술력과 사업성을 보유한 유망 창업기업을 발굴‧육성하는 ｢혁신분야 창업패키지(신산업 스타트업 육성)｣ 사업의 친환경·에너지, 로봇 분야 담당 주관기관을 다음과 같이 모집 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 비즈니스지원단 사업 운영기관 모집 공고",
-      "org": "정보화담당관",
-      "period_text": "2023-01-02~2023-01-20",
-      "period_start": "2023-01-02",
-      "period_end": "2023-01-20",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038221",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038221",
-      "content": "중소벤처기업부 공고 제2022-615호 2023년 중소베처기업부의 비즈니스지원단 사업 운영기관 모집을 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 국제개발협력(ODA) 사업수행기관 모집 공고",
-      "org": "국제통상협력과",
-      "period_text": "2022-12-27~2023-01-27",
-      "period_start": "2022-12-27",
-      "period_end": "2023-01-27",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038132",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038132",
-      "content": "중소벤처기업부는 2023년도 국제개발협력사업(ODA) 사업수행기관을 모집공고합니다. 자세한 내용은 첨부자료를 확인하시기 바랍니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 공공기술 창업사업화 지원사업 주관기관 모집공고",
-      "org": "청년정책과",
-      "period_text": "2022-12-22~2022-01-11",
-      "period_start": "2022-12-22",
-      "period_end": "2022-01-11",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038076",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038076",
-      "content": "중소벤처기업부 공고 제2022 - 596호 2023년 공공기술 창업사업화 지원사업 주관기관 모집공고 공공기술을 활용한 유망 청년 예비창업자 발굴 및 육성을 위해 기술이전, 창업프로그램 등 우수한 창업지원 역량을 갖춘 공공기술 창업사업화 지원사업 주관기관을 다음과 같이 모집 공고합니다. 2022년 12월 22일 중소벤처기업부 장관",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 생애최초 청년창업 지원사업 주관기관 모집공고",
-      "org": "청년정책과",
-      "period_text": "2022-12-22~2022-01-11",
-      "period_start": "2022-12-22",
-      "period_end": "2022-01-11",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1038075",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1038075",
-      "content": "중소벤처기업부 공고 제2022 - 595호 2023년 생애최초 청년창업 지원사업 주관기관 모집공고 유망 창업아이템 및 혁신기술을 보유하고, 생애최초로 창업에 도전하는 청년에게 사업화 자금 및 교육·멘토링, 창업프로그램 등 우수한 창업지원 역량을 갖춘 생애최초 청년창업 지원사업 주관기관을 다음과 같이 모집 공고합니다. 2022년 12월 22일 중소벤처기업부 장관",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 예비창업‧초기창업‧창업도약 패키지 신규 주관기관 모집공고",
-      "org": "기술창업과",
-      "period_text": "2022-12-19~2023-01-09",
-      "period_start": "2022-12-19",
-      "period_end": "2023-01-09",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1037992",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1037992",
-      "content": "2023년 예비창업‧초기창업‧창업도약 패키지 신규 주관기관 모집을 위해 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2023년 창업존 운영사업 주관기관 모집 공고",
-      "org": "창업생태계조성과",
-      "period_text": "2022-11-15~2022-11-29",
-      "period_start": "2022-11-15",
-      "period_end": "2022-11-29",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1037214",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1037214",
-      "content": "'23년 창업존 운영사업 주관기관 모집을 공고하오니, 세부 자격요건 등 자세한 내용은 첨부화일의 공고문을 참고하시기 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:28+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "'22년 민간주도형 예비창업지원 프로그램(시드 팁스) 주관기관 선정계획 추가 공고",
-      "org": "기술창업과",
-      "period_text": "2022-07-18~2022-07-25",
-      "period_start": "2022-07-18",
-      "period_end": "2022-07-25",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1034913",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1034913",
-      "content": "중소벤처기업부 공고 제2022-448호 '22년 민간주도형 예비창업지원 프로그램(시드 팁스) 주관기관 선정계획을 첨부와 같이 추가 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:33+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "'22년 민간주도형 예비창업지원 프로그램(시드 팁스) 주관기관 선정계획 공고",
-      "org": "기술창업과",
-      "period_text": "2022-06-30~2022-07-14",
-      "period_start": "2022-06-30",
-      "period_end": "2022-07-14",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1034590",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1034590",
-      "content": "중소벤처기업부 공고 제2022-421호 '22년 민간주도형 예비창업지원 프로그램(시드 팁스) 주관기관 선정계획을 첨부와 같이 공고합니다. 2022년 6월 30일 중소벤처기업부장관",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:33+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 TIPS 해외마케팅 글로벌AC 연계사업 주관기관 모집 재공고",
-      "org": "기술창업과",
-      "period_text": "2022-05-20~2022-05-30",
-      "period_start": "2022-05-20",
-      "period_end": "2022-05-30",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1033830",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1033830",
-      "content": "2022년 TIPS 해외마케팅 글로벌AC 연계사업 주관기관 모집 재공고",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:33+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 글로벌 투자유치 프로그램 운영기관(해외엑셀러레이터 또는 컨소시엄) 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2022-05-12~2022-05-26",
-      "period_start": "2022-05-12",
-      "period_end": "2022-05-26",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1033713",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1033713",
-      "content": "중소벤처기업부 공고 제2022-316호 2022년 글로벌 투자유치 프로그램 운영기관(해외엑셀러레이터 또는 컨소시엄) 모집 공고 글로벌 성장 가능성이 높은 창업기업의 투자 유치를 지원하는 '2022년 글로벌 투자유치 프로그램'의 운영기관(해외엑셀러레이터 또는 컨소시엄) 모집을 다음과 같이 공고하오니 많은 관심과 참여 바랍니다. 2022년 5월 12일 중소벤처기업부장관",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:33+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년도 인바운드 기술창업자 육성프로그램 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2022-05-12~2022-05-25",
-      "period_start": "2022-05-12",
-      "period_end": "2022-05-25",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1033712",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1033712",
-      "content": "중소벤처기업부 공고 제2022 – 319호 2022년도 인바운드 기술창업자 육성프로그램 주관기관 모집 공고 국내 진출을 희망하는 창업 7년 미만 해외창업기업을 대상으로 창업지원 프로그램을 운영할 '인바운드 기술창업자 육성프로그램' 신규 주관기관을 다음과 같이 모집 공고합니다. 2022년 5월 12일 중소벤처기업부 장관",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:33+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 TIPS 해외마케팅 글로벌 AC 연계사업 주관기관 모집공고",
-      "org": "기술창업과",
-      "period_text": "2022-04-08~2022-04-28",
-      "period_start": "2022-04-08",
-      "period_end": "2022-04-28",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1032999",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1032999",
-      "content": "2022년 TIPS 해외마케팅 글로벌 AC 연계사업 주관기관 모집공고문",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:37+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 광역 소공인특화지원센터 운영기관 모집 공고",
-      "org": "지역상권과",
-      "period_text": "2022-04-08~2022-04-22",
-      "period_start": "2022-04-08",
-      "period_end": "2022-04-22",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1032926",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1032926",
-      "content": "2022년 광역 소공인 특화지원센터 운영기관 모집공고입니다. 많은 참여를 바랍니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:37+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년도 업종별 특화 스마트공장 지원사업 운영기관 추가모집 공고",
-      "org": "제조혁신정책과",
-      "period_text": "2022-04-07~2022-04-22",
-      "period_start": "2022-04-07",
-      "period_end": "2022-04-22",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1032905",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1032905",
-      "content": "2022년 업종별 특화 스마트공장 지원사업 운영기관 추가모집 공고문을 붙임과 같이 게시하오니 역량있는 기업들의 많은 참여 바랍니다. (신청기한) 2022년 4월 7일(목) ~ 4월 22일(금) (신청방법) 스마트공장 1번가(1st.smart-factory.kr) 온라인 접수",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:37+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 글로벌 액셀러레이터 주관기관 모집 재공고",
-      "org": "기술창업과",
-      "period_text": "2022-03-15~2022-03-25",
-      "period_start": "2022-03-15",
-      "period_end": "2022-03-25",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1032445",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1032445",
-      "content": "2022년 글로벌 액셀러레이터 주관기관 모집 재공고",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:37+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 해외실증 프로그램 주관기관 모집 재공고",
-      "org": "기술창업과",
-      "period_text": "2022-03-15~2022-03-25",
-      "period_start": "2022-03-15",
-      "period_end": "2022-03-25",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1032444",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1032444",
-      "content": "2022년 해외실증 프로그램 주관기관 모집 재공고",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:37+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 중소기업 규제애로 발굴‧개선 지원사업 수행기관 모집공고",
-      "org": "총괄운영담당관",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1032345",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1032345",
-      "content": "중소벤처기업부는 중소기업이 겪고 있는 규제와 애로를 발굴하고 개선방안 마련을 추진할 중소기업 협·단체를 모집하오니, 많은 관심과 참여 바랍니다. 2022년 3월 10일 중소벤처기업부 장관",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:37+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 중장년 기술창업센터 신규 주관기관 모집 공고",
-      "org": "창업생태계조성과",
-      "period_text": "2022-01-27~2022-03-25",
-      "period_start": "2022-01-27",
-      "period_end": "2022-03-25",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1031747",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1031747",
-      "content": "중소벤처기업부 공고 제2022-94호 「2022년 중장년 기술창업센터 신규 주관기관 모집 공고」 역량 있는 중장년 (예비)창업기업 지원을 위해 창업지원 인프라와 보육역량을 갖추고 성공적 기술창업을 선도할 「중장년 기술창업센터」 주관(협력)기관을 다음과 같이 모집합니다. 2022년 1월 27일 중소벤처기업부장관",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:37+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 해외실증 지원 프로그램 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2022-02-04~2022-02-28",
-      "period_start": "2022-02-04",
-      "period_end": "2022-02-28",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1031737",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1031737",
-      "content": "2022년도 해외실증 지원 프로그램에 참여할 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:37+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 한러 혁신플랫폼 주관기관 모집 공고문",
-      "org": "기술창업과",
-      "period_text": "2022-02-04~2022-02-28",
-      "period_start": "2022-02-04",
-      "period_end": "2022-02-28",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1031736",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1031736",
-      "content": "2022년도 한러 혁신플랫폼 사업에 참여할 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:37+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 글로벌 액셀러레이팅 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2022-02-04~2022-02-28",
-      "period_start": "2022-02-04",
-      "period_end": "2022-02-28",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1031735",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1031735",
-      "content": "2022년도 글로벌 액셀러레이팅 지원사업에 참여할 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:37+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "글로벌 스타트업 페스티벌(COMEUP) 주관기관 모집공고",
-      "org": "창업정책총괄과",
-      "period_text": "2022-01-20~2022-02-21",
-      "period_start": "2022-01-20",
-      "period_end": "2022-02-21",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1031461",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1031461",
-      "content": "글로벌 스타트업 페스티벌(COMEUP) 주관기관 모집공고문을 붙임과 같이 게시하오니 많은 관심과 참여 바랍니다. (신청기간) 2022년 1월 20일(목) ~ 2월 21일(월) 17시 까지 (신청방법) K-Startup 홈페이지( www.k-startup.go.kr ) 온라인 접수 * 자세한 사항은 공고문 참조",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:41+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "「2022년 지역특화 제조데이터 활성화사업」 수행기관 모집공고",
-      "org": "제조혁신정책과",
-      "period_text": "2022-02-07~2022-03-02",
-      "period_start": "2022-02-07",
-      "period_end": "2022-03-02",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1031459",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1031459",
-      "content": "2022년 지역특화 제조데이터 활성화사업의 수행기관 모집 공고문을 붙임과 같이 게시하오니 역량있는 기업들의 많은 참여 바랍니다. (신청기간) 2022년 2월 7일(월) ~ 3월 2일(수) (신청방법) 스마트공장 1번가(1st.smart-factory.kr) 온라인 접수 ※ 자세한 사항은 공고문 참조",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:41+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년도 연구기반 활용 플러스사업 시행계획 공고",
-      "org": "기술개발과",
-      "period_text": "2022-02-07~2022-02-18",
-      "period_start": "2022-02-07",
-      "period_end": "2022-02-18",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1031280",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1031280",
-      "content": "2022년도연구기반 활용 플러스사업 시행계획을 붙임과 같이 공고하오니, 동 사업에 참여하고자 하는 중소기업과 운영기관은 사업안내에 따라 신청하시기 바랍니다. ㅇ 접수기간 - 주관연구개발기관 : '22. 2. 7.(월) ~ 2. 18.(금) 18:00까지 - 운영기관 : '22. 2. 7.(월) 부터 상시접수 자세한 내용은 첨부파일의 공고문을 참고하여 주시기 바랍니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:41+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 실전창업교육 주관기관 모집공고",
-      "org": "창업촉진과",
-      "period_text": "2022-01-13~2022-02-11",
-      "period_start": "2022-01-13",
-      "period_end": "2022-02-11",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1031262",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1031262",
-      "content": "혁신기술 아이디어를 보유한 예비창업자를 대상으로 실전형 창업교육을 운영하기 위한 '2022년 실전창업교육' 주관기관을 다음과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:41+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년 재도전성공패키지 주관기관(일반형, 교육형) 모집공고",
-      "org": "재도약정책과",
-      "period_text": "2022-01-17~2022-01-28",
-      "period_start": "2022-01-17",
-      "period_end": "2022-01-28",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1031023",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1031023",
-      "content": "(예비)재창업자의 사업화 및 성장지원을 위해 특화된 역량과 인프라를 보유한 '2022년 재도전성공패키지 지원사업의 주관기관'을 붙임과 같이 모집합니다. 본 공고는 (예비)재창업자 지원을 담당하는 주관기관을 모집하는 공고문이며, (예비)재창업자에 대한 사업화 지원은 '22.1월말 별도 공고 예정입니다. 온라인 신청 및 제출양식 확인은 창업지원포털 ( www.k-startup.go.kr ) 을 통해 하실 수 있습니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:41+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2022년도 「리빙랩 활용 기술개발」 운영기관 모집 공고",
-      "org": "기술개발과",
-      "period_text": "2021-12-27~2022-01-27",
-      "period_start": "2021-12-27",
-      "period_end": "2022-01-27",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1030906",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1030906",
-      "content": "중소벤처기업부 공고 제2021-646호 2022년도 「리빙랩 활용 기술개발」 운영기관 모집 공고합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:41+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년도 신규 신사업창업사관학교 설치 지역 운영 주관기관 모집공고",
-      "org": "소상공인경영지원과",
-      "period_text": "2021-07-27~2021-08-18",
-      "period_start": "2021-07-27",
-      "period_end": "2021-08-18",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1028134",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1028134",
-      "content": "2021년 신규로 설치되는 강원, 경북, 제주 3개 지역의 신사업창업사관학교를 운영할 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 광역 소공인특화지원센터 운영기관 모집 공고",
-      "org": "지역상권과",
-      "period_text": "2021-07-19",
-      "period_start": "2021-07-19",
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1027931",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1027931",
-      "content": "2021년 광역 소공인특화지원센터 운영기관 모집 공고문을 안내드립니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 중장년 기술창업센터 신규 주관기관 모집 공고(연장)",
-      "org": "창업촉진과",
-      "period_text": "2021-05-26~2021-06-23",
-      "period_start": "2021-05-26",
-      "period_end": "2021-06-23",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1027153",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1027153",
-      "content": "2021년도 중장년 기술창업센터 신규 주관기관 모집기간을 연장하여 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년도 중장년 기술창업센터 신규 주관기관 모집 공고(연장)",
-      "org": "창업촉진과",
-      "period_text": "2021-05-26~2021-06-23",
-      "period_start": "2021-05-26",
-      "period_end": "2021-06-23",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1026718",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1026718",
-      "content": "2021년도 중장년 기술창업센터 신규 주관기관 모집기간을 연장하여 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 소재부품장비전략협력기술개발사업 운영기관 모집 공고",
-      "org": "기술개발과",
-      "period_text": "2021-05-25~2021-06-15",
-      "period_start": "2021-05-25",
-      "period_end": "2021-06-15",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1026715",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1026715",
-      "content": "2021년도 「소재부품장비 전략협력 R&D」 운영기관 모집 공고 소재·부품·장비분야 전문인력 및 인프라가 우수한 대학 및 연구기관을 활용하여 소재·부품·장비 분야 유망 중소기업의 기술혁신 역량을 제고하는 「2021년도 소재부품장비 전략협력 R&D」에 운영기관으로 참여할 대학 및 연구기관을 아래와 같이 모집하고자 하오니 많은 참여 바랍니다. 2021년 5월 25일 중소벤처기업부 장관",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년도 「메이커 스페이스 구축.운영사업」 주관기관 모집공고",
-      "org": "창업생태계조성과",
-      "period_text": "2021-05-20~2021-06-14",
-      "period_start": "2021-05-20",
-      "period_end": "2021-06-14",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1026582",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1026582",
-      "content": "2021년도 「메이커 스페이스 구축.운영사업」 주관기관 모집공고를 붙임과 같이 안내합니다. 자세한 사항은 K-Startup( www.k-startup.go.kr )을 참고해주시기 바랍니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 소공인특화지원센터 운영기관 추가 모집 공고",
-      "org": "지역상권과",
-      "period_text": "2021-05-14",
-      "period_start": "2021-05-14",
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1026513",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1026513",
-      "content": "2021년 소공인특화지원센터 운영기관 추가 모집 공고를 안내드립니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:46+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년도 중장년 기술창업센터 신규 주관기관 모집 공고",
-      "org": "창업촉진과",
-      "period_text": "2021-04-28~2021-05-11",
-      "period_start": "2021-04-28",
-      "period_end": "2021-05-11",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1026165",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1026165",
-      "content": "2021년도 중장년 기술창업센터 신규 주관기관 모집을 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:51+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년도 중소기업특성화고 인력양성사업 신규 참여기관 모집 공고",
-      "org": "인력육성과",
-      "period_text": "2021-04-22~2021-05-12",
-      "period_start": "2021-04-22",
-      "period_end": "2021-05-12",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1026047",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1026047",
-      "content": "2021년도 중소기업특성화고 인력양성사업에 신규로 참여할 참여기관을 모집합니다 모집대상 및 규모 1. 특성화고 단독형 14개교 내외, 학교당 평균 1억원 내외 지원 2. 컨소시엄 형[주관기관-특성화고 2개교 이상-기타 협력기관(필요시)] 2개, 컨소시엄당 평균 2억원 내외 지원",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:51+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 중장년 기술창업센터 주관기관 모집공고",
-      "org": "창업촉진과",
-      "period_text": "2021-02-22~2021-03-19",
-      "period_start": "2021-02-22",
-      "period_end": "2021-03-19",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1024764",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1024764",
-      "content": "2021년 중장년 기술창업센터 주관기관 모집을 붙임과 같이 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:51+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 소공인특화지원센터 운영기관 모집 공고",
-      "org": "지역상권과",
-      "period_text": "2021-02-22~2021-03-22",
-      "period_start": "2021-02-22",
-      "period_end": "2021-03-22",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1024756",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1024756",
-      "content": "2021년 소공인특화지원센터 운영기관 모집 공고문을 안내드립니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:51+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 창업도약패키지 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2021-02-17~2021-03-04",
-      "period_start": "2021-02-17",
-      "period_end": "2021-03-04",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1024700",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1024700",
-      "content": "2021년 창업도약패키지 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:51+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 실전창업교육 주관기관 모집 공고",
-      "org": "창업촉진과",
-      "period_text": "2021-02-11~2021-03-09",
-      "period_start": "2021-02-11",
-      "period_end": "2021-03-09",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1024607",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1024607",
-      "content": "유망한 아이디어를 보유한 예비창업자를 대상으로 실전형 창업교육을 운영하기 위한 2021년 실전창업교육 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:51+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 글로벌기업 협업 프로그램 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2021-02-10~2021-03-02",
-      "period_start": "2021-02-10",
-      "period_end": "2021-03-02",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1024601",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1024601",
-      "content": "2021년 글로벌기업 협업 프로그램 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:51+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 비대면 분야 스타트업 육성사업 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1024585",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1024585",
-      "content": "2021년 비대면 분야 스타트업 육성사업의 주관기관을 붙임과 같이 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:51+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년도 시군구 지역연고산업육성(비R&D) 지원계획 공고",
-      "org": "지역특구과",
-      "period_text": "2021-03-09~2021-03-22",
-      "period_start": "2021-03-09",
-      "period_end": "2021-03-22",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1024566",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1024566",
-      "content": "시군구 지역의 연고산업을 발굴·육성·고도화하고, 지역 중소기업의 매출 신장·일자리 창출 등 지역 경제 활성화에 기여하고자 시군구 지역연고산업 육성사업의 주관기관을 모집합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:51+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 사내벤처 육성 프로그램 주관기관 모집 공고",
-      "org": "창업생태계조성과",
-      "period_text": "2021-02-08~2021-02-25",
-      "period_start": "2021-02-08",
-      "period_end": "2021-02-25",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1024515",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1024515",
-      "content": "대기업 등 운영기업에서 발굴․육성한 사내벤처팀･창업기업의 사업화 및 성장 지원을 위해 특화된 역량과 인프라를 보유한 ｢2021년 사내벤처 육성 프로그램｣ 주관기관을 모집 공고합니다. * K-Startup 홈페이지를 통해 온라인 신청․접수",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:51+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 중소기업 스마트서비스 지원사업 수행기관 모집 공고",
-      "org": "기술정책과",
-      "period_text": "2021-01-21~2021-02-17",
-      "period_start": "2021-01-21",
-      "period_end": "2021-02-17",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1024080",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1024080",
-      "content": "중소기업 서비스분야 혁신 도모를 위해 중소기업을 대상으로 첨단 ICT를 접목한 스마트서비스 솔루션 구축을 지원하는 '중소기업 스마트서비스 지원사업'을 수행할 기관을 모집합니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:56+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 글로벌창업사관학교 D·N·A 분야 기술교육 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "2021-01-12~2021-01-27",
-      "period_start": "2021-01-12",
-      "period_end": "2021-01-27",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1023872",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1023872",
-      "content": "중소벤처기업부 공고 제2021-014호 「2021년 글로벌창업사관학교」 D.N.A. 분야 기술교육 주관기관 모집 공고 D.N.A 분야 우수 창업기업 집중 양성을 위해 세계 최고 수준의 글로벌 기업을 통해 D.N.A 분야 기술교육을 지원하는 2021년 글로벌 창업사관학교 주관기관을 다음과 같이 모집 공고합니다. 2021년 1월 12일 중 소 벤 처 기 업 부 장 관",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:56+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2021년 현장클리닉 사업 운영기관 모집 공고",
-      "org": "고객정보화담당관",
-      "period_text": "2020-12-14~2021-01-08",
-      "period_start": "2020-12-14",
-      "period_end": "2021-01-08",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1023226",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1023226",
-      "content": "중소벤처기업부 공고 제2020-591호 2021년 「현장클리닉 사업」운영기관 모집공고 중소기업의 애로사항에 대해 분야별 전문가가 직접 방문하여 애로 해결을 지원하는 「현장클리닉 사업」 운영기관을 모집하오니, 많은 관심과 참여 바랍니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:44:56+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 업종별특화 스마트공장사업 운영기관 모집 공고",
-      "org": "제조혁신지원과",
-      "period_text": "2020-07-20~2020-08-20",
-      "period_start": "2020-07-20",
-      "period_end": "2020-08-20",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1020315",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1020315",
-      "content": "2020년 업종별특화 스마트공장사업 운영기관을 붙임과 같이 공고하니 역량있는 기관의 많은 참여 바랍니다. 신청기간 : 2020년 7월 20일 ~ 8월 20일",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:01+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 데이터 인프라 구축 사업 수행기관 모집 공고",
-      "org": "제조혁신정책과",
-      "period_text": "제2020-395호~2020.07.13",
-      "period_start": "제2020-395호",
-      "period_end": "2020.07.13",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1020202",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1020202",
-      "content": "2020년 데이터 인프라 구축 사업 수행기관 모집을 위한 공고문을 붙임과 같이 게시하오니, 많은 참여 부탁 드립니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:01+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 산학협력 거점형 플랫폼 시행계획 공고",
-      "org": "기술개발과",
-      "period_text": "2020-06-05~2020-09-03",
-      "period_start": "2020-06-05",
-      "period_end": "2020-09-03",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1019254",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1019254",
-      "content": "2020년 산학협력 거점형 플랫폼 시행계획을 다음과 같이 공고 합니다. 1단계 신청기간 및 방법은 운영기관 별 별도 공고에 따라 진행 하시기 바랍니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:01+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 중소기업지원 선도연구기관 협력기술개발사업 시행계획 공고",
-      "org": "기술개발과",
-      "period_text": "2020-06-05~2020-09-14",
-      "period_start": "2020-06-05",
-      "period_end": "2020-09-14",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1019253",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1019253",
-      "content": "2020년 중소기업지원 선도연구기관 협력기술개발사업 시행계획을 다음과 같이 공고 합니다. 1단계 신청기간 및 방법은 운영기관 별 별도 공고에 따라 진행 하시기 바랍니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:01+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 소공인 특화지원센터 운영기관 모집 공고",
-      "org": "지역상권과",
-      "period_text": "2020-05-20~2020-06-17",
-      "period_start": "2020-05-20",
-      "period_end": "2020-06-17",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1018846",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1018846",
-      "content": "2020년 소공인 특화지원센터 운영기관 모집 공고",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:05+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 글로벌창업사관학교 AI 분야별 특화교육 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1018461",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1018461",
-      "content": "2020년 글로벌창업사관학교 AI 분야별 특화교육 주관기관 모집 공고 AI 분야 우수 창업기업 집중 양성을 위해 세계 최고 수준의 글로벌 대기업을 통해 AI 분야에 특화된 전문교육을 지원하는 2020년 글로벌창업사관학교 주관기관을 다음과 같이 모집 공고합니다. 2020년 4월 29일",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:05+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "중소기업 스마트서비스 지원사업 수행기관 모집 연장 공고",
-      "org": "기술정책과",
-      "period_text": "2020-02-25~2020-03-31",
-      "period_start": "2020-02-25",
-      "period_end": "2020-03-31",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1017723",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1017723",
-      "content": "코로나-19 확산에 따른 중소기업의 불편을 최소화하고자 현재 공고중인 2020년 중소기업 스마트서비스 지원사업 수행기관 모집 공고(중기부 공고 제2020-134호)의 접수 기간 연장을 공고하오니 중소기업 및 관련 기관은 과제 신청시 참고 바랍니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:05+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년도 빅데이터 기반 서비스개발 R&D 사업 시행계획 연장 및 수정 공고",
-      "org": "기술정책과",
-      "period_text": "2020-03-09~2020-04-10",
-      "period_start": "2020-03-09",
-      "period_end": "2020-04-10",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1017704",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1017704",
-      "content": "코로나19 확산에 따른 중소기업들의 불편을 최소화 하기위해 사업의 신청 접수기간을 연장하고, 기타 수정사항을 안내드리니 과제 신청 시 참고하시기 바랍니다. 자세한 사항은 붙임 파일을 확인해 주시기 바랍니다. 2020. 3. 17. ㅇ 접수기간 연장 : 접수마감일 3.27. → 4. 10.로 변경 ㅇ 데이터플랫폼 운영기관 수정알림 : 한국데이터거래소 운영기관을 매일경제 → 매일방송 으로 수정 ㅇ 추가 안내사항 명시 : 사업 접수 시, 일자리평가 정보제공 동의에 '동의'하여야함",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:05+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 중소기업 스마트서비스 지원사업 수행기관 모집 공고",
-      "org": "기술정책과",
-      "period_text": "2020-02-25~2020-03-24",
-      "period_start": "2020-02-25",
-      "period_end": "2020-03-24",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1017308",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1017308",
-      "content": "국내 서비스 산업의 혁신을 위해 중소기업을 대상으로 필요한 ICT 솔루션 도입을 지원하는 '중소기업 스마트서비스 지원사업의 수행기관을 다음과 같이 모집합니다 *동 공고는 해당 사업의 원활한 운영 관리를 위해 수행기관을 모집하는 공고이며, 수행기관 선정 후 과제를 수행할 중소기업을 모집할 예정입니다.",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:05+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "[공고문] 2020년 BIG3분야 중소벤처기업 혁신성장 지원을 위한 주관기관 모집 공고",
-      "org": "미래산업전략팀",
-      "period_text": "2020-02-13~2020-02-28",
-      "period_start": "2020-02-13",
-      "period_end": "2020-02-28",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1017076",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1017076",
-      "content": "시스템반도체, 바이오헬스, 미래차 등 빅 3 분야 성장잠재력을 보유한 중소벤처기업을 지원하는 '혁신분야 창업패키지 지원사업 및 멘토링 플랫폼 운영 지원사업'을 통해 유망 스타트업, 벤처기업을 발굴하고 지원할 수 있는 역량 있는 주관기관을 다음과 같이 추가모집 공고합니다. * 이번 공고는 빅 3 미래차 중 친환경 분야 주관기관 선정을 위한 추가모집공고임(1차 공고 : 중소벤처기업부 공고 제 2020-30호)",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:05+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 재도전 성공패키지 교육형 주관기관 모집공고",
-      "org": "재기지원과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1016915",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1016915",
-      "content": "본 공고는 재창업교육을 운영할 주관기관 모집 공고입니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 산학협력 거점형 플랫폼 운영기관 모집 공고",
-      "org": "기술개발과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1016714",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1016714",
-      "content": "2020년 산학협력 거점형 플랫폼 운영기관 모집 공고",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 메이커 스페이스 구축운영사업 주관기관 모집 공고",
-      "org": "창업생태계조성과",
-      "period_text": "2020년 1월 20일",
-      "period_start": "2020년 1월 20일",
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1016509",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1016509",
-      "content": "2020년 메이커 스페이스 구축운영사업 주관기관 모집 공고",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 예비창업패키지 특화분야 주관기관 모집공고",
-      "org": "기술창업과",
-      "period_text": "2020.1.17",
-      "period_start": "2020.1.17",
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1016488",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1016488",
-      "content": "중소벤처기업부 공고 제2020-31호 2020년 예비창업패키지 특화분야 주관기관 모집 공고 4차 산업혁명, 관광, 여성, 소셜벤처 '예비창업패키지' 주관기관을 붙임과 같이 모집합니다. 2020년 1월 17일 중소벤처기업부 장관",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 온라인 쇼핑몰 판매대행 수행기관 모집 공고",
-      "org": "해외진출지원담당관",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1016454",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1016454",
-      "content": "2020년 온라인 쇼핑몰 판매대행 수행기관 모집 공고",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 BIG3분야 중소벤처기업 혁신성장 지원을 위한 주관기관 모집 공고",
-      "org": "미래산업전략팀",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1016431",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1016431",
-      "content": "시스템반도체, 바이오헬스, 미래차 등 BIG 3 분야 성장잠재력을 보유한 중소벤처기업을 지원하는 \"혁신분야 창업 패키지 지원사업 및 멘토링 플랫폼 운영 지원사업\"을 통해 유망 스타트업과 벤처기업을 발굴하고 지원할 수 있는 역량 있는 주관기관을 붙이과 같이 모집 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "2020년 초기창업패키지 신규 주관기관 모집 공고",
-      "org": "기술창업과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1016387",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1016387",
-      "content": "2020년 초기창업패키지 신규 주관기관 을 모집 하고자 합니다. ㅇ (사업목적) 창업 인프라가 우수한 대학, 공공 및 민간기관 등을 통해 초기창업(창업 3년이내) 기업의 사업 안정화와 성장을 지원 ㅇ (신청자격) 초기창업기업을 지원할 인적·물적 역량과 인프라를 보유한 공공 및 민간기관 , 대학 등 ㅇ (선정규모) 40개 기관 내외 ㅇ (신청방법) K-Starup 홈페이지(www.k-startup.go.kr) ㅇ (접수기간) '20.1.29(수) ~ 2.11(화) 17:00까지 ㅇ (연락처) 창업진흥원 초기창업부 042-480-4353(4354, 4356, 4357, 4497, 4499) 붙임 : 2020년 초기창업패키지 신규 주관기관 모집 공고 1부. 끝",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "재도전 성공패키지 주관기관(일반형, 민간투자연계형) 모집 공고",
-      "org": "재기지원과",
-      "period_text": "",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1016190",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1016190",
-      "content": "본 모집공고는 (예비)재창업자 지원을 담당하는 주관기관을 모집하는 공고이며, (예비)재창업자에 대한 사업화 지원 모집은 '20년 1월 중 공고 예정입니다",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "제2020-8호 재도전 성공패키지 주관기관(일반형, 민간투자연계형) 모집 공고",
-      "org": "재기지원과",
-      "period_text": "2020-01-02~2020-01-23",
-      "period_start": "2020-01-02",
-      "period_end": "2020-01-23",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1016182",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1016182",
-      "content": "본 모집공고는 (예비)재창업자 지원을 담당하는 주관기관을 모집하는 공고이며, (예비)재창업자에 대한 사업화 지원 모집은 '20년 1월 중 공고 예정입니다",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "제조 데이터 분석 기반 스마트공장 사업 수행기관 모집 공고",
-      "org": "기술정책과",
-      "period_text": "2019-12-11~2019-12-23",
-      "period_start": "2019-12-11",
-      "period_end": "2019-12-23",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1015841",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1015841",
-      "content": "2019년도 제조 데이터 분석 기반 스마트공장 사업 추진계획을 첨부와 같이 공고하오니 동 사업 수행을 희망하는 기관은 신청하시기 바랍니다",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:09+09:00"
-    },
-    {
-      "source": "MSS",
-      "source_name": "중소벤처기업부",
-      "title": "업종별 특화 스마트공장 사업 수행기관 모집 공고",
-      "org": "기술정책과",
-      "period_text": "2019-12-11~2019-12-23",
-      "period_start": "2019-12-11",
-      "period_end": "2019-12-23",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1015840",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "MSS-1015840",
-      "content": "2019년도 업종별 특화 스마트공장 사업 추진계획을 첨부와 같이 공고하오니 동 사업 수행을 희망하는 기관은 신청하시기 바랍니다",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:09+09:00"
-    },
     {
       "source": "KSTARTUP",
       "source_name": "창업진흥원(K-Startup)",
@@ -3139,7 +19,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:15+09:00"
+      "collected_at": "2026-09-23T13:23:22+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -3158,7 +38,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:15+09:00"
+      "collected_at": "2026-09-23T13:23:22+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3176,8 +56,8 @@
       "matched_keywords": [
         "주관기관"
       ],
-      "is_duplicate": true,
-      "collected_at": "2026-09-23T01:45:21+09:00"
+      "is_duplicate": false,
+      "collected_at": "2026-09-23T13:23:28+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3195,8 +75,8 @@
       "matched_keywords": [
         "주관기관"
       ],
-      "is_duplicate": true,
-      "collected_at": "2026-09-23T01:45:21+09:00"
+      "is_duplicate": false,
+      "collected_at": "2026-09-23T13:23:28+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3215,7 +95,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:24+09:00"
+      "collected_at": "2026-09-23T13:23:31+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3234,7 +114,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:24+09:00"
+      "collected_at": "2026-09-23T13:23:31+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3253,7 +133,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:34+09:00"
+      "collected_at": "2026-09-23T13:23:39+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3272,7 +152,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:34+09:00"
+      "collected_at": "2026-09-23T13:23:39+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3291,7 +171,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:34+09:00"
+      "collected_at": "2026-09-23T13:23:39+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3310,7 +190,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:36+09:00"
+      "collected_at": "2026-09-23T13:23:42+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3329,7 +209,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:36+09:00"
+      "collected_at": "2026-09-23T13:23:42+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3348,7 +228,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:36+09:00"
+      "collected_at": "2026-09-23T13:23:42+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3367,7 +247,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:39+09:00"
+      "collected_at": "2026-09-23T13:23:45+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3386,7 +266,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:39+09:00"
+      "collected_at": "2026-09-23T13:23:45+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3405,7 +285,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:39+09:00"
+      "collected_at": "2026-09-23T13:23:45+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3424,7 +304,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:39+09:00"
+      "collected_at": "2026-09-23T13:23:45+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3443,7 +323,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:46+09:00"
+      "collected_at": "2026-09-23T13:23:50+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3462,7 +342,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:52+09:00"
+      "collected_at": "2026-09-23T13:23:56+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3481,7 +361,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:52+09:00"
+      "collected_at": "2026-09-23T13:23:56+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3500,7 +380,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:52+09:00"
+      "collected_at": "2026-09-23T13:23:56+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3519,7 +399,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:52+09:00"
+      "collected_at": "2026-09-23T13:23:56+09:00"
     },
     {
       "source": "BIZINFO",
@@ -3538,7 +418,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:45:52+09:00"
+      "collected_at": "2026-09-23T13:23:56+09:00"
     },
     {
       "source": "G2B",
@@ -3557,7 +437,26 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:07+09:00"
+      "collected_at": "2026-09-23T13:24:10+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "청정수소 인증운영기관 법률자문(사) 위촉",
+      "org": "에너지경제연구원",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743188&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01743188-000",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-23T13:24:10+09:00"
     },
     {
       "source": "G2B",
@@ -3576,7 +475,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3595,7 +494,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3614,7 +513,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3633,7 +532,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3652,7 +551,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3671,7 +570,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3690,7 +589,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3709,7 +608,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3728,102 +627,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
-    },
-    {
-      "source": "G2B",
-      "source_name": "나라장터(조달청)",
-      "title": "주택건설공사 안전점검 수행기관 지정(오산 내삼미2구역 A1BL)",
-      "org": "경기도 오산시",
-      "period_text": "2026-09-09 09:00:00~2026-09-11 12:00:00",
-      "period_start": "2026-09-09 09:00:00",
-      "period_end": "2026-09-11 12:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01707262&bidPbancOrd=000",
-      "collect_method": "API",
-      "stage": "집행단계",
-      "external_id": "G2B-R26BK01707262-000",
-      "content": "",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
-    },
-    {
-      "source": "G2B",
-      "source_name": "나라장터(조달청)",
-      "title": "건설공사(건축) 안전점검 수행기관 지정(가평 리앤리C.C 운악기숙사 신축공사)",
-      "org": "경기도 가평군",
-      "period_text": "2026-09-01 16:00:00~2026-09-04 10:00:00",
-      "period_start": "2026-09-01 16:00:00",
-      "period_end": "2026-09-04 10:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01706786&bidPbancOrd=000",
-      "collect_method": "API",
-      "stage": "집행단계",
-      "external_id": "G2B-R26BK01706786-000",
-      "content": "",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
-    },
-    {
-      "source": "G2B",
-      "source_name": "나라장터(조달청)",
-      "title": "건축공사 안전점검 수행기관 지정 공고문(부곡동 891번지)",
-      "org": "부산광역시 금정구",
-      "period_text": "2026-09-01 17:00:00~2026-09-09 18:00:00",
-      "period_start": "2026-09-01 17:00:00",
-      "period_end": "2026-09-09 18:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01707460&bidPbancOrd=000",
-      "collect_method": "API",
-      "stage": "집행단계",
-      "external_id": "G2B-R26BK01707460-000",
-      "content": "",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
-    },
-    {
-      "source": "G2B",
-      "source_name": "나라장터(조달청)",
-      "title": "안전점검 수행기관 지정 공고[내서 능암, 신촌처리구역 하수관로 정비사업]",
-      "org": "경상북도 상주시 하수도사업소",
-      "period_text": "2026-09-02 14:00:00~2026-09-09 14:00:00",
-      "period_start": "2026-09-02 14:00:00",
-      "period_end": "2026-09-09 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708636&bidPbancOrd=000",
-      "collect_method": "API",
-      "stage": "집행단계",
-      "external_id": "G2B-R26BK01708636-000",
-      "content": "",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
-    },
-    {
-      "source": "G2B",
-      "source_name": "나라장터(조달청)",
-      "title": "안전점검 수행기관 지정 공고[낙동 상촌처리구역 하수관로 정비사업]",
-      "org": "경상북도 상주시 하수도사업소",
-      "period_text": "2026-09-02 14:00:00~2026-09-09 14:00:00",
-      "period_start": "2026-09-02 14:00:00",
-      "period_end": "2026-09-09 14:00:00",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708686&bidPbancOrd=000",
-      "collect_method": "API",
-      "stage": "집행단계",
-      "external_id": "G2B-R26BK01708686-000",
-      "content": "",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3842,7 +646,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3861,7 +665,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3880,7 +684,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3899,7 +703,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3918,7 +722,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3937,7 +741,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3956,7 +760,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3975,7 +779,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -3994,7 +798,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4013,7 +817,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4032,7 +836,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4051,7 +855,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4070,7 +874,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4089,7 +893,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4108,7 +912,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4127,7 +931,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4146,7 +950,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4165,7 +969,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4184,7 +988,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4203,7 +1007,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4222,7 +1026,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4241,7 +1045,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4260,7 +1064,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4279,7 +1083,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4298,7 +1102,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4317,7 +1121,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4336,7 +1140,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4355,7 +1159,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4374,7 +1178,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4393,7 +1197,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4412,7 +1216,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4431,7 +1235,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4450,7 +1254,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4469,7 +1273,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4488,7 +1292,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4507,7 +1311,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4526,7 +1330,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4545,7 +1349,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4564,7 +1368,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4583,7 +1387,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4602,7 +1406,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4621,7 +1425,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4640,7 +1444,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4659,7 +1463,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4678,7 +1482,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4697,7 +1501,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4716,7 +1520,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4735,7 +1539,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4754,7 +1558,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4773,7 +1577,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4792,7 +1596,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4811,7 +1615,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4830,7 +1634,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4849,7 +1653,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4868,7 +1672,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4887,7 +1691,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4906,7 +1710,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4925,7 +1729,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4944,7 +1748,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4963,7 +1767,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -4982,7 +1786,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5001,7 +1805,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5020,7 +1824,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5039,7 +1843,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5058,7 +1862,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5077,7 +1881,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5096,7 +1900,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5115,7 +1919,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5134,7 +1938,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5153,7 +1957,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5172,7 +1976,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5191,7 +1995,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5210,7 +2014,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5229,7 +2033,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5248,7 +2052,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5267,7 +2071,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5286,7 +2090,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5305,7 +2109,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5324,7 +2128,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5343,7 +2147,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "G2B",
@@ -5362,7 +2166,26 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-23T01:46:09+09:00"
+      "collected_at": "2026-09-23T13:24:13+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "[입찰대행] 건설공사 안전점검 수행기관 지정 공고[공주대학교 시설개선 임대형 민자사업(BTL)]",
+      "org": "충청남도 공주시",
+      "period_text": "2026-09-23 17:00:00~2026-10-01 10:00:00",
+      "period_start": "2026-09-23 17:00:00",
+      "period_end": "2026-10-01 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743203&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01743203-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-23T13:24:13+09:00"
     },
     {
       "source": "MOTIE",
@@ -7717,7 +4540,7 @@
       "matched_keywords": [
         "운영기관"
       ],
-      "is_duplicate": true,
+      "is_duplicate": false,
       "collected_at": "2026-09-23T08:21:38+09:00"
     },
     {
@@ -7888,7 +4711,7 @@
       "matched_keywords": [
         "운영기관"
       ],
-      "is_duplicate": true,
+      "is_duplicate": false,
       "collected_at": "2026-09-23T08:21:38+09:00"
     },
     {
@@ -8249,7 +5072,7 @@
       "matched_keywords": [
         "주관기관"
       ],
-      "is_duplicate": true,
+      "is_duplicate": false,
       "collected_at": "2026-09-23T08:21:43+09:00"
     },
     {
@@ -9142,7 +5965,7 @@
       "matched_keywords": [
         "운영기관"
       ],
-      "is_duplicate": true,
+      "is_duplicate": false,
       "collected_at": "2026-09-23T08:21:43+09:00"
     },
     {
@@ -9238,7 +6061,7 @@
       "matched_keywords": [
         "수행기관"
       ],
-      "is_duplicate": true,
+      "is_duplicate": false,
       "collected_at": "2026-09-23T08:21:44+09:00"
     },
     {
