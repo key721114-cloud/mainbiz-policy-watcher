@@ -1,7 +1,843 @@
 {
-  "generated_at": "2026-09-27T01:13:42+09:00",
-  "count": 163,
+  "generated_at": "2026-09-27T08:14:00+09:00",
+  "count": 207,
   "items": [
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2019 지역기업-청년 희망이음지원 사업 주관기관 추가 선정 공고",
+      "org": "지역경제총괄과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65311/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2019 지역기업-청년 희망이음지원 사업 주관기관 추가 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:21+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2019 지역기업-청년 희망이음 지원사업 주관기관 선정 공고",
+      "org": "지역경제총괄과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65235/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2019 지역기업-청년 희망이음 지원사업 주관기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:21+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 재공고",
+      "org": "섬유세라믹과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64870/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 재공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:21+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 공고",
+      "org": "섬유세라믹과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64790/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:21+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2018년 민군겸용기술개발사업 주관기관 선정계획 공고",
+      "org": "기계로봇과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64727/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2018년 민군겸용기술개발사업 주관기관 선정계획 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:21+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2016년 섬유패션활성화사업 및 K-패션토탈비즈니스 활성화 사업 주관기관 선정 공고",
+      "org": "섬유세라믹과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63434/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2016년 섬유패션활성화사업 및 K-패션토탈비즈니스 활성화 사업 주관기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:21+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "K-패션토탈비즈니스활성화사업 주관기관 선정공고",
+      "org": "섬유세라믹과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63197/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-K-패션토탈비즈니스활성화사업 주관기관 선정공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:21+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "섬유패션기술력향상사업 주관기관 선정공고",
+      "org": "섬유세라믹과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62884/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-섬유패션기술력향상사업 주관기관 선정공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:21+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2014년도 에너지기술개발사업 신규지원 대상과제 공고(3차)(혁신기술프로그램 주관기관 유형 수정)",
+      "org": "에너지기술과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62695/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2014년도 에너지기술개발사업 신규지원 대상과제 공고(3차)(혁신기술프로그램 주관기관 유형 수정)",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:21+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "엔지니어링 해외인재 유치사업 주관기관 선정 공고",
+      "org": "창의산업정책과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62640/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-엔지니어링 해외인재 유치사업 주관기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:21+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "FTA활용 전문인력양성사업 운영기관 모집공고",
+      "org": "국내대책과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68063/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-FTA활용 전문인력양성사업 운영기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:22+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2017년도 국제기술교류회 운영기관 선정 공고",
+      "org": "산업기술개발과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64191/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2017년도 국제기술교류회 운영기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:22+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "국제기술교류지원사업 운영기관 선정 공고",
+      "org": "산업기술개발과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63805/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-국제기술교류지원사업 운영기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:22+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2016년도 「FTA 활용 전문 인력 양성사업」운영기관 공고",
+      "org": "총괄기획과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63693/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2016년도 「FTA 활용 전문 인력 양성사업」운영기관 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:22+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2015년 FTA 전문 컨설턴트 양성사업 운영기관 공모",
+      "org": "총괄기획과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62980/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2015년 FTA 전문 컨설턴트 양성사업 운영기관 공모",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:22+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "국제기술교류회 운영기관 선정 공고",
+      "org": "산업기술개발과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62685/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-국제기술교류회 운영기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:22+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "지역산업위기대응 맞춤형지원사업 충남 당진시 수행기관 선정 공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/71164/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-지역산업위기대응 맞춤형지원사업 충남 당진시 수행기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "지역산업위기대응 맞춤형지원사업 울산광역시 남구 수행기관 선정 공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/71163/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-지역산업위기대응 맞춤형지원사업 울산광역시 남구 수행기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2026년도「해외기술도입지원기관」사업  신규 수행기관 선정 공고",
+      "org": "산업기술시장과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70893/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2026년도「해외기술도입지원기관」사업  신규 수행기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "지역산업위기대응 맞춤형지원사업 전남 광양시 수행기관 모집공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70733/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-지역산업위기대응 맞춤형지원사업 전남 광양시 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2025년도「해외기술도입지원기관」사업 신규 수행기관 선정 공고",
+      "org": "산업기술개발과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70536/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2025년도「해외기술도입지원기관」사업 신규 수행기관 선정 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "「지역산업위기대응 맞춤형 지원사업」 충남 서산시 수행기관 모집 공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70519/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-「지역산업위기대응 맞춤형 지원사업」 충남 서산시 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "「지역산업위기대응 맞춤형 지원사업」 경북 포항시 수행기관 모집 공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70518/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-「지역산업위기대응 맞춤형 지원사업」 경북 포항시 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2025년도 탄소중립산단 대표모델 구축사업 수행기관 모집 공고",
+      "org": "입지총괄과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70442/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2025년도 탄소중립산단 대표모델 구축사업 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "「지역산업위기대응 맞춤형 지원사업」 전남 여수시 수행기관 모집 공고",
+      "org": "지역경제진흥과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70440/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-「지역산업위기대응 맞춤형 지원사업」 전남 여수시 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고(안)",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70021/view?mno=&pageIndex=1",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고(안)",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고(안)",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70020/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고(안)",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/69937/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "코리아세일페스타 사업 수행기관(보조사업자) 모집 공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/69936/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-코리아세일페스타 사업 수행기관(보조사업자) 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2023년도 전사적 DX촉진 기술개발 컨설팅 수행기관 모집 공고",
+      "org": "산업기술시장혁신과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68357/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2023년도 전사적 DX촉진 기술개발 컨설팅 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68290/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "유통산업 실태조사 사업 수행기관(보조사업자) 모집 재공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68289/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-유통산업 실태조사 사업 수행기관(보조사업자) 모집 재공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 재공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68288/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 재공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68286/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "유통산업 실태조사 사업 수행기관(보조사업자) 모집 공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68183/view?mno=&pageIndex=2",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-유통산업 실태조사 사업 수행기관(보조사업자) 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:23+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68182/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:24+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2022년도 산업맞춤형 전문기술인력양성사업 수행기관 모집공고",
+      "org": "소재부품장비시장지원과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67401/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2022년도 산업맞춤형 전문기술인력양성사업 수행기관 모집공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:24+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2022년도 사업재편 이행전략 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+      "org": "산업정책과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67396/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2022년도 사업재편 이행전략 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:24+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2022년도 디지털통상 전문인력양성 사업 수행기관(보조사업자) 모집",
+      "org": "디지털경제통상과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67358/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2022년도 디지털통상 전문인력양성 사업 수행기관(보조사업자) 모집",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:24+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2022년 디지털 뿌리 명장 교육센터 수행기관 모집 공고",
+      "org": "소재부품장비총괄과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67244/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2022년 디지털 뿌리 명장 교육센터 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:24+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2021년도 사업재편 연계 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+      "org": "산업정책과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66799/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2021년도 사업재편 연계 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:24+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2021년 풀필먼트 구축 시범사업 수행기관 공고",
+      "org": "유통물류과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66755/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2021년 풀필먼트 구축 시범사업 수행기관 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:24+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2021년 「신뢰성기반활용지원사업」 수행기관 모집 공고",
+      "org": "소재부품장비시장지원과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66723/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2021년 「신뢰성기반활용지원사업」 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:24+09:00"
+    },
+    {
+      "source": "MOTIE",
+      "source_name": "산업통상부(본체)",
+      "title": "2021년도 산업맞춤형 전문기술인력양성(재직자 맞춤형 기술교육) 사업 수행기관 모집 공고",
+      "org": "소재부품장비총괄과",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66563/view?mno=&pageIndex=3",
+      "collect_method": "CRAWL",
+      "stage": "모집공고",
+      "external_id": "MOTIE-2021년도 산업맞춤형 전문기술인력양성(재직자 맞춤형 기술교육) 사업 수행기관 모집 공고",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-09-27T08:13:24+09:00"
+    },
     {
       "source": "KIAT",
       "source_name": "한국산업기술진흥원(KIAT)",
@@ -19,7 +855,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:53+09:00"
+      "collected_at": "2026-09-27T08:13:26+09:00"
     },
     {
       "source": "KIAT",
@@ -38,7 +874,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:53+09:00"
+      "collected_at": "2026-09-27T08:13:26+09:00"
     },
     {
       "source": "KIAT",
@@ -57,7 +893,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:53+09:00"
+      "collected_at": "2026-09-27T08:13:26+09:00"
     },
     {
       "source": "KIAT",
@@ -76,7 +912,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:53+09:00"
+      "collected_at": "2026-09-27T08:13:26+09:00"
     },
     {
       "source": "KIAT",
@@ -95,7 +931,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:53+09:00"
+      "collected_at": "2026-09-27T08:13:26+09:00"
     },
     {
       "source": "KIAT",
@@ -114,7 +950,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:53+09:00"
+      "collected_at": "2026-09-27T08:13:26+09:00"
     },
     {
       "source": "KIAT",
@@ -133,7 +969,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:53+09:00"
+      "collected_at": "2026-09-27T08:13:26+09:00"
     },
     {
       "source": "KIAT",
@@ -152,7 +988,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:53+09:00"
+      "collected_at": "2026-09-27T08:13:26+09:00"
     },
     {
       "source": "KIAT",
@@ -170,8 +1006,8 @@
       "matched_keywords": [
         "주관기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:53+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:26+09:00"
     },
     {
       "source": "KIAT",
@@ -190,7 +1026,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:53+09:00"
+      "collected_at": "2026-09-27T08:13:26+09:00"
     },
     {
       "source": "KIAT",
@@ -209,7 +1045,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:55+09:00"
+      "collected_at": "2026-09-27T08:13:28+09:00"
     },
     {
       "source": "KIAT",
@@ -228,7 +1064,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:55+09:00"
+      "collected_at": "2026-09-27T08:13:28+09:00"
     },
     {
       "source": "KIAT",
@@ -247,7 +1083,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:55+09:00"
+      "collected_at": "2026-09-27T08:13:28+09:00"
     },
     {
       "source": "KIAT",
@@ -265,8 +1101,8 @@
       "matched_keywords": [
         "주관기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:55+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:28+09:00"
     },
     {
       "source": "KIAT",
@@ -285,7 +1121,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:55+09:00"
+      "collected_at": "2026-09-27T08:13:28+09:00"
     },
     {
       "source": "KIAT",
@@ -304,7 +1140,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:55+09:00"
+      "collected_at": "2026-09-27T08:13:28+09:00"
     },
     {
       "source": "KIAT",
@@ -323,7 +1159,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:55+09:00"
+      "collected_at": "2026-09-27T08:13:28+09:00"
     },
     {
       "source": "KIAT",
@@ -342,7 +1178,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:58+09:00"
+      "collected_at": "2026-09-27T08:13:30+09:00"
     },
     {
       "source": "KIAT",
@@ -361,7 +1197,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:58+09:00"
+      "collected_at": "2026-09-27T08:13:30+09:00"
     },
     {
       "source": "KIAT",
@@ -379,8 +1215,8 @@
       "matched_keywords": [
         "운영기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:58+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:30+09:00"
     },
     {
       "source": "KIAT",
@@ -399,7 +1235,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:58+09:00"
+      "collected_at": "2026-09-27T08:13:30+09:00"
     },
     {
       "source": "KIAT",
@@ -418,7 +1254,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:58+09:00"
+      "collected_at": "2026-09-27T08:13:30+09:00"
     },
     {
       "source": "KIAT",
@@ -437,7 +1273,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:58+09:00"
+      "collected_at": "2026-09-27T08:13:30+09:00"
     },
     {
       "source": "KIAT",
@@ -456,7 +1292,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:58+09:00"
+      "collected_at": "2026-09-27T08:13:30+09:00"
     },
     {
       "source": "KIAT",
@@ -475,7 +1311,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:58+09:00"
+      "collected_at": "2026-09-27T08:13:30+09:00"
     },
     {
       "source": "KIAT",
@@ -494,7 +1330,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:58+09:00"
+      "collected_at": "2026-09-27T08:13:30+09:00"
     },
     {
       "source": "KIAT",
@@ -513,7 +1349,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:40:58+09:00"
+      "collected_at": "2026-09-27T08:13:30+09:00"
     },
     {
       "source": "KIAT",
@@ -531,8 +1367,8 @@
       "matched_keywords": [
         "수행기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:02+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:35+09:00"
     },
     {
       "source": "KIAT",
@@ -550,8 +1386,8 @@
       "matched_keywords": [
         "수행기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:02+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:35+09:00"
     },
     {
       "source": "KIAT",
@@ -569,8 +1405,8 @@
       "matched_keywords": [
         "수행기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:02+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:35+09:00"
     },
     {
       "source": "KIAT",
@@ -589,7 +1425,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:02+09:00"
+      "collected_at": "2026-09-27T08:13:35+09:00"
     },
     {
       "source": "KIAT",
@@ -607,8 +1443,8 @@
       "matched_keywords": [
         "수행기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:02+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:35+09:00"
     },
     {
       "source": "KIAT",
@@ -627,7 +1463,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:02+09:00"
+      "collected_at": "2026-09-27T08:13:35+09:00"
     },
     {
       "source": "KIAT",
@@ -646,7 +1482,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:02+09:00"
+      "collected_at": "2026-09-27T08:13:35+09:00"
     },
     {
       "source": "KIAT",
@@ -665,7 +1501,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:02+09:00"
+      "collected_at": "2026-09-27T08:13:35+09:00"
     },
     {
       "source": "KIAT",
@@ -684,7 +1520,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:02+09:00"
+      "collected_at": "2026-09-27T08:13:35+09:00"
     },
     {
       "source": "KIAT",
@@ -702,8 +1538,8 @@
       "matched_keywords": [
         "수행기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:02+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:35+09:00"
     },
     {
       "source": "KIAT",
@@ -721,8 +1557,8 @@
       "matched_keywords": [
         "수행기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:06+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:38+09:00"
     },
     {
       "source": "KIAT",
@@ -740,8 +1576,8 @@
       "matched_keywords": [
         "수행기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:06+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:38+09:00"
     },
     {
       "source": "KIAT",
@@ -760,7 +1596,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:06+09:00"
+      "collected_at": "2026-09-27T08:13:38+09:00"
     },
     {
       "source": "KIAT",
@@ -778,8 +1614,8 @@
       "matched_keywords": [
         "수행기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:06+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:38+09:00"
     },
     {
       "source": "KIAT",
@@ -797,8 +1633,8 @@
       "matched_keywords": [
         "수행기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:06+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:38+09:00"
     },
     {
       "source": "KIAT",
@@ -816,8 +1652,8 @@
       "matched_keywords": [
         "수행기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:06+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:38+09:00"
     },
     {
       "source": "KIAT",
@@ -836,7 +1672,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:06+09:00"
+      "collected_at": "2026-09-27T08:13:38+09:00"
     },
     {
       "source": "KIAT",
@@ -855,7 +1691,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:06+09:00"
+      "collected_at": "2026-09-27T08:13:38+09:00"
     },
     {
       "source": "KIAT",
@@ -874,7 +1710,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:06+09:00"
+      "collected_at": "2026-09-27T08:13:38+09:00"
     },
     {
       "source": "KIAT",
@@ -893,7 +1729,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:06+09:00"
+      "collected_at": "2026-09-27T08:13:38+09:00"
     },
     {
       "source": "KIAT",
@@ -912,7 +1748,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:09+09:00"
+      "collected_at": "2026-09-27T08:13:42+09:00"
     },
     {
       "source": "KIAT",
@@ -931,7 +1767,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:09+09:00"
+      "collected_at": "2026-09-27T08:13:42+09:00"
     },
     {
       "source": "KIAT",
@@ -950,7 +1786,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:09+09:00"
+      "collected_at": "2026-09-27T08:13:42+09:00"
     },
     {
       "source": "KIAT",
@@ -969,7 +1805,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:09+09:00"
+      "collected_at": "2026-09-27T08:13:42+09:00"
     },
     {
       "source": "KIAT",
@@ -988,7 +1824,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:09+09:00"
+      "collected_at": "2026-09-27T08:13:42+09:00"
     },
     {
       "source": "KIAT",
@@ -1007,7 +1843,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:09+09:00"
+      "collected_at": "2026-09-27T08:13:42+09:00"
     },
     {
       "source": "KIAT",
@@ -1026,7 +1862,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:09+09:00"
+      "collected_at": "2026-09-27T08:13:42+09:00"
     },
     {
       "source": "KIAT",
@@ -1045,7 +1881,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:09+09:00"
+      "collected_at": "2026-09-27T08:13:42+09:00"
     },
     {
       "source": "KIAT",
@@ -1064,7 +1900,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:09+09:00"
+      "collected_at": "2026-09-27T08:13:42+09:00"
     },
     {
       "source": "KIAT",
@@ -1083,7 +1919,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:09+09:00"
+      "collected_at": "2026-09-27T08:13:42+09:00"
     },
     {
       "source": "KEIT",
@@ -1101,8 +1937,8 @@
       "matched_keywords": [
         "주관기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:42+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:45+09:00"
     },
     {
       "source": "KEIT",
@@ -1120,8 +1956,8 @@
       "matched_keywords": [
         "주관기관"
       ],
-      "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:42+09:00"
+      "is_duplicate": true,
+      "collected_at": "2026-09-27T08:13:45+09:00"
     },
     {
       "source": "SEMAS",
@@ -1140,7 +1976,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:49+09:00"
+      "collected_at": "2026-09-27T08:13:51+09:00"
     },
     {
       "source": "SEMAS",
@@ -1159,7 +1995,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:49+09:00"
+      "collected_at": "2026-09-27T08:13:51+09:00"
     },
     {
       "source": "SEMAS",
@@ -1178,7 +2014,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:49+09:00"
+      "collected_at": "2026-09-27T08:13:51+09:00"
     },
     {
       "source": "SEMAS",
@@ -1197,7 +2033,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:49+09:00"
+      "collected_at": "2026-09-27T08:13:51+09:00"
     },
     {
       "source": "SEMAS",
@@ -1216,7 +2052,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:49+09:00"
+      "collected_at": "2026-09-27T08:13:51+09:00"
     },
     {
       "source": "SEMAS",
@@ -1235,7 +2071,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:49+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1254,7 +2090,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:49+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1273,7 +2109,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:49+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1292,7 +2128,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:49+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1311,7 +2147,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:49+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1330,7 +2166,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1349,7 +2185,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1368,7 +2204,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1387,7 +2223,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1406,7 +2242,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1425,7 +2261,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1444,7 +2280,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1463,7 +2299,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1482,7 +2318,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1501,7 +2337,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:52+09:00"
     },
     {
       "source": "SEMAS",
@@ -1520,7 +2356,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1539,7 +2375,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1558,7 +2394,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1577,7 +2413,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1596,7 +2432,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:50+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1615,7 +2451,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:51+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1634,7 +2470,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:51+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1653,7 +2489,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:51+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1672,7 +2508,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:51+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1691,7 +2527,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:51+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1710,7 +2546,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:51+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1729,7 +2565,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:51+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1748,7 +2584,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:51+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1767,7 +2603,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:51+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1786,7 +2622,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:51+09:00"
+      "collected_at": "2026-09-27T08:13:53+09:00"
     },
     {
       "source": "SEMAS",
@@ -1805,7 +2641,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:52+09:00"
+      "collected_at": "2026-09-27T08:13:54+09:00"
     },
     {
       "source": "SEMAS",
@@ -1824,7 +2660,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:52+09:00"
+      "collected_at": "2026-09-27T08:13:54+09:00"
     },
     {
       "source": "SEMAS",
@@ -1843,7 +2679,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:52+09:00"
+      "collected_at": "2026-09-27T08:13:54+09:00"
     },
     {
       "source": "SEMAS",
@@ -1862,7 +2698,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:52+09:00"
+      "collected_at": "2026-09-27T08:13:54+09:00"
     },
     {
       "source": "SEMAS",
@@ -1881,7 +2717,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:52+09:00"
+      "collected_at": "2026-09-27T08:13:54+09:00"
     },
     {
       "source": "SEMAS",
@@ -1900,7 +2736,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:52+09:00"
+      "collected_at": "2026-09-27T08:13:54+09:00"
     },
     {
       "source": "SEMAS",
@@ -1919,7 +2755,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:52+09:00"
+      "collected_at": "2026-09-27T08:13:54+09:00"
     },
     {
       "source": "SEMAS",
@@ -1938,7 +2774,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:52+09:00"
+      "collected_at": "2026-09-27T08:13:54+09:00"
     },
     {
       "source": "KOSMES",
@@ -1957,7 +2793,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:54+09:00"
+      "collected_at": "2026-09-27T08:13:56+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -1976,7 +2812,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -1995,7 +2831,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2014,7 +2850,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2033,7 +2869,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2052,7 +2888,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2071,7 +2907,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2090,7 +2926,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2109,7 +2945,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2128,7 +2964,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2147,7 +2983,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2166,7 +3002,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2185,7 +3021,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2204,7 +3040,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2223,7 +3059,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2242,7 +3078,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2261,7 +3097,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2280,7 +3116,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2299,7 +3135,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2318,7 +3154,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2337,7 +3173,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:56+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2356,7 +3192,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2375,7 +3211,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2394,7 +3230,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2413,7 +3249,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2432,7 +3268,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2451,7 +3287,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2470,7 +3306,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2489,7 +3325,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2508,7 +3344,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2527,7 +3363,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:57+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2546,7 +3382,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2565,7 +3401,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2584,7 +3420,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2603,7 +3439,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2622,7 +3458,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2641,7 +3477,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2660,7 +3496,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2679,7 +3515,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2698,7 +3534,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2717,7 +3553,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2736,7 +3572,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2755,7 +3591,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2774,7 +3610,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2793,7 +3629,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2812,7 +3648,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2831,7 +3667,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2850,7 +3686,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2869,7 +3705,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2888,7 +3724,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2907,7 +3743,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2926,7 +3762,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2945,7 +3781,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2965,7 +3801,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -2984,7 +3820,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:57+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3003,7 +3839,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:58+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3022,7 +3858,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:58+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3041,7 +3877,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:58+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3060,7 +3896,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:58+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3079,7 +3915,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:58+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -3098,7 +3934,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-09-26T08:41:58+09:00"
+      "collected_at": "2026-09-27T08:13:58+09:00"
     }
   ]
 }
