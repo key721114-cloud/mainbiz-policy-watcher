@@ -1,0 +1,33 @@
+name: 메일 알림 테스트
+
+# 메일 발송 설정(Gmail Secrets)이 제대로 됐는지 확인용. Actions 탭에서 수동 실행하고
+# 받을 주소를 넣으면 현재 유효 공고 5건으로 테스트 메일 1통을 보낸다.
+# 구독자 목록이나 발송 기록(notified)은 건드리지 않는다.
+on:
+  workflow_dispatch:
+    inputs:
+      to:
+        description: "테스트 메일 받을 주소"
+        required: true
+
+jobs:
+  notify-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 테스트 메일 발송
+        env:
+          KV_REST_API_URL: ${{ secrets.KV_REST_API_URL }}
+          KV_REST_API_TOKEN: ${{ secrets.KV_REST_API_TOKEN }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          TO: ${{ inputs.to }}
+        run: python scripts/notify.py --test "$TO"

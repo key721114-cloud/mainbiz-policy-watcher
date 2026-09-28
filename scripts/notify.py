@@ -15,6 +15,8 @@ SADD가 원자적이라 API/크롤링 두 트랙이 거의 동시에 돌아도 �
 
 실행:
     python scripts/notify.py
+    python scripts/notify.py --test someone@example.com   # 발송 확인용: 유효 공고 5건을 테스트 메일로
+                                                           # 1통 보냄 (발송 기록/구독자 목록은 안 건드림)
 """
 from __future__ import annotations
 
@@ -128,6 +130,24 @@ def build_mail(items: list[dict], today: str) -> tuple[str, str]:
     return subject, body
 
 
+def send_mail(smtp: smtplib.SMTP, sender: str, to: str, subject: str, body: str) -> None:
+    msg = MIMEText(body, "html", "utf-8")
+    msg["Subject"] = subject
+    msg["From"] = formataddr((SENDER_NAME, sender))
+    msg["To"] = to
+    smtp.sendmail(sender, [to], msg.as_string())
+
+
+def send_test(to: str, gmail_user: str, gmail_pw: str, items: list[dict], today: str) -> int:
+    sample = sorted((it for it in items if is_open(it, today)), key=lambda it: it.get("period_end") or "9999-99-99")[:5]
+    subject, body = build_mail(sample, today)
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as smtp:
+        smtp.login(gmail_user, gmail_pw)
+        send_mail(smtp, gmail_user, to, "[테스트] " + subject, body)
+    print(f"테스트 메일 발송: {to} ({len(sample)}건)")
+    return 0
+
+
 def main() -> int:
     redis_url = os.environ.get("KV_REST_API_URL") or os.environ.get("UPSTASH_REDIS_REST_URL")
     redis_token = os.environ.get("KV_REST_API_TOKEN") or os.environ.get("UPSTASH_REDIS_REST_TOKEN")
@@ -137,10 +157,13 @@ def main() -> int:
         print("메일 알림 설정(Redis/Gmail Secrets)이 없어 건너뜀")
         return 0
 
-    db = Redis(redis_url, redis_token)
     items = json.loads((ROOT / "data" / "announcements.json").read_text(encoding="utf-8"))["items"]
     items = [it for it in items if not it.get("is_duplicate")]
     today = datetime.now(KST).strftime("%Y-%m-%d")
+    if len(sys.argv) == 3 and sys.argv[1] == "--test":
+        return send_test(sys.argv[2], gmail_user, gmail_pw, items, today)
+
+    db = Redis(redis_url, redis_token)
 
     if not db.call("EXISTS", SEEDED_KEY):
         db.pipeline([["SADD", NOTIFIED_KEY, item_key(it)] for it in items])
@@ -167,12 +190,8 @@ def main() -> int:
             if not mine:
                 continue
             subject, body = build_mail(mine, today)
-            msg = MIMEText(body, "html", "utf-8")
-            msg["Subject"] = subject
-            msg["From"] = formataddr((SENDER_NAME, gmail_user))
-            msg["To"] = sub["email"]
             try:
-                smtp.sendmail(gmail_user, [sub["email"]], msg.as_string())
+                send_mail(smtp, gmail_user, sub["email"], subject, body)
                 print(f"발송: {sub['email']} ({len(mine)}건)")
             except smtplib.SMTPException as e:
                 failures += 1
