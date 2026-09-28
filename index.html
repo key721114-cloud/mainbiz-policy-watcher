@@ -189,6 +189,30 @@
     color: var(--surface);
     font-weight: 600;
   }
+  .header-btns { display: flex; gap: 6px; flex-shrink: 0; }
+  .sub-form label.field {
+    display: block;
+    font-size: 12.5px;
+    color: var(--text-dim);
+    margin: 14px 0 6px;
+  }
+  .sub-form input[type="email"] {
+    width: 100%;
+    padding: 9px 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    font-size: 14px;
+  }
+  .sub-kws { display: flex; flex-wrap: wrap; gap: 6px; }
+  .sub-msg { font-size: 12.5px; margin-top: 12px; min-height: 1.4em; color: var(--text-dim); }
+  .sub-msg.ok { color: var(--accent); }
+  .sub-msg.err { color: var(--danger); }
+  .modal-actions .spacer { flex: 1; }
+  .modal-actions { gap: 8px; }
+  .modal-btn.danger { color: var(--danger); }
+  .modal-btn:disabled { opacity: 0.5; cursor: default; }
   header.page .sub {
     color: var(--text-dim);
     font-size: 13px;
@@ -418,7 +442,10 @@
   <header class="page">
     <div class="header-top">
       <h1>정책사업팀 사업공고 모니터링웹<span class="h1-admin"> · 관리자 김학준 선임</span></h1>
-      <button class="help-btn" id="helpBtn" type="button">사용법 안내</button>
+      <div class="header-btns">
+        <button class="help-btn" id="subBtn" type="button">메일 알림</button>
+        <button class="help-btn" id="helpBtn" type="button">사용법 안내</button>
+      </div>
     </div>
     <div class="sub" id="headerSub">불러오는 중…</div>
     <div class="status-banner" id="statusBanner" hidden></div>
@@ -472,11 +499,32 @@
       <li>상단 <b>산업부/중기부</b> 배지·필터와 기관별 버튼으로 소관 부처·기관을 골라볼 수
         있습니다.</li>
       <li>키워드 동그라미 버튼을 누르면 그 키워드가 들어간 공고만 볼 수 있습니다.</li>
+      <li>상단 <b>메일 알림</b> 버튼에서 이메일과 키워드를 등록하면, 해당 키워드의 새 공고가
+        수집될 때 메일로 받아볼 수 있습니다.</li>
       <li>궁금한 점이나 추가하고 싶은 키워드/기관이 있으면 정책사업팀 김학준 선임에게
         말씀해주세요.</li>
     </ul>
     <div class="modal-actions">
       <button class="modal-btn primary" id="welcomeCloseBtn" type="button">확인했습니다</button>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="subModal" hidden>
+  <div class="modal-box sub-form">
+    <h2>새 공고 메일 알림</h2>
+    <p>고른 키워드가 들어간 새 공고가 수집되면(하루 최대 4번) 메일로 알려드립니다. 이미 구독
+      중이라면 이메일을 입력하면 현재 설정을 불러오고, 키워드를 바꿔 다시 저장할 수 있습니다.</p>
+    <label class="field" for="subEmail">이메일</label>
+    <input type="email" id="subEmail" placeholder="name@example.com" autocomplete="email" />
+    <label class="field">받을 키워드 <span style="color:var(--text-faint)">(아무것도 안 고르면 전체)</span></label>
+    <div class="sub-kws" id="subKws"></div>
+    <div class="sub-msg" id="subMsg"></div>
+    <div class="modal-actions">
+      <button class="modal-btn danger" id="subDeleteBtn" type="button" hidden>구독 해지</button>
+      <span class="spacer"></span>
+      <button class="modal-btn" id="subCloseBtn" type="button">닫기</button>
+      <button class="modal-btn primary" id="subSaveBtn" type="button">구독 저장</button>
     </div>
   </div>
 </div>
@@ -852,6 +900,114 @@
     if (!seen) showWelcomeModal();
   }
 
+  // ---- 새 공고 메일 알림 구독 (api/subscribe.js) ----
+  var SUB_EMAIL_KEY = "pw_sub_email_v1";
+  var subSelected = {};
+
+  function subMsg(text, cls) {
+    var m = document.getElementById("subMsg");
+    m.textContent = text || "";
+    m.className = "sub-msg" + (cls ? " " + cls : "");
+  }
+
+  function subEmailValue() {
+    return document.getElementById("subEmail").value.trim().toLowerCase();
+  }
+
+  function buildSubKeywords() {
+    var counts = {};
+    state.items.forEach(function (it) {
+      (it.matched_keywords || []).forEach(function (k) { counts[k] = (counts[k] || 0) + 1; });
+    });
+    var box = document.getElementById("subKws");
+    box.innerHTML = "";
+    Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a]; }).forEach(function (k) {
+      var chip = el("span", "kw-chip" + (subSelected[k] ? " active" : ""), k);
+      chip.addEventListener("click", function () {
+        subSelected[k] = !subSelected[k];
+        chip.classList.toggle("active", subSelected[k]);
+      });
+      box.appendChild(chip);
+    });
+  }
+
+  function subRequest(method, email, body) {
+    var url = "api/subscribe" + (method === "POST" ? "" : "?email=" + encodeURIComponent(email));
+    return fetch(url, {
+      method: method,
+      headers: body ? { "Content-Type": "application/json" } : undefined,
+      body: body ? JSON.stringify(body) : undefined,
+    }).then(function (r) {
+      return r.json().catch(function () { return {}; }).then(function (data) {
+        if (!r.ok) throw new Error(data.error || "요청 실패 (" + r.status + ")");
+        return data;
+      });
+    });
+  }
+
+  function loadSubscription() {
+    var email = subEmailValue();
+    document.getElementById("subDeleteBtn").hidden = true;
+    if (!email) return;
+    subMsg("구독 정보를 확인하는 중…");
+    subRequest("GET", email).then(function (data) {
+      subSelected = {};
+      if (data.subscribed) {
+        (data.subscription.keywords || []).forEach(function (k) { subSelected[k] = true; });
+        document.getElementById("subDeleteBtn").hidden = false;
+        subMsg("구독 중입니다. 키워드를 바꾸고 저장하면 변경됩니다.", "ok");
+      } else {
+        subMsg("아직 구독하지 않은 이메일입니다.");
+      }
+      buildSubKeywords();
+    }).catch(function (err) { subMsg(err.message, "err"); });
+  }
+
+  function saveSubscription() {
+    var email = subEmailValue();
+    if (!email) { subMsg("이메일을 입력해주세요.", "err"); return; }
+    var keywords = Object.keys(subSelected).filter(function (k) { return subSelected[k]; });
+    var btn = document.getElementById("subSaveBtn");
+    btn.disabled = true;
+    subRequest("POST", email, { email: email, keywords: keywords }).then(function () {
+      try { localStorage.setItem(SUB_EMAIL_KEY, email); } catch (e) { /* 무시 */ }
+      document.getElementById("subDeleteBtn").hidden = false;
+      subMsg("저장했습니다. " + (keywords.length ? keywords.join(", ") : "전체 키워드") + " 새 공고를 메일로 보내드립니다.", "ok");
+    }).catch(function (err) { subMsg(err.message, "err"); })
+      .then(function () { btn.disabled = false; });
+  }
+
+  function deleteSubscription() {
+    var email = subEmailValue();
+    if (!email) return;
+    subRequest("DELETE", email).then(function () {
+      subSelected = {};
+      buildSubKeywords();
+      document.getElementById("subDeleteBtn").hidden = true;
+      subMsg("구독을 해지했습니다. 더 이상 메일이 가지 않습니다.", "ok");
+    }).catch(function (err) { subMsg(err.message, "err"); });
+  }
+
+  function wireSubscribeModal() {
+    var modal = document.getElementById("subModal");
+    var emailInput = document.getElementById("subEmail");
+    function close() { modal.hidden = true; }
+    document.getElementById("subBtn").addEventListener("click", function () {
+      modal.hidden = false;
+      subMsg("");
+      buildSubKeywords();
+      if (!emailInput.value) {
+        try { emailInput.value = localStorage.getItem(SUB_EMAIL_KEY) || ""; } catch (e) { /* 무시 */ }
+      }
+      loadSubscription();
+    });
+    emailInput.addEventListener("change", loadSubscription);
+    document.getElementById("subSaveBtn").addEventListener("click", saveSubscription);
+    document.getElementById("subDeleteBtn").addEventListener("click", deleteSubscription);
+    document.getElementById("subCloseBtn").addEventListener("click", close);
+    modal.addEventListener("click", function (e) { if (e.target === modal) close(); });
+  }
+
   function renderSystemStatus(status) {
     var keys = Object.keys(status || {});
     if (!keys.length) return;
@@ -881,6 +1037,7 @@
   function boot() {
     wireControls();
     wireWelcomeModal();
+    wireSubscribeModal();
 
     fetch("data/announcements.json", { cache: "no-store" })
       .then(function (r) {

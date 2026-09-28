@@ -80,6 +80,18 @@ jobs:
             git pull --rebase origin "${GITHUB_REF_NAME}"
           done
 
+      # 새 공고가 구독 키워드에 걸리면 구독자에게 메일 발송 (scripts/notify.py).
+      # Secrets가 아직 없으면 스크립트가 알아서 건너뛴다. 메일 발송 실패가
+      # 이미 커밋된 수집 결과에 영향을 주면 안 되므로 continue-on-error.
+      - name: 새 공고 메일 알림
+        continue-on-error: true
+        env:
+          KV_REST_API_URL: ${{ secrets.KV_REST_API_URL }}
+          KV_REST_API_TOKEN: ${{ secrets.KV_REST_API_TOKEN }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python scripts/notify.py
+
       - name: 수집 결과 확인
         if: steps.fetch.outcome == 'failure'
         run: |
