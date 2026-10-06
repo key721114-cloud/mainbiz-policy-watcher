@@ -1,34 +1,34 @@
 {
   "MSS(중소벤처기업부)": {
     "track": "api",
-    "last_run_at": "2026-10-06T14:58:45+09:00",
+    "last_run_at": "2026-10-06T22:15:13+09:00",
     "last_status": "OK",
-    "last_count": 2212,
-    "last_success_at": "2026-10-06T14:58:45+09:00",
+    "last_count": 2213,
+    "last_success_at": "2026-10-06T22:15:13+09:00",
     "last_error": ""
   },
   "KSTARTUP(창업진흥원(K-Startup))": {
     "track": "api",
-    "last_run_at": "2026-10-06T14:58:45+09:00",
+    "last_run_at": "2026-10-06T22:15:13+09:00",
     "last_status": "OK",
     "last_count": 200,
-    "last_success_at": "2026-10-06T14:58:45+09:00",
+    "last_success_at": "2026-10-06T22:15:13+09:00",
     "last_error": ""
   },
   "BIZINFO(기업마당)": {
     "track": "api",
-    "last_run_at": "2026-10-06T14:58:45+09:00",
+    "last_run_at": "2026-10-06T22:15:13+09:00",
     "last_status": "OK",
-    "last_count": 1421,
-    "last_success_at": "2026-10-06T14:58:45+09:00",
+    "last_count": 1468,
+    "last_success_at": "2026-10-06T22:15:13+09:00",
     "last_error": ""
   },
   "G2B(나라장터(조달청))": {
     "track": "api",
-    "last_run_at": "2026-10-06T14:58:45+09:00",
+    "last_run_at": "2026-10-06T22:15:13+09:00",
     "last_status": "OK",
-    "last_count": 64,
-    "last_success_at": "2026-10-06T14:58:45+09:00",
+    "last_count": 73,
+    "last_success_at": "2026-10-06T22:15:13+09:00",
     "last_error": ""
   },
   "motie(산업통상부(본체))": {
