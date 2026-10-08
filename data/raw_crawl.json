@@ -1,5 +1,1212 @@
 [
   {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2019 지역기업-청년 희망이음지원 사업 주관기관 추가 선정 공고",
+    "org": "지역경제총괄과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65311/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2019 지역기업-청년 희망이음지원 사업 주관기관 추가 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:05+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2019 지역기업-청년 희망이음 지원사업 주관기관 선정 공고",
+    "org": "지역경제총괄과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65235/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2019 지역기업-청년 희망이음 지원사업 주관기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:05+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 재공고",
+    "org": "섬유세라믹과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64870/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 재공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:05+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 공고",
+    "org": "섬유세라믹과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64790/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-섬유패션 현장밀착 플랫폼 지원 사업 주관기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:05+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2018년 민군겸용기술개발사업 주관기관 선정계획 공고",
+    "org": "기계로봇과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64727/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2018년 민군겸용기술개발사업 주관기관 선정계획 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:05+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2016년 섬유패션활성화사업 및 K-패션토탈비즈니스 활성화 사업 주관기관 선정 공고",
+    "org": "섬유세라믹과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63434/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2016년 섬유패션활성화사업 및 K-패션토탈비즈니스 활성화 사업 주관기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:05+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "K-패션토탈비즈니스활성화사업 주관기관 선정공고",
+    "org": "섬유세라믹과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63197/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-K-패션토탈비즈니스활성화사업 주관기관 선정공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:05+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "섬유패션기술력향상사업 주관기관 선정공고",
+    "org": "섬유세라믹과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62884/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-섬유패션기술력향상사업 주관기관 선정공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:05+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2014년도 에너지기술개발사업 신규지원 대상과제 공고(3차)(혁신기술프로그램 주관기관 유형 수정)",
+    "org": "에너지기술과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62695/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2014년도 에너지기술개발사업 신규지원 대상과제 공고(3차)(혁신기술프로그램 주관기관 유형 수정)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:05+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "엔지니어링 해외인재 유치사업 주관기관 선정 공고",
+    "org": "창의산업정책과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62640/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-엔지니어링 해외인재 유치사업 주관기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:05+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "FTA활용 전문인력양성사업 운영기관 모집공고",
+    "org": "국내대책과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68063/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-FTA활용 전문인력양성사업 운영기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2017년도 국제기술교류회 운영기관 선정 공고",
+    "org": "산업기술개발과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64191/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2017년도 국제기술교류회 운영기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "국제기술교류지원사업 운영기관 선정 공고",
+    "org": "산업기술개발과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63805/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-국제기술교류지원사업 운영기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2016년도 「FTA 활용 전문 인력 양성사업」운영기관 공고",
+    "org": "총괄기획과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/63693/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2016년도 「FTA 활용 전문 인력 양성사업」운영기관 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2015년 FTA 전문 컨설턴트 양성사업 운영기관 공모",
+    "org": "총괄기획과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62980/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2015년 FTA 전문 컨설턴트 양성사업 운영기관 공모",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "국제기술교류회 운영기관 선정 공고",
+    "org": "산업기술개발과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62685/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-국제기술교류회 운영기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "지역산업위기대응 맞춤형지원사업 충남 당진시 수행기관 선정 공고",
+    "org": "지역경제진흥과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/71164/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-지역산업위기대응 맞춤형지원사업 충남 당진시 수행기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "지역산업위기대응 맞춤형지원사업 울산광역시 남구 수행기관 선정 공고",
+    "org": "지역경제진흥과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/71163/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-지역산업위기대응 맞춤형지원사업 울산광역시 남구 수행기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2026년도「해외기술도입지원기관」사업  신규 수행기관 선정 공고",
+    "org": "산업기술시장과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70893/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2026년도「해외기술도입지원기관」사업  신규 수행기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "지역산업위기대응 맞춤형지원사업 전남 광양시 수행기관 모집공고",
+    "org": "지역경제진흥과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70733/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-지역산업위기대응 맞춤형지원사업 전남 광양시 수행기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2025년도「해외기술도입지원기관」사업 신규 수행기관 선정 공고",
+    "org": "산업기술개발과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70536/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2025년도「해외기술도입지원기관」사업 신규 수행기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "「지역산업위기대응 맞춤형 지원사업」 충남 서산시 수행기관 모집 공고",
+    "org": "지역경제진흥과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70519/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-「지역산업위기대응 맞춤형 지원사업」 충남 서산시 수행기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "「지역산업위기대응 맞춤형 지원사업」 경북 포항시 수행기관 모집 공고",
+    "org": "지역경제진흥과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70518/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-「지역산업위기대응 맞춤형 지원사업」 경북 포항시 수행기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2025년도 탄소중립산단 대표모델 구축사업 수행기관 모집 공고",
+    "org": "입지총괄과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70442/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2025년도 탄소중립산단 대표모델 구축사업 수행기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "「지역산업위기대응 맞춤형 지원사업」 전남 여수시 수행기관 모집 공고",
+    "org": "지역경제진흥과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70440/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-「지역산업위기대응 맞춤형 지원사업」 전남 여수시 수행기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고(안)",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70021/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고(안)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:06+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고(안)",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70020/view?mno=&pageIndex=2",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고(안)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/69937/view?mno=&pageIndex=2",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "코리아세일페스타 사업 수행기관(보조사업자) 모집 공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/69936/view?mno=&pageIndex=2",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-코리아세일페스타 사업 수행기관(보조사업자) 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2023년도 전사적 DX촉진 기술개발 컨설팅 수행기관 모집 공고",
+    "org": "산업기술시장혁신과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68357/view?mno=&pageIndex=2",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2023년도 전사적 DX촉진 기술개발 컨설팅 수행기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68290/view?mno=&pageIndex=2",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-코리아세일페스타 사업 수행기관(보조사업자) 모집 재공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "유통산업 실태조사 사업 수행기관(보조사업자) 모집 재공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68289/view?mno=&pageIndex=2",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-유통산업 실태조사 사업 수행기관(보조사업자) 모집 재공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 재공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68288/view?mno=&pageIndex=2",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 재공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68286/view?mno=&pageIndex=2",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-가맹사업 선진화 기반 구축 사업 수행기관(보조사업자) 모집 재공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "유통산업 실태조사 사업 수행기관(보조사업자) 모집 공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68183/view?mno=&pageIndex=2",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-유통산업 실태조사 사업 수행기관(보조사업자) 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68182/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-유통산업 상생협력 및 발전기반 조성 사업 수행기관(보조사업자) 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2022년도 산업맞춤형 전문기술인력양성사업 수행기관 모집공고",
+    "org": "소재부품장비시장지원과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67401/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2022년도 산업맞춤형 전문기술인력양성사업 수행기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2022년도 사업재편 이행전략 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+    "org": "산업정책과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67396/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2022년도 사업재편 이행전략 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2022년도 디지털통상 전문인력양성 사업 수행기관(보조사업자) 모집",
+    "org": "디지털경제통상과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67358/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2022년도 디지털통상 전문인력양성 사업 수행기관(보조사업자) 모집",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2022년 디지털 뿌리 명장 교육센터 수행기관 모집 공고",
+    "org": "소재부품장비총괄과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67244/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2022년 디지털 뿌리 명장 교육센터 수행기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2021년도 사업재편 연계 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+    "org": "산업정책과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66799/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2021년도 사업재편 연계 컨설팅 지원사업 컨설팅 수행기관 신규 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2021년 풀필먼트 구축 시범사업 수행기관 공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66755/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2021년 풀필먼트 구축 시범사업 수행기관 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2021년 「신뢰성기반활용지원사업」 수행기관 모집 공고",
+    "org": "소재부품장비시장지원과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66723/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2021년 「신뢰성기반활용지원사업」 수행기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2021년도 산업맞춤형 전문기술인력양성(재직자 맞춤형 기술교육) 사업 수행기관 모집 공고",
+    "org": "소재부품장비총괄과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66563/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2021년도 산업맞춤형 전문기술인력양성(재직자 맞춤형 기술교육) 사업 수행기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2023년도 중견기업재도약지원사업  사전타당성연구(기술컨설팅) 지원기관(민간 포함) 모집 공고",
+    "org": "중견기업정책과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68121/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2023년도 중견기업재도약지원사업  사전타당성연구(기술컨설팅) 지원기관(민간 포함) 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2022년도 중견기업재도약지원사업 사전타당성연구(기술컨설팅) 지원기관(민간포함) 모집 공고",
+    "org": "중견기업정책과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67198/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2022년도 중견기업재도약지원사업 사전타당성연구(기술컨설팅) 지원기관(민간포함) 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "비즈니스아이디어(BI) 사업화지원기관 추가지정 신청 공고",
+    "org": "산업기술시장과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/62778/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-비즈니스아이디어(BI) 사업화지원기관 추가지정 신청 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:07+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "소재부품장비 융합혁신지원단 참여기관 모집 공고",
+    "org": "소재부품장비개발과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70653/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-소재부품장비 융합혁신지원단 참여기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:08+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "FTA 실무인력 양성사업 전담기관 모집 공고",
+    "org": "통상협정활용과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70679/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-FTA 실무인력 양성사업 전담기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:09+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "미래자동차 부품 전문기업 지정 및 지원 전담기관 선정 공고문",
+    "org": "자동차과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/69797/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-미래자동차 부품 전문기업 지정 및 지원 전담기관 선정 공고문",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:09+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "코리아세일페스타 사업 전담기관 모집 (재)공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65276/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-코리아세일페스타 사업 전담기관 모집 (재)공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:09+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "유통산업 실태조사 사업 전담기관 모집 (재)공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65275/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-유통산업 실태조사 사업 전담기관 모집 (재)공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:09+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "유통산업 실태조사 사업 전담기관 모집공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65255/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-유통산업 실태조사 사업 전담기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:09+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "유통산업 상생협력 및 발전기반조성 사업 전담기관 모집공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65254/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-유통산업 상생협력 및 발전기반조성 사업 전담기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:09+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "코리아세일페스타 사업 전담기관 모집공고",
+    "org": "유통물류과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65242/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-코리아세일페스타 사업 전담기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:09+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "FTA활용 전문인력양성 전담기관 모집 공고",
+    "org": "총괄기획과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64567/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-FTA활용 전문인력양성 전담기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:09+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "자유무역지역 성과평가 전담기관 공고",
+    "org": "산업물류투자팀",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64117/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-자유무역지역 성과평가 전담기관 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:09+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "엔지니어링 표준품셈 관리기관 선정 공고",
+    "org": "엔지니어링디자인과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64538/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-엔지니어링 표준품셈 관리기관 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:09+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "중소·중견기업 수입규제 대응지원 사업 보조사업자 선정 공모",
+    "org": "통상법무기획과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70744/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-중소·중견기업 수입규제 대응지원 사업 보조사업자 선정 공모",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:10+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "중소·중견기업 수입규제 대응지원 사업 보조사업자 선정 공모 (긴급)",
+    "org": "통상법무기획과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70125/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-중소·중견기업 수입규제 대응지원 사업 보조사업자 선정 공모 (긴급)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:10+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2025년 풍력 현장기술인력양성 플랫폼 구축 지원  보조사업자 모집 공고",
+    "org": "에너지기술과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/70065/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2025년 풍력 현장기술인력양성 플랫폼 구축 지원  보조사업자 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:10+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2024년 에너지산업융복합단지 활성화 지원사업 보조사업자 모집 공고",
+    "org": "에너지기술과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/69389/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2024년 에너지산업융복합단지 활성화 지원사업 보조사업자 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:10+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2023년도 수소터빈 시험연구센터 구축사업 보조사업자 모집 공고",
+    "org": "전력산업정책과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68863/view?mno=&pageIndex=1",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2023년도 수소터빈 시험연구센터 구축사업 보조사업자 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:10+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2023년도 바이오사업화촉진지원사업 보조사업자 선정 공고",
+    "org": "바이오융합산업과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/68229/view?mno=&pageIndex=2",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2023년도 바이오사업화촉진지원사업 보조사업자 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:11+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "｢LNG 냉열 활용 냉매물류단지 기반 구축사업｣ 보조사업자 모집 공고",
+    "org": "가스산업과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67769/view?mno=&pageIndex=2",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-｢LNG 냉열 활용 냉매물류단지 기반 구축사업｣ 보조사업자 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:11+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2022년 「바이오나노산업개방형생태계조성촉진사업」 신규 내역사업 보조사업자 선정 모집 공고",
+    "org": "바이오융합산업과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67303/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2022년 「바이오나노산업개방형생태계조성촉진사업」 신규 내역사업 보조사업자 선정 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:11+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2022년 바이오인력양성사업 보조사업자 모집 공고",
+    "org": "바이오융합산업과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/67253/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2022년 바이오인력양성사업 보조사업자 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:11+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2021년 「바이오나노산업개방형생태계조성촉진사업」 신규지원과제 보조사업자 모집 공고",
+    "org": "바이오융합산업과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66758/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2021년 「바이오나노산업개방형생태계조성촉진사업」 신규지원과제 보조사업자 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:11+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "2021년 바이오인력양성사업 보조사업자 모집 공고",
+    "org": "바이오융합산업과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/66561/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-2021년 바이오인력양성사업 보조사업자 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:11+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "광융합제품 글로벌보급 지원사업 보조사업자 선정 재공고",
+    "org": "전자전기과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/65952/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-광융합제품 글로벌보급 지원사업 보조사업자 선정 재공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:11+09:00"
+  },
+  {
+    "source": "MOTIE",
+    "source_name": "산업통상부(본체)",
+    "title": "라이다융합산업상용화기술지원사업 보조사업자 선정 공고",
+    "org": "전자전기과",
+    "period_text": "",
+    "period_start": null,
+    "period_end": null,
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/64930/view?mno=&pageIndex=3",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "MOTIE-라이다융합산업상용화기술지원사업 보조사업자 선정 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:11+09:00"
+  },
+  {
     "source": "KIAT",
     "source_name": "한국산업기술진흥원(KIAT)",
     "title": "2021년도 월드클래스플러스사업 IP 전략수립 주관기관 선정 및 신규 지원기관 모집 공고",
@@ -14,7 +1221,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:29+09:00"
+    "collected_at": "2026-10-08T09:31:14+09:00"
   },
   {
     "source": "KIAT",
@@ -31,7 +1238,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:29+09:00"
+    "collected_at": "2026-10-08T09:31:14+09:00"
   },
   {
     "source": "KIAT",
@@ -48,7 +1255,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:29+09:00"
+    "collected_at": "2026-10-08T09:31:14+09:00"
   },
   {
     "source": "KIAT",
@@ -65,7 +1272,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:29+09:00"
+    "collected_at": "2026-10-08T09:31:14+09:00"
   },
   {
     "source": "KIAT",
@@ -82,7 +1289,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:29+09:00"
+    "collected_at": "2026-10-08T09:31:14+09:00"
   },
   {
     "source": "KIAT",
@@ -99,7 +1306,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:29+09:00"
+    "collected_at": "2026-10-08T09:31:14+09:00"
   },
   {
     "source": "KIAT",
@@ -116,7 +1323,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:29+09:00"
+    "collected_at": "2026-10-08T09:31:14+09:00"
   },
   {
     "source": "KIAT",
@@ -133,7 +1340,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:29+09:00"
+    "collected_at": "2026-10-08T09:31:14+09:00"
   },
   {
     "source": "KIAT",
@@ -150,7 +1357,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:29+09:00"
+    "collected_at": "2026-10-08T09:31:14+09:00"
   },
   {
     "source": "KIAT",
@@ -167,7 +1374,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:29+09:00"
+    "collected_at": "2026-10-08T09:31:14+09:00"
   },
   {
     "source": "KIAT",
@@ -184,7 +1391,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:30+09:00"
+    "collected_at": "2026-10-08T09:31:15+09:00"
   },
   {
     "source": "KIAT",
@@ -201,7 +1408,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:30+09:00"
+    "collected_at": "2026-10-08T09:31:15+09:00"
   },
   {
     "source": "KIAT",
@@ -218,7 +1425,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:30+09:00"
+    "collected_at": "2026-10-08T09:31:15+09:00"
   },
   {
     "source": "KIAT",
@@ -235,7 +1442,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:30+09:00"
+    "collected_at": "2026-10-08T09:31:15+09:00"
   },
   {
     "source": "KIAT",
@@ -252,7 +1459,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:30+09:00"
+    "collected_at": "2026-10-08T09:31:15+09:00"
   },
   {
     "source": "KIAT",
@@ -269,7 +1476,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:30+09:00"
+    "collected_at": "2026-10-08T09:31:15+09:00"
   },
   {
     "source": "KIAT",
@@ -286,7 +1493,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:30+09:00"
+    "collected_at": "2026-10-08T09:31:15+09:00"
   },
   {
     "source": "KIAT",
@@ -303,7 +1510,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:33+09:00"
+    "collected_at": "2026-10-08T09:31:18+09:00"
   },
   {
     "source": "KIAT",
@@ -320,7 +1527,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:33+09:00"
+    "collected_at": "2026-10-08T09:31:18+09:00"
   },
   {
     "source": "KIAT",
@@ -337,7 +1544,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:33+09:00"
+    "collected_at": "2026-10-08T09:31:18+09:00"
   },
   {
     "source": "KIAT",
@@ -354,7 +1561,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:33+09:00"
+    "collected_at": "2026-10-08T09:31:18+09:00"
   },
   {
     "source": "KIAT",
@@ -371,7 +1578,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:33+09:00"
+    "collected_at": "2026-10-08T09:31:18+09:00"
   },
   {
     "source": "KIAT",
@@ -388,7 +1595,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:33+09:00"
+    "collected_at": "2026-10-08T09:31:18+09:00"
   },
   {
     "source": "KIAT",
@@ -405,7 +1612,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:33+09:00"
+    "collected_at": "2026-10-08T09:31:18+09:00"
   },
   {
     "source": "KIAT",
@@ -422,7 +1629,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:33+09:00"
+    "collected_at": "2026-10-08T09:31:18+09:00"
   },
   {
     "source": "KIAT",
@@ -439,7 +1646,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:33+09:00"
+    "collected_at": "2026-10-08T09:31:18+09:00"
   },
   {
     "source": "KIAT",
@@ -456,7 +1663,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:33+09:00"
+    "collected_at": "2026-10-08T09:31:18+09:00"
   },
   {
     "source": "KIAT",
@@ -473,7 +1680,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:37+09:00"
+    "collected_at": "2026-10-08T09:31:23+09:00"
   },
   {
     "source": "KIAT",
@@ -490,7 +1697,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:37+09:00"
+    "collected_at": "2026-10-08T09:31:23+09:00"
   },
   {
     "source": "KIAT",
@@ -507,7 +1714,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:37+09:00"
+    "collected_at": "2026-10-08T09:31:23+09:00"
   },
   {
     "source": "KIAT",
@@ -524,7 +1731,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:37+09:00"
+    "collected_at": "2026-10-08T09:31:23+09:00"
   },
   {
     "source": "KIAT",
@@ -541,7 +1748,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:37+09:00"
+    "collected_at": "2026-10-08T09:31:23+09:00"
   },
   {
     "source": "KIAT",
@@ -558,7 +1765,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:37+09:00"
+    "collected_at": "2026-10-08T09:31:23+09:00"
   },
   {
     "source": "KIAT",
@@ -575,7 +1782,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:37+09:00"
+    "collected_at": "2026-10-08T09:31:23+09:00"
   },
   {
     "source": "KIAT",
@@ -592,7 +1799,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:37+09:00"
+    "collected_at": "2026-10-08T09:31:23+09:00"
   },
   {
     "source": "KIAT",
@@ -609,7 +1816,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:37+09:00"
+    "collected_at": "2026-10-08T09:31:23+09:00"
   },
   {
     "source": "KIAT",
@@ -626,7 +1833,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:37+09:00"
+    "collected_at": "2026-10-08T09:31:23+09:00"
   },
   {
     "source": "KIAT",
@@ -643,7 +1850,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:41+09:00"
+    "collected_at": "2026-10-08T09:31:26+09:00"
   },
   {
     "source": "KIAT",
@@ -660,7 +1867,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:41+09:00"
+    "collected_at": "2026-10-08T09:31:26+09:00"
   },
   {
     "source": "KIAT",
@@ -677,7 +1884,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:41+09:00"
+    "collected_at": "2026-10-08T09:31:26+09:00"
   },
   {
     "source": "KIAT",
@@ -694,7 +1901,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:41+09:00"
+    "collected_at": "2026-10-08T09:31:26+09:00"
   },
   {
     "source": "KIAT",
@@ -711,7 +1918,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:41+09:00"
+    "collected_at": "2026-10-08T09:31:26+09:00"
   },
   {
     "source": "KIAT",
@@ -728,7 +1935,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:41+09:00"
+    "collected_at": "2026-10-08T09:31:26+09:00"
   },
   {
     "source": "KIAT",
@@ -745,7 +1952,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:41+09:00"
+    "collected_at": "2026-10-08T09:31:26+09:00"
   },
   {
     "source": "KIAT",
@@ -762,7 +1969,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:41+09:00"
+    "collected_at": "2026-10-08T09:31:26+09:00"
   },
   {
     "source": "KIAT",
@@ -779,7 +1986,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:41+09:00"
+    "collected_at": "2026-10-08T09:31:26+09:00"
   },
   {
     "source": "KIAT",
@@ -796,7 +2003,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:41+09:00"
+    "collected_at": "2026-10-08T09:31:26+09:00"
   },
   {
     "source": "KIAT",
@@ -813,7 +2020,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:44+09:00"
+    "collected_at": "2026-10-08T09:31:30+09:00"
   },
   {
     "source": "KIAT",
@@ -830,7 +2037,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:44+09:00"
+    "collected_at": "2026-10-08T09:31:30+09:00"
   },
   {
     "source": "KIAT",
@@ -847,7 +2054,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:44+09:00"
+    "collected_at": "2026-10-08T09:31:30+09:00"
   },
   {
     "source": "KIAT",
@@ -864,7 +2071,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:44+09:00"
+    "collected_at": "2026-10-08T09:31:30+09:00"
   },
   {
     "source": "KIAT",
@@ -881,7 +2088,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:44+09:00"
+    "collected_at": "2026-10-08T09:31:30+09:00"
   },
   {
     "source": "KIAT",
@@ -898,7 +2105,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:44+09:00"
+    "collected_at": "2026-10-08T09:31:30+09:00"
   },
   {
     "source": "KIAT",
@@ -915,7 +2122,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:44+09:00"
+    "collected_at": "2026-10-08T09:31:30+09:00"
   },
   {
     "source": "KIAT",
@@ -932,7 +2139,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:44+09:00"
+    "collected_at": "2026-10-08T09:31:30+09:00"
   },
   {
     "source": "KIAT",
@@ -949,7 +2156,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:44+09:00"
+    "collected_at": "2026-10-08T09:31:30+09:00"
   },
   {
     "source": "KIAT",
@@ -966,7 +2173,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:44+09:00"
+    "collected_at": "2026-10-08T09:31:30+09:00"
   },
   {
     "source": "KIAT",
@@ -983,7 +2190,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:45+09:00"
+    "collected_at": "2026-10-08T09:31:31+09:00"
   },
   {
     "source": "KIAT",
@@ -1000,7 +2207,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:45+09:00"
+    "collected_at": "2026-10-08T09:31:31+09:00"
   },
   {
     "source": "KIAT",
@@ -1017,7 +2224,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:45+09:00"
+    "collected_at": "2026-10-08T09:31:31+09:00"
   },
   {
     "source": "KIAT",
@@ -1034,7 +2241,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:45+09:00"
+    "collected_at": "2026-10-08T09:31:31+09:00"
   },
   {
     "source": "KIAT",
@@ -1051,7 +2258,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:45+09:00"
+    "collected_at": "2026-10-08T09:31:31+09:00"
   },
   {
     "source": "KIAT",
@@ -1068,7 +2275,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:45+09:00"
+    "collected_at": "2026-10-08T09:31:31+09:00"
   },
   {
     "source": "KIAT",
@@ -1085,7 +2292,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:45+09:00"
+    "collected_at": "2026-10-08T09:31:31+09:00"
   },
   {
     "source": "KIAT",
@@ -1102,7 +2309,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:46+09:00"
+    "collected_at": "2026-10-08T09:31:32+09:00"
   },
   {
     "source": "KIAT",
@@ -1119,7 +2326,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:46+09:00"
+    "collected_at": "2026-10-08T09:31:32+09:00"
   },
   {
     "source": "KIAT",
@@ -1136,7 +2343,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:49+09:00"
+    "collected_at": "2026-10-08T09:31:34+09:00"
   },
   {
     "source": "KIAT",
@@ -1153,7 +2360,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:49+09:00"
+    "collected_at": "2026-10-08T09:31:34+09:00"
   },
   {
     "source": "KIAT",
@@ -1170,7 +2377,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:49+09:00"
+    "collected_at": "2026-10-08T09:31:34+09:00"
   },
   {
     "source": "KIAT",
@@ -1187,7 +2394,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:49+09:00"
+    "collected_at": "2026-10-08T09:31:34+09:00"
   },
   {
     "source": "KIAT",
@@ -1204,7 +2411,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:49+09:00"
+    "collected_at": "2026-10-08T09:31:34+09:00"
   },
   {
     "source": "KIAT",
@@ -1221,7 +2428,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:49+09:00"
+    "collected_at": "2026-10-08T09:31:34+09:00"
   },
   {
     "source": "KIAT",
@@ -1238,7 +2445,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:49+09:00"
+    "collected_at": "2026-10-08T09:31:34+09:00"
   },
   {
     "source": "KIAT",
@@ -1255,7 +2462,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:50+09:00"
+    "collected_at": "2026-10-08T09:31:36+09:00"
   },
   {
     "source": "KIAT",
@@ -1272,7 +2479,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:50+09:00"
+    "collected_at": "2026-10-08T09:31:36+09:00"
   },
   {
     "source": "KIAT",
@@ -1289,7 +2496,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:50+09:00"
+    "collected_at": "2026-10-08T09:31:36+09:00"
   },
   {
     "source": "KIAT",
@@ -1306,7 +2513,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:52+09:00"
+    "collected_at": "2026-10-08T09:31:38+09:00"
   },
   {
     "source": "KIAT",
@@ -1323,7 +2530,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:52+09:00"
+    "collected_at": "2026-10-08T09:31:38+09:00"
   },
   {
     "source": "KIAT",
@@ -1340,7 +2547,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:52+09:00"
+    "collected_at": "2026-10-08T09:31:38+09:00"
   },
   {
     "source": "KIAT",
@@ -1357,7 +2564,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:52+09:00"
+    "collected_at": "2026-10-08T09:31:38+09:00"
   },
   {
     "source": "KIAT",
@@ -1374,7 +2581,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:52+09:00"
+    "collected_at": "2026-10-08T09:31:38+09:00"
   },
   {
     "source": "KIAT",
@@ -1391,7 +2598,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:52+09:00"
+    "collected_at": "2026-10-08T09:31:38+09:00"
   },
   {
     "source": "KIAT",
@@ -1408,7 +2615,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:52+09:00"
+    "collected_at": "2026-10-08T09:31:38+09:00"
   },
   {
     "source": "KIAT",
@@ -1425,7 +2632,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:52+09:00"
+    "collected_at": "2026-10-08T09:31:38+09:00"
   },
   {
     "source": "KIAT",
@@ -1442,7 +2649,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:53+09:00"
+    "collected_at": "2026-10-08T09:31:39+09:00"
   },
   {
     "source": "KIAT",
@@ -1459,7 +2666,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:53+09:00"
+    "collected_at": "2026-10-08T09:31:39+09:00"
   },
   {
     "source": "KIAT",
@@ -1476,7 +2683,857 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:13:53+09:00"
+    "collected_at": "2026-10-08T09:31:39+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 K-BIO 글로벌 이노베이션 링스(LinX)",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-16 ~ 2026-10-08",
+    "period_start": "2026-09-16",
+    "period_end": "2026-10-08",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26SS00G&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 K-BIO 글로벌 이노베이션 링스(LinX)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "[1무1유] 26년 K-소비재 중국 항천(航天)그룹 임직원 온라인 복지몰 입점사업 (시안)",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-08-20 ~ 2026-10-08",
+    "period_start": "2026-08-20",
+    "period_end": "2026-10-08",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0NG&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-[1무1유] 26년 K-소비재 중국 항천(航天)그룹 임직원 온라인 복지몰 입점사업 (시안)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2027 프랑스 파리 춘계 텍스월드 전시회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-21 ~ 2026-10-08",
+    "period_start": "2026-09-21",
+    "period_end": "2026-10-08",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26EX03L&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2027 프랑스 파리 춘계 텍스월드 전시회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 부산시 AI 수출마케팅 지원사업",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-01 ~ 2026-10-09",
+    "period_start": "2026-09-01",
+    "period_end": "2026-10-09",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26PC01A&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 부산시 AI 수출마케팅 지원사업",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 중국 소비재 시장 진출 핵심 실무 과정(10.13)",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-01 ~ 2026-10-09",
+    "period_start": "2026-09-01",
+    "period_end": "2026-10-09",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26ED00O&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 중국 소비재 시장 진출 핵심 실무 과정(10.13)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 Expo Salud 한국홍보관 운영",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-01 ~ 2026-10-09",
+    "period_start": "2026-09-01",
+    "period_end": "2026-10-09",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26EX03E&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 Expo Salud 한국홍보관 운영",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 하반기 이집트 전력기자재 온라인 수출상담회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-28 ~ 2026-10-09",
+    "period_start": "2026-09-28",
+    "period_end": "2026-10-09",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0PM&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 하반기 이집트 전력기자재 온라인 수출상담회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 KOTRA 중국 K-소비재 물류 데스크 특화사업(3차 모집)",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-15 ~ 2026-10-09",
+    "period_start": "2026-09-15",
+    "period_end": "2026-10-09",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26TF025&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 KOTRA 중국 K-소비재 물류 데스크 특화사업(3차 모집)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "미국 수출 인큐베이팅 기반 유통망 진입 지원 사업",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-10-06 ~ 2026-10-12",
+    "period_start": "2026-10-06",
+    "period_end": "2026-10-12",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26PC01B&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-미국 수출 인큐베이팅 기반 유통망 진입 지원 사업",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026년 베트남 해양에너지 파트너링 사업  참가기업 모집공고(에너지·전력)",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-14 ~ 2026-10-12",
+    "period_start": "2026-09-14",
+    "period_end": "2026-10-12",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0OZ&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026년 베트남 해양에너지 파트너링 사업  참가기업 모집공고(에너지·전력)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "中 현지 숏폼 제작·생방송 판매·유통망 입점 원스톱 사업",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-21 ~ 2026-10-12",
+    "period_start": "2026-09-21",
+    "period_end": "2026-10-12",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0PC&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-中 현지 숏폼 제작·생방송 판매·유통망 입점 원스톱 사업",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 쇼피입점실습과정",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-21 ~ 2026-10-12",
+    "period_start": "2026-09-21",
+    "period_end": "2026-10-12",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26ED00T&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 쇼피입점실습과정",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 홍콩 코스모프로프 뷰티전시회 연계 K-뷰티 세미나 & 글로벌 리테일 입점상담회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-10-02 ~ 2026-10-13",
+    "period_start": "2026-10-02",
+    "period_end": "2026-10-13",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0Q7&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 홍콩 코스모프로프 뷰티전시회 연계 K-뷰티 세미나 & 글로벌 리테일 입점상담회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 EU 포장 및 포장 폐기물 규정(PPWR) 대응 웨비나",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-30 ~ 2026-10-13",
+    "period_start": "2026-09-30",
+    "period_end": "2026-10-13",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26PF02A&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 EU 포장 및 포장 폐기물 규정(PPWR) 대응 웨비나",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 K-BIO 글로벌 파트너십 포럼",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-28 ~ 2026-10-14",
+    "period_start": "2026-09-28",
+    "period_end": "2026-10-14",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26PF026&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 K-BIO 글로벌 파트너십 포럼",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 한·중 콘텐츠 산업 비즈니스 상담회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-03 ~ 2026-10-14",
+    "period_start": "2026-09-03",
+    "period_end": "2026-10-14",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0OK&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 한·중 콘텐츠 산업 비즈니스 상담회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2027 미국 피닉스 반도체 산업 전시회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-28 ~ 2026-10-15",
+    "period_start": "2026-09-28",
+    "period_end": "2026-10-15",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26EX03K&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2027 미국 피닉스 반도체 산업 전시회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "[SEOUL FOOD in Bangkok 2026] 강원 공동관",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-01 ~ 2026-10-16",
+    "period_start": "2026-09-01",
+    "period_end": "2026-10-16",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0PA&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-[SEOUL FOOD in Bangkok 2026] 강원 공동관",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "[1무1유] 2026 대만 화장품 PIF 등록제도 설명회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-29 ~ 2026-10-16",
+    "period_start": "2026-09-29",
+    "period_end": "2026-10-16",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26PF029&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-[1무1유] 2026 대만 화장품 PIF 등록제도 설명회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 World Hydrogen Expo 연계 수소산업 글로벌 파트너십 상담회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-14 ~ 2026-10-16",
+    "period_start": "2026-09-14",
+    "period_end": "2026-10-16",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0OX&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 World Hydrogen Expo 연계 수소산업 글로벌 파트너십 상담회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "[지방특화] 2026년 군산시 수출사다리 지원사업",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-03-19 ~ 2026-10-16",
+    "period_start": "2026-03-19",
+    "period_end": "2026-10-16",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26TF016&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-[지방특화] 2026년 군산시 수출사다리 지원사업",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026년 링크드인 바이어 발굴 부트캠프",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-08 ~ 2026-10-16",
+    "period_start": "2026-09-08",
+    "period_end": "2026-10-16",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26ED00P&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026년 링크드인 바이어 발굴 부트캠프",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "(2026 G-FAIR 연계) 중국 유력 유통망 진출전략 설명·상담회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-21 ~ 2026-10-16",
+    "period_start": "2026-09-21",
+    "period_end": "2026-10-16",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0PB&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-(2026 G-FAIR 연계) 중국 유력 유통망 진출전략 설명·상담회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "[KOTRA/aSSIST]글로벌 비즈니스 계약과정 안내(10.21-22)",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-09 ~ 2026-10-16",
+    "period_start": "2026-09-09",
+    "period_end": "2026-10-16",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=25ED006&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-[KOTRA/aSSIST]글로벌 비즈니스 계약과정 안내(10.21-22)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "BIXPO 2026 연계 전력산업 수출상담회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-08-31 ~ 2026-10-16",
+    "period_start": "2026-08-31",
+    "period_end": "2026-10-16",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0OA&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-BIXPO 2026 연계 전력산업 수출상담회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 글로벌 공급망 ESG 대응을 위한 EcoVadis 평가대응 세미나",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-10-07 ~ 2026-10-18",
+    "period_start": "2026-10-07",
+    "period_end": "2026-10-18",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26PF02D&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 글로벌 공급망 ESG 대응을 위한 EcoVadis 평가대응 세미나",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 중국 중부6성 박람회 연계 K-의료기기 중국 내륙시장 진출 GP 상담회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-24 ~ 2026-10-18",
+    "period_start": "2026-09-24",
+    "period_end": "2026-10-18",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0PJ&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 중국 중부6성 박람회 연계 K-의료기기 중국 내륙시장 진출 GP 상담회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "[지방특화] 2026년 탄소기업 해외지사화 지원사업",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-04-28 ~ 2026-10-18",
+    "period_start": "2026-04-28",
+    "period_end": "2026-10-18",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26TF01X&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-[지방특화] 2026년 탄소기업 해외지사화 지원사업",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "일본 법인설립 및 경영컨설팅 온라인 설명회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-28 ~ 2026-10-19",
+    "period_start": "2026-09-28",
+    "period_end": "2026-10-19",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26PF027&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-일본 법인설립 및 경영컨설팅 온라인 설명회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 수출 다변화를 위한 비관세장벽 설명회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-29 ~ 2026-10-20",
+    "period_start": "2026-09-29",
+    "period_end": "2026-10-20",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26PF028&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 수출 다변화를 위한 비관세장벽 설명회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "ChatGPT Codex를 활용한 수출 마케팅 에이전트 구축 실무",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-16 ~ 2026-10-21",
+    "period_start": "2026-09-16",
+    "period_end": "2026-10-21",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26ED00R&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-ChatGPT Codex를 활용한 수출 마케팅 에이전트 구축 실무",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 글로벌 공공조달 수출상담회(GPPM)",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-04 ~ 2026-10-22",
+    "period_start": "2026-09-04",
+    "period_end": "2026-10-22",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0OM&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 글로벌 공공조달 수출상담회(GPPM)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 중남미 스마트시티 로드쇼(멕시코시티) - 신청기간 연장",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-08-26 ~ 2026-10-23",
+    "period_start": "2026-08-26",
+    "period_end": "2026-10-23",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0NS&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 중남미 스마트시티 로드쇼(멕시코시티) - 신청기간 연장",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 중남미 스마트시티 로드쇼(부에노스아이레스) - 신청기간 연장",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-08-26 ~ 2026-10-23",
+    "period_start": "2026-08-26",
+    "period_end": "2026-10-23",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0NT&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 중남미 스마트시티 로드쇼(부에노스아이레스) - 신청기간 연장",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 미국 주정부 협력 중서부 투자진출 웨비나",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-17 ~ 2026-10-23",
+    "period_start": "2026-09-17",
+    "period_end": "2026-10-23",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26PF025&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 미국 주정부 협력 중서부 투자진출 웨비나",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026년도 하반기 산업통상협력개발지원(ODA)사업 사전타당성조사 공고",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-10-02 ~ 2026-10-23",
+    "period_start": "2026-10-02",
+    "period_end": "2026-10-23",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26TF02Y&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026년도 하반기 산업통상협력개발지원(ODA)사업 사전타당성조사 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 제약바이오 투자대전 (해외 투자유치ᆞ수출 상담회)",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-10-01 ~ 2026-10-23",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-23",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0PX&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 제약바이오 투자대전 (해외 투자유치ᆞ수출 상담회)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 MDB 프로젝트 플라자",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-23 ~ 2026-10-23",
+    "period_start": "2026-09-23",
+    "period_end": "2026-10-23",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0PI&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 MDB 프로젝트 플라자",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "[1무1유] 2026 그리스 아테네 유통망 입점 지원사업",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-03-04 ~ 2026-10-23",
+    "period_start": "2026-03-04",
+    "period_end": "2026-10-23",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN049&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-[1무1유] 2026 그리스 아테네 유통망 입점 지원사업",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "[1무1유] 2026 캐나다 1위 유통기업 Loblaw  ×  K-Beauty K-뷰티 입점 온라인 사업설명회(토론토)",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-10-07 ~ 2026-10-27",
+    "period_start": "2026-10-07",
+    "period_end": "2026-10-27",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0PU&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-[1무1유] 2026 캐나다 1위 유통기업 Loblaw  ×  K-Beauty K-뷰티 입점 온라인 사업설명회(토론토)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 멕시코 시장 진출 실전 과정",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-09-18 ~ 2026-10-27",
+    "period_start": "2026-09-18",
+    "period_end": "2026-10-27",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26ED00S&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 멕시코 시장 진출 실전 과정",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026년 일본 수입통관 동향 및 현지 물류 대응 세미나",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-10-01 ~ 2026-10-28",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-28",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26PF024&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026년 일본 수입통관 동향 및 현지 물류 대응 세미나",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 이집트 플랜트 무역사절단",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-10-01 ~ 2026-10-30",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-30",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0Q0&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 이집트 플랜트 무역사절단",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 중동 스마트시티 온라인 상담회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-10-07 ~ 2026-10-30",
+    "period_start": "2026-10-07",
+    "period_end": "2026-10-30",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0QC&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 중동 스마트시티 온라인 상담회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "(해외전시회 연계 융복합) 2026 중국 포산 수소전시회 연계 수소산업 수출상담회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-08-11 ~ 2026-10-30",
+    "period_start": "2026-08-11",
+    "period_end": "2026-10-30",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0MP&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-(해외전시회 연계 융복합) 2026 중국 포산 수소전시회 연계 수소산업 수출상담회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "구자라트 인콰이어리 발굴, 성약 지원 사업",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-04-13 ~ 2026-10-30",
+    "period_start": "2026-04-13",
+    "period_end": "2026-10-30",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0A7&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-구자라트 인콰이어리 발굴, 성약 지원 사업",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 포르투갈 건축·건설(Tektónica)연계 전시상당회",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-03-17 ~ 2026-10-30",
+    "period_start": "2026-03-17",
+    "period_end": "2026-10-30",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26EX01E&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 포르투갈 건축·건설(Tektónica)연계 전시상당회",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "2026 K-Lifestyle in 첸나이 소비재 진출 지원사업",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-01-01 ~ 2026-10-31",
+    "period_start": "2026-01-01",
+    "period_end": "2026-10-31",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0DJ&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-2026 K-Lifestyle in 첸나이 소비재 진출 지원사업",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "(해외전시회 연계 융복합) 2026 포르투갈 치과산업 전시상담회(Expodentaria) 참가기업 모집 안내",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-07-09 ~ 2026-10-31",
+    "period_start": "2026-07-09",
+    "period_end": "2026-10-31",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0K0&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-(해외전시회 연계 융복합) 2026 포르투갈 치과산업 전시상담회(Expodentaria) 참가기업 모집 안내",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
+  },
+  {
+    "source": "KOTRA",
+    "source_name": "대한무역투자진흥공사(KOTRA)",
+    "title": "[1무1유] 2026 독일 글로벌 유통망 진출 지원 사업 (함부르크무역관)",
+    "org": "대한무역투자진흥공사",
+    "period_text": "2026-06-24 ~ 2026-10-31",
+    "period_start": "2026-06-24",
+    "period_end": "2026-10-31",
+    "url": "https://www.kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0IM&cpbizYn=N",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOTRA-[1무1유] 2026 독일 글로벌 유통망 진출 지원 사업 (함부르크무역관)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:41+09:00"
   },
   {
     "source": "KEIT",
@@ -1493,7 +3550,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:14:25+09:00"
+    "collected_at": "2026-10-08T09:31:43+09:00"
   },
   {
     "source": "KEIT",
@@ -1510,7 +3567,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:14:25+09:00"
+    "collected_at": "2026-10-08T09:31:43+09:00"
   },
   {
     "source": "KETEP",
@@ -1527,7 +3584,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:14:32+09:00"
+    "collected_at": "2026-10-08T09:31:50+09:00"
   },
   {
     "source": "KETEP",
@@ -1544,7 +3601,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:14:32+09:00"
+    "collected_at": "2026-10-08T09:31:50+09:00"
   },
   {
     "source": "KETEP",
@@ -1561,7 +3618,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:14:32+09:00"
+    "collected_at": "2026-10-08T09:31:50+09:00"
   },
   {
     "source": "KETEP",
@@ -1578,7 +3635,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:14:32+09:00"
+    "collected_at": "2026-10-08T09:31:50+09:00"
   },
   {
     "source": "KETEP",
@@ -1595,7 +3652,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:14:34+09:00"
+    "collected_at": "2026-10-08T09:31:51+09:00"
   },
   {
     "source": "KETEP",
@@ -1612,7 +3669,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:14:34+09:00"
+    "collected_at": "2026-10-08T09:31:51+09:00"
   },
   {
     "source": "KETEP",
@@ -1629,7 +3686,789 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:14:34+09:00"
+    "collected_at": "2026-10-08T09:31:51+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "「2026년 혁신 소상공인 AI 활용지원 사업」  주관기관 추가 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-05-12 ~ 2026-05-26",
+    "period_start": "2026-05-12",
+    "period_end": "2026-05-26",
+    "url": "https://www.sbiz24.kr/#/pbanc/716",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-「2026년 혁신 소상공인 AI 활용지원 사업」  주관기관 추가 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:55+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소상공인 생활문화 혁신지원 사업 주관기관 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-06-05 ~ 2026-06-08",
+    "period_start": "2026-06-05",
+    "period_end": "2026-06-08",
+    "url": "https://www.sbiz24.kr/#/pbanc/713",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소상공인 생활문화 혁신지원 사업 주관기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:55+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 글로벌 소상공인(K-소상공인) 육성사업 주관기관 등록 안내",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-04-13 ~ 2026-04-14",
+    "period_start": "2026-04-13",
+    "period_end": "2026-04-14",
+    "url": "https://www.sbiz24.kr/#/pbanc/674",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 글로벌 소상공인(K-소상공인) 육성사업 주관기관 등록 안내",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:55+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "「2026년 혁신 소상공인 AI 활용지원 사업」  주관기관 모집 공고(수정)",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-04-08 ~ 2026-04-28",
+    "period_start": "2026-04-08",
+    "period_end": "2026-04-28",
+    "url": "https://www.sbiz24.kr/#/pbanc/667",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-「2026년 혁신 소상공인 AI 활용지원 사업」  주관기관 모집 공고(수정)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:55+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소상공인 투자연계 지원사업 주관기관 등록 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-04-02 ~ 2026-05-10",
+    "period_start": "2026-04-02",
+    "period_end": "2026-05-10",
+    "url": "https://www.sbiz24.kr/#/pbanc/666",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소상공인 투자연계 지원사업 주관기관 등록 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:55+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 로컬창업기업 육성사업 주관기관 모집공고(수정)",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-01-22 ~ 2026-02-05",
+    "period_start": "2026-01-22",
+    "period_end": "2026-02-05",
+    "url": "https://www.sbiz24.kr/#/pbanc/574",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 로컬창업기업 육성사업 주관기관 모집공고(수정)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:56+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 우리동네 크라우드펀딩 지원사업 주관기관 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-01-23 ~ 2026-02-06",
+    "period_start": "2026-01-23",
+    "period_end": "2026-02-06",
+    "url": "https://www.sbiz24.kr/#/pbanc/573",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 우리동네 크라우드펀딩 지원사업 주관기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:56+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 희망리턴패키지 재기사업화 주관기관 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-12-18 ~ 2026-01-02",
+    "period_start": "2025-12-18",
+    "period_end": "2026-01-02",
+    "url": "https://www.sbiz24.kr/#/pbanc/554",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 희망리턴패키지 재기사업화 주관기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:56+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 신사업창업사관학교(글로컬상권) 주관기관 등록 안내",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-06-10 ~ 2025-06-11",
+    "period_start": "2025-06-10",
+    "period_end": "2025-06-11",
+    "url": "https://www.sbiz24.kr/#/pbanc/467",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 신사업창업사관학교(글로컬상권) 주관기관 등록 안내",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:56+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "혁신소상공인 투자연계지원 사업 주관기관 모집공고(후속)",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-03-27 ~ 2025-03-27",
+    "period_start": "2025-03-27",
+    "period_end": "2025-03-27",
+    "url": "https://www.sbiz24.kr/#/pbanc/365",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-혁신소상공인 투자연계지원 사업 주관기관 모집공고(후속)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:56+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "혁신소상공인 투자연계지원 사업 주관기관 모집공고(초기)",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-03-27 ~ 2025-03-27",
+    "period_start": "2025-03-27",
+    "period_end": "2025-03-27",
+    "url": "https://www.sbiz24.kr/#/pbanc/364",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-혁신소상공인 투자연계지원 사업 주관기관 모집공고(초기)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:56+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 우리동네 크라우드펀딩 지원사업 주관기관 추가 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-02-07 ~ 2025-02-20",
+    "period_start": "2025-02-07",
+    "period_end": "2025-02-20",
+    "url": "https://www.sbiz24.kr/#/pbanc/295",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 우리동네 크라우드펀딩 지원사업 주관기관 추가 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:56+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 강한 소상공인 성장지원사업 트랙I 주관기관 등록공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-01-20 ~ 2025-01-20",
+    "period_start": "2025-01-20",
+    "period_end": "2025-01-20",
+    "url": "https://www.sbiz24.kr/#/pbanc/279",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 강한 소상공인 성장지원사업 트랙I 주관기관 등록공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:56+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 강한 소상공인 성장지원사업 주관기관(트랙III, 글로벌) 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-01-16 ~ 2025-02-06",
+    "period_start": "2025-01-16",
+    "period_end": "2025-02-06",
+    "url": "https://www.sbiz24.kr/#/pbanc/275",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 강한 소상공인 성장지원사업 주관기관(트랙III, 글로벌) 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:56+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 강한 소상공인 성장지원사업 주관기관(트랙II, 온라인셀러) 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-01-16 ~ 2025-02-06",
+    "period_start": "2025-01-16",
+    "period_end": "2025-02-06",
+    "url": "https://www.sbiz24.kr/#/pbanc/274",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 강한 소상공인 성장지원사업 주관기관(트랙II, 온라인셀러) 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:56+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 클린제조환경조성 사업 전문기관 추가 모집공고(운영기관)",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-06-30 ~ 2026-07-14",
+    "period_start": "2026-06-30",
+    "period_end": "2026-07-14",
+    "url": "https://www.sbiz24.kr/#/pbanc/792",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 클린제조환경조성 사업 전문기관 추가 모집공고(운영기관)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소공인 스마트 제조지원사업(스마트공방) 클러스터 운영기관 추가 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-06-15 ~ 2026-07-03",
+    "period_start": "2026-06-15",
+    "period_end": "2026-07-03",
+    "url": "https://www.sbiz24.kr/#/pbanc/775",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소공인 스마트 제조지원사업(스마트공방) 클러스터 운영기관 추가 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소공인 스마트제조지원(스마트공방) 사업 부처협업형 클러스터 운영기관 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-06-19 ~ 2026-06-19",
+    "period_start": "2026-06-19",
+    "period_end": "2026-06-19",
+    "url": "https://www.sbiz24.kr/#/pbanc/739",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소공인 스마트제조지원(스마트공방) 사업 부처협업형 클러스터 운영기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소공인 기능경진대회 운영기관 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-05-26 ~ 2026-06-09",
+    "period_start": "2026-05-26",
+    "period_end": "2026-06-09",
+    "url": "https://www.sbiz24.kr/#/pbanc/734",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소공인 기능경진대회 운영기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소공인 스마트 제조지원사업(스마트공방) 클러스터 운영기관 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-05-18 ~ 2026-06-02",
+    "period_start": "2026-05-18",
+    "period_end": "2026-06-02",
+    "url": "https://www.sbiz24.kr/#/pbanc/708",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소공인 스마트 제조지원사업(스마트공방) 클러스터 운영기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소공인특화지원센터 운영기관 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-03-20 ~ 2026-04-16",
+    "period_start": "2026-03-20",
+    "period_end": "2026-04-16",
+    "url": "https://www.sbiz24.kr/#/pbanc/652",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소공인특화지원센터 운영기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 찾아가는 1:1 교육 전문 운영기관 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-03-31 ~ 2026-04-15",
+    "period_start": "2026-03-31",
+    "period_end": "2026-04-15",
+    "url": "https://www.sbiz24.kr/#/pbanc/651",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 찾아가는 1:1 교육 전문 운영기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 협약연장 소공인특화지원센터 운영기관 등록 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-02-03 ~ 2026-03-11",
+    "period_start": "2026-02-03",
+    "period_end": "2026-03-11",
+    "url": "https://www.sbiz24.kr/#/pbanc/602",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 협약연장 소공인특화지원센터 운영기관 등록 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소상공인 업종전문기술교육 운영기관 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-03-31 ~ 2026-04-15",
+    "period_start": "2026-03-31",
+    "period_end": "2026-04-15",
+    "url": "https://www.sbiz24.kr/#/pbanc/600",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소상공인 업종전문기술교육 운영기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 희망리턴패키지 심리회복지원 운영기관 모집 공고(협약기관용)",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-02-20 ~ 2026-02-20",
+    "period_start": "2026-02-20",
+    "period_end": "2026-02-20",
+    "url": "https://www.sbiz24.kr/#/pbanc/599",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 희망리턴패키지 심리회복지원 운영기관 모집 공고(협약기관용)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 중소유통 공동협력 활성화 지원사업 운영기관 모집공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-02-04 ~ 2026-02-18",
+    "period_start": "2026-02-04",
+    "period_end": "2026-02-18",
+    "url": "https://www.sbiz24.kr/#/pbanc/586",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 중소유통 공동협력 활성화 지원사업 운영기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 소상공인 역량강화 컨설팅 공모전 운영기관 등록 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-10-29 ~ 2025-10-30",
+    "period_start": "2025-10-29",
+    "period_end": "2025-10-30",
+    "url": "https://www.sbiz24.kr/#/pbanc/546",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 소상공인 역량강화 컨설팅 공모전 운영기관 등록 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "「2025년 하반기 소상공인 역량강화사업 컨설팅」 전문 운영기관 모집",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-07-30 ~ 2025-07-31",
+    "period_start": "2025-07-30",
+    "period_end": "2025-07-31",
+    "url": "https://www.sbiz24.kr/#/pbanc/496",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-「2025년 하반기 소상공인 역량강화사업 컨설팅」 전문 운영기관 모집",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "「2025년 소상공인 역량강화사업(수출지원 컨설팅)」 전문 운영기관 등록 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-02-12 ~ 2025-06-30",
+    "period_start": "2025-02-12",
+    "period_end": "2025-06-30",
+    "url": "https://www.sbiz24.kr/#/pbanc/446",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-「2025년 소상공인 역량강화사업(수출지원 컨설팅)」 전문 운영기관 등록 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 소공인특화지원센터 신규 운영기관 모집",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-04-04 ~ 2025-04-24",
+    "period_start": "2025-04-04",
+    "period_end": "2025-04-24",
+    "url": "https://www.sbiz24.kr/#/pbanc/372",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 소공인특화지원센터 신규 운영기관 모집",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소상공인 플랫폼협업교육 수행기관 등록",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-07-10 ~ 2026-07-13",
+    "period_start": "2026-07-10",
+    "period_end": "2026-07-13",
+    "url": "https://www.sbiz24.kr/#/pbanc/801",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소상공인 플랫폼협업교육 수행기관 등록",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소상공인 플랫폼 협업교육(특화) 수행기관 추가 모집공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-06-08 ~ 2026-06-22",
+    "period_start": "2026-06-08",
+    "period_end": "2026-06-22",
+    "url": "https://www.sbiz24.kr/#/pbanc/768",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소상공인 플랫폼 협업교육(특화) 수행기관 추가 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 해외 온라인 플랫폼 물류지원사업 수행기관 모집공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-05-15 ~ 2026-05-29",
+    "period_start": "2026-05-15",
+    "period_end": "2026-05-29",
+    "url": "https://www.sbiz24.kr/#/pbanc/728",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 해외 온라인 플랫폼 물류지원사업 수행기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 해외 온라인 플랫폼 활용지원사업 수행기관 모집공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-05-15 ~ 2026-05-29",
+    "period_start": "2026-05-15",
+    "period_end": "2026-05-29",
+    "url": "https://www.sbiz24.kr/#/pbanc/727",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 해외 온라인 플랫폼 활용지원사업 수행기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소상공인 플랫폼 협업교육 수행기관 모집공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-05-15 ~ 2026-05-29",
+    "period_start": "2026-05-15",
+    "period_end": "2026-05-29",
+    "url": "https://www.sbiz24.kr/#/pbanc/725",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소상공인 플랫폼 협업교육 수행기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:57+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 1:1 현장방문교육 수행기관 등록",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-04-21 ~ 2026-04-21",
+    "period_start": "2026-04-21",
+    "period_end": "2026-04-21",
+    "url": "https://www.sbiz24.kr/#/pbanc/668",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 1:1 현장방문교육 수행기관 등록",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:58+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소상공인 AI 상생협업교육 수행기관 모집공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-03-31 ~ 2026-04-20",
+    "period_start": "2026-03-31",
+    "period_end": "2026-04-20",
+    "url": "https://www.sbiz24.kr/#/pbanc/603",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소상공인 AI 상생협업교육 수행기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:58+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2026년 소상공인 1:1현장방문교육 수행기관 모집공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2026-01-19 ~ 2026-02-02",
+    "period_start": "2026-01-19",
+    "period_end": "2026-02-02",
+    "url": "https://www.sbiz24.kr/#/pbanc/569",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2026년 소상공인 1:1현장방문교육 수행기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:58+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 소상공인 상생협업교육(소상공인 AI활용 교육) 수행기관 모집공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-10-20 ~ 2025-11-03",
+    "period_start": "2025-10-20",
+    "period_end": "2025-11-03",
+    "url": "https://www.sbiz24.kr/#/pbanc/529",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 소상공인 상생협업교육(소상공인 AI활용 교육) 수행기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:58+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "「2025년 글로벌시장지원사업」 글로벌 쇼룸 지원 사업 수행기관 모집 공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-05-12 ~ 2025-05-26",
+    "period_start": "2025-05-12",
+    "period_end": "2025-05-26",
+    "url": "https://www.sbiz24.kr/#/pbanc/444",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-「2025년 글로벌시장지원사업」 글로벌 쇼룸 지원 사업 수행기관 모집 공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:58+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 소상공인 상생협업교육 수행기관 모집공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-04-11 ~ 2025-05-02",
+    "period_start": "2025-04-11",
+    "period_end": "2025-05-02",
+    "url": "https://www.sbiz24.kr/#/pbanc/425",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 소상공인 상생협업교육 수행기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:58+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 소상공인 온라인판로지원 글로벌시장지원 수행기관 모집공고",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-01-17 ~ 2025-02-07",
+    "period_start": "2025-01-17",
+    "period_end": "2025-02-07",
+    "url": "https://www.sbiz24.kr/#/pbanc/277",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 소상공인 온라인판로지원 글로벌시장지원 수행기관 모집공고",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:58+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 소상공인 온라인판로 교육사업 수행기관 모집공고(수정)",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-01-17 ~ 2025-02-07",
+    "period_start": "2025-01-17",
+    "period_end": "2025-02-07",
+    "url": "https://www.sbiz24.kr/#/pbanc/276",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 소상공인 온라인판로 교육사업 수행기관 모집공고(수정)",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:58+09:00"
+  },
+  {
+    "source": "SEMAS",
+    "source_name": "소상공인시장진흥공단(소진공)",
+    "title": "2025년 소공인 광역 전담기관 모집 공모",
+    "org": "소상공인시장진흥공단",
+    "period_text": "2025-03-06 ~ 2025-03-28",
+    "period_start": "2025-03-06",
+    "period_end": "2025-03-28",
+    "url": "https://www.sbiz24.kr/#/pbanc/334",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "SEMAS-2025년 소공인 광역 전담기관 모집 공모",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:31:59+09:00"
+  },
+  {
+    "source": "KOSMES",
+    "source_name": "중소벤처기업진흥공단(KOSMES)",
+    "title": "2026년 글로벌베이스캠프 사업 수행기관 선정 결과 공지",
+    "org": "수출인큐베이터",
+    "period_text": "2026-12-31",
+    "period_start": null,
+    "period_end": "2026-12-31",
+    "url": "https://www.kosmes.or.kr/nsh/SH/NTS/SHNTS001F0.do?seqNo=6107081",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOSMES-6107081",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:32:01+09:00"
+  },
+  {
+    "source": "KOSMES",
+    "source_name": "중소벤처기업진흥공단(KOSMES)",
+    "title": "「2026년도 스마트제조 전문인력 육성사업」 참여기관(기업·사업단) 모집 공고",
+    "org": "인력",
+    "period_text": "2026-12-31",
+    "period_start": null,
+    "period_end": "2026-12-31",
+    "url": "https://www.kosmes.or.kr/nsh/SH/NTS/SHNTS001F0.do?seqNo=6107083",
+    "collect_method": "CRAWL",
+    "stage": "모집공고",
+    "external_id": "KOSMES-6107083",
+    "content": "",
+    "matched_keywords": [],
+    "is_duplicate": false,
+    "collected_at": "2026-10-08T09:32:02+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1646,7 +4485,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1663,7 +4502,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1680,7 +4519,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1697,7 +4536,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1714,7 +4553,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1731,7 +4570,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1748,7 +4587,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1765,7 +4604,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1782,7 +4621,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1799,7 +4638,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1816,7 +4655,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1833,7 +4672,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1850,7 +4689,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1867,7 +4706,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1884,7 +4723,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1901,7 +4740,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1918,7 +4757,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1935,7 +4774,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1952,7 +4791,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1969,7 +4808,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -1986,7 +4825,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2003,7 +4842,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2020,7 +4859,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2037,7 +4876,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2054,7 +4893,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2071,7 +4910,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2088,7 +4927,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2105,7 +4944,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2122,7 +4961,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2139,7 +4978,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2156,7 +4995,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2173,7 +5012,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2190,7 +5029,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2207,7 +5046,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2224,7 +5063,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2241,7 +5080,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2258,7 +5097,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2275,7 +5114,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2292,7 +5131,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:04+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2309,7 +5148,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2326,7 +5165,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2343,7 +5182,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2360,7 +5199,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2377,7 +5216,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2394,7 +5233,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2411,7 +5250,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2428,7 +5267,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2445,7 +5284,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2462,7 +5301,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2479,7 +5318,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2496,7 +5335,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2513,7 +5352,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2530,7 +5369,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2547,7 +5386,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:37+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2564,7 +5403,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:38+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2581,7 +5420,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:38+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2598,7 +5437,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:38+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2615,7 +5454,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:38+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2632,7 +5471,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:38+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2649,7 +5488,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:38+09:00"
+    "collected_at": "2026-10-08T09:32:05+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2666,7 +5505,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:39+09:00"
+    "collected_at": "2026-10-08T09:32:06+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2683,7 +5522,7 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:39+09:00"
+    "collected_at": "2026-10-08T09:32:06+09:00"
   },
   {
     "source": "TIPA_SMARTFACTORY",
@@ -2700,6 +5539,6 @@
     "content": "",
     "matched_keywords": [],
     "is_duplicate": false,
-    "collected_at": "2026-10-07T09:15:39+09:00"
+    "collected_at": "2026-10-08T09:32:06+09:00"
   }
 ]
