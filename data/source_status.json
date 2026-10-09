@@ -1,35 +1,34 @@
 {
   "MSS(중소벤처기업부)": {
     "track": "api",
-    "last_run_at": "2026-10-08T22:15:27+09:00",
+    "last_run_at": "2026-10-09T14:45:32+09:00",
     "last_status": "OK",
     "last_count": 2216,
-    "last_success_at": "2026-10-08T22:15:27+09:00",
+    "last_success_at": "2026-10-09T14:45:32+09:00",
     "last_error": ""
   },
   "KSTARTUP(창업진흥원(K-Startup))": {
     "track": "api",
-    "last_run_at": "2026-10-08T22:15:27+09:00",
+    "last_run_at": "2026-10-09T14:45:32+09:00",
     "last_status": "OK",
     "last_count": 200,
-    "last_success_at": "2026-10-08T22:15:27+09:00",
+    "last_success_at": "2026-10-09T14:45:32+09:00",
     "last_error": ""
   },
   "BIZINFO(기업마당)": {
     "track": "api",
-    "last_run_at": "2026-10-08T22:15:27+09:00",
+    "last_run_at": "2026-10-09T14:45:32+09:00",
     "last_status": "OK",
-    "last_count": 1488,
-    "last_success_at": "2026-10-08T22:15:27+09:00",
+    "last_count": 1445,
+    "last_success_at": "2026-10-09T14:45:32+09:00",
     "last_error": ""
   },
   "G2B(나라장터(조달청))": {
     "track": "api",
-    "last_run_at": "2026-10-08T22:15:27+09:00",
-    "last_status": "OK",
-    "last_count": 71,
-    "last_success_at": "2026-10-08T22:15:27+09:00",
-    "last_error": ""
+    "last_run_at": "2026-10-09T14:45:32+09:00",
+    "last_status": "FAIL",
+    "last_count": 0,
+    "last_error": "HTTPSConnectionPool(host='apis.data.go.kr', port=443): Read timed out. (read timeout=30)"
   },
   "motie(산업통상부(본체))": {
     "track": "crawl",
