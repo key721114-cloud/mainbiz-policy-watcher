@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T14:45:34+09:00",
-  "count": 544,
+  "generated_at": "2026-10-09T22:01:56+09:00",
+  "count": 610,
   "items": [
     {
       "source": "MSS",
@@ -19,7 +19,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:14+09:00"
+      "collected_at": "2026-10-09T21:59:01+09:00"
     },
     {
       "source": "MSS",
@@ -38,7 +38,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:14+09:00"
+      "collected_at": "2026-10-09T21:59:01+09:00"
     },
     {
       "source": "MSS",
@@ -57,7 +57,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:14+09:00"
+      "collected_at": "2026-10-09T21:59:01+09:00"
     },
     {
       "source": "MSS",
@@ -76,7 +76,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:14+09:00"
+      "collected_at": "2026-10-09T21:59:01+09:00"
     },
     {
       "source": "MSS",
@@ -95,7 +95,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:14+09:00"
+      "collected_at": "2026-10-09T21:59:01+09:00"
     },
     {
       "source": "MSS",
@@ -114,7 +114,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:14+09:00"
+      "collected_at": "2026-10-09T21:59:01+09:00"
     },
     {
       "source": "MSS",
@@ -133,7 +133,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:14+09:00"
+      "collected_at": "2026-10-09T21:59:01+09:00"
     },
     {
       "source": "MSS",
@@ -152,7 +152,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:18+09:00"
+      "collected_at": "2026-10-09T21:59:05+09:00"
     },
     {
       "source": "MSS",
@@ -171,7 +171,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:18+09:00"
+      "collected_at": "2026-10-09T21:59:05+09:00"
     },
     {
       "source": "MSS",
@@ -190,7 +190,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:18+09:00"
+      "collected_at": "2026-10-09T21:59:05+09:00"
     },
     {
       "source": "MSS",
@@ -209,7 +209,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:18+09:00"
+      "collected_at": "2026-10-09T21:59:05+09:00"
     },
     {
       "source": "MSS",
@@ -228,7 +228,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:18+09:00"
+      "collected_at": "2026-10-09T21:59:05+09:00"
     },
     {
       "source": "MSS",
@@ -247,7 +247,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:18+09:00"
+      "collected_at": "2026-10-09T21:59:05+09:00"
     },
     {
       "source": "MSS",
@@ -266,7 +266,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:18+09:00"
+      "collected_at": "2026-10-09T21:59:05+09:00"
     },
     {
       "source": "MSS",
@@ -285,7 +285,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:18+09:00"
+      "collected_at": "2026-10-09T21:59:05+09:00"
     },
     {
       "source": "MSS",
@@ -304,7 +304,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:18+09:00"
+      "collected_at": "2026-10-09T21:59:05+09:00"
     },
     {
       "source": "MSS",
@@ -323,7 +323,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:18+09:00"
+      "collected_at": "2026-10-09T21:59:05+09:00"
     },
     {
       "source": "MSS",
@@ -342,7 +342,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:23+09:00"
+      "collected_at": "2026-10-09T21:59:10+09:00"
     },
     {
       "source": "MSS",
@@ -361,7 +361,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:23+09:00"
+      "collected_at": "2026-10-09T21:59:10+09:00"
     },
     {
       "source": "MSS",
@@ -380,7 +380,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:23+09:00"
+      "collected_at": "2026-10-09T21:59:10+09:00"
     },
     {
       "source": "MSS",
@@ -399,7 +399,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:23+09:00"
+      "collected_at": "2026-10-09T21:59:10+09:00"
     },
     {
       "source": "MSS",
@@ -418,7 +418,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:23+09:00"
+      "collected_at": "2026-10-09T21:59:10+09:00"
     },
     {
       "source": "MSS",
@@ -437,7 +437,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:23+09:00"
+      "collected_at": "2026-10-09T21:59:10+09:00"
     },
     {
       "source": "MSS",
@@ -456,7 +456,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:23+09:00"
+      "collected_at": "2026-10-09T21:59:10+09:00"
     },
     {
       "source": "MSS",
@@ -475,7 +475,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:23+09:00"
+      "collected_at": "2026-10-09T21:59:10+09:00"
     },
     {
       "source": "MSS",
@@ -494,7 +494,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:23+09:00"
+      "collected_at": "2026-10-09T21:59:10+09:00"
     },
     {
       "source": "MSS",
@@ -513,7 +513,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:23+09:00"
+      "collected_at": "2026-10-09T21:59:10+09:00"
     },
     {
       "source": "MSS",
@@ -532,7 +532,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -551,7 +551,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -570,7 +570,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -589,7 +589,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -608,7 +608,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -627,7 +627,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -646,7 +646,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -665,7 +665,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -684,7 +684,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -703,7 +703,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -722,7 +722,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -741,7 +741,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -760,7 +760,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -779,7 +779,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -798,7 +798,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:28+09:00"
+      "collected_at": "2026-10-09T21:59:14+09:00"
     },
     {
       "source": "MSS",
@@ -818,7 +818,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:32+09:00"
+      "collected_at": "2026-10-09T21:59:18+09:00"
     },
     {
       "source": "MSS",
@@ -837,7 +837,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:32+09:00"
+      "collected_at": "2026-10-09T21:59:18+09:00"
     },
     {
       "source": "MSS",
@@ -856,7 +856,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:32+09:00"
+      "collected_at": "2026-10-09T21:59:18+09:00"
     },
     {
       "source": "MSS",
@@ -875,7 +875,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:32+09:00"
+      "collected_at": "2026-10-09T21:59:18+09:00"
     },
     {
       "source": "MSS",
@@ -894,7 +894,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:32+09:00"
+      "collected_at": "2026-10-09T21:59:18+09:00"
     },
     {
       "source": "MSS",
@@ -914,7 +914,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -933,7 +933,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -952,7 +952,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -971,7 +971,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -990,7 +990,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1009,7 +1009,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1028,7 +1028,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1047,7 +1047,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1066,7 +1066,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1085,7 +1085,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1104,7 +1104,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1123,7 +1123,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1143,7 +1143,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1162,7 +1162,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1181,7 +1181,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1200,7 +1200,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1219,7 +1219,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1238,7 +1238,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1257,7 +1257,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:37+09:00"
+      "collected_at": "2026-10-09T21:59:22+09:00"
     },
     {
       "source": "MSS",
@@ -1276,7 +1276,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1295,7 +1295,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1314,7 +1314,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1333,7 +1333,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1352,7 +1352,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1371,7 +1371,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1390,7 +1390,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1409,7 +1409,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1428,7 +1428,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1447,7 +1447,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1466,7 +1466,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1485,7 +1485,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1504,7 +1504,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1523,7 +1523,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1542,7 +1542,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1561,7 +1561,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1580,7 +1580,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:40+09:00"
+      "collected_at": "2026-10-09T21:59:26+09:00"
     },
     {
       "source": "MSS",
@@ -1599,7 +1599,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:45+09:00"
+      "collected_at": "2026-10-09T21:59:31+09:00"
     },
     {
       "source": "MSS",
@@ -1618,7 +1618,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:45+09:00"
+      "collected_at": "2026-10-09T21:59:31+09:00"
     },
     {
       "source": "MSS",
@@ -1637,7 +1637,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:45+09:00"
+      "collected_at": "2026-10-09T21:59:31+09:00"
     },
     {
       "source": "MSS",
@@ -1657,7 +1657,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:49+09:00"
+      "collected_at": "2026-10-09T21:59:34+09:00"
     },
     {
       "source": "MSS",
@@ -1677,7 +1677,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:49+09:00"
+      "collected_at": "2026-10-09T21:59:34+09:00"
     },
     {
       "source": "MSS",
@@ -1696,7 +1696,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:49+09:00"
+      "collected_at": "2026-10-09T21:59:34+09:00"
     },
     {
       "source": "MSS",
@@ -1715,7 +1715,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:49+09:00"
+      "collected_at": "2026-10-09T21:59:34+09:00"
     },
     {
       "source": "MSS",
@@ -1734,7 +1734,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:49+09:00"
+      "collected_at": "2026-10-09T21:59:34+09:00"
     },
     {
       "source": "MSS",
@@ -1753,7 +1753,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:49+09:00"
+      "collected_at": "2026-10-09T21:59:34+09:00"
     },
     {
       "source": "MSS",
@@ -1772,7 +1772,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:49+09:00"
+      "collected_at": "2026-10-09T21:59:34+09:00"
     },
     {
       "source": "MSS",
@@ -1791,7 +1791,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:49+09:00"
+      "collected_at": "2026-10-09T21:59:34+09:00"
     },
     {
       "source": "MSS",
@@ -1810,7 +1810,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -1829,7 +1829,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -1848,7 +1848,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -1867,7 +1867,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -1886,7 +1886,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -1905,7 +1905,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -1924,7 +1924,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -1943,7 +1943,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -1962,7 +1962,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -1981,7 +1981,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -2000,7 +2000,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -2019,7 +2019,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:53+09:00"
+      "collected_at": "2026-10-09T21:59:39+09:00"
     },
     {
       "source": "MSS",
@@ -2038,7 +2038,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:58+09:00"
+      "collected_at": "2026-10-09T21:59:43+09:00"
     },
     {
       "source": "MSS",
@@ -2057,7 +2057,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:58+09:00"
+      "collected_at": "2026-10-09T21:59:43+09:00"
     },
     {
       "source": "MSS",
@@ -2076,7 +2076,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:58+09:00"
+      "collected_at": "2026-10-09T21:59:43+09:00"
     },
     {
       "source": "MSS",
@@ -2095,7 +2095,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:58+09:00"
+      "collected_at": "2026-10-09T21:59:43+09:00"
     },
     {
       "source": "MSS",
@@ -2114,7 +2114,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:42:58+09:00"
+      "collected_at": "2026-10-09T21:59:43+09:00"
     },
     {
       "source": "MSS",
@@ -2133,7 +2133,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:02+09:00"
+      "collected_at": "2026-10-09T21:59:48+09:00"
     },
     {
       "source": "MSS",
@@ -2152,7 +2152,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:02+09:00"
+      "collected_at": "2026-10-09T21:59:48+09:00"
     },
     {
       "source": "MSS",
@@ -2171,7 +2171,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:02+09:00"
+      "collected_at": "2026-10-09T21:59:48+09:00"
     },
     {
       "source": "MSS",
@@ -2190,7 +2190,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2209,7 +2209,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2228,7 +2228,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2247,7 +2247,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2266,7 +2266,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2285,7 +2285,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2304,7 +2304,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2323,7 +2323,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2342,7 +2342,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2361,7 +2361,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2380,7 +2380,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2399,7 +2399,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2419,7 +2419,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2438,7 +2438,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2457,7 +2457,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2476,7 +2476,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2495,7 +2495,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2514,7 +2514,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2534,7 +2534,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2553,7 +2553,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2572,7 +2572,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2591,7 +2591,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2610,7 +2610,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2629,7 +2629,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2648,7 +2648,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2667,7 +2667,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2686,7 +2686,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2705,7 +2705,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2724,7 +2724,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:06+09:00"
+      "collected_at": "2026-10-09T21:59:52+09:00"
     },
     {
       "source": "MSS",
@@ -2743,7 +2743,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:10+09:00"
+      "collected_at": "2026-10-09T21:59:56+09:00"
     },
     {
       "source": "MSS",
@@ -2762,7 +2762,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:10+09:00"
+      "collected_at": "2026-10-09T21:59:56+09:00"
     },
     {
       "source": "MSS",
@@ -2781,7 +2781,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:10+09:00"
+      "collected_at": "2026-10-09T21:59:56+09:00"
     },
     {
       "source": "MSS",
@@ -2800,7 +2800,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:10+09:00"
+      "collected_at": "2026-10-09T21:59:56+09:00"
     },
     {
       "source": "MSS",
@@ -2819,7 +2819,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:10+09:00"
+      "collected_at": "2026-10-09T21:59:56+09:00"
     },
     {
       "source": "MSS",
@@ -2838,7 +2838,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:10+09:00"
+      "collected_at": "2026-10-09T21:59:56+09:00"
     },
     {
       "source": "MSS",
@@ -2857,7 +2857,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:15+09:00"
+      "collected_at": "2026-10-09T22:00:01+09:00"
     },
     {
       "source": "MSS",
@@ -2876,7 +2876,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:15+09:00"
+      "collected_at": "2026-10-09T22:00:01+09:00"
     },
     {
       "source": "MSS",
@@ -2895,7 +2895,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:15+09:00"
+      "collected_at": "2026-10-09T22:00:01+09:00"
     },
     {
       "source": "MSS",
@@ -2914,7 +2914,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:15+09:00"
+      "collected_at": "2026-10-09T22:00:01+09:00"
     },
     {
       "source": "MSS",
@@ -2933,7 +2933,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:15+09:00"
+      "collected_at": "2026-10-09T22:00:01+09:00"
     },
     {
       "source": "MSS",
@@ -2952,7 +2952,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:15+09:00"
+      "collected_at": "2026-10-09T22:00:01+09:00"
     },
     {
       "source": "MSS",
@@ -2971,7 +2971,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:15+09:00"
+      "collected_at": "2026-10-09T22:00:01+09:00"
     },
     {
       "source": "MSS",
@@ -2990,7 +2990,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:15+09:00"
+      "collected_at": "2026-10-09T22:00:01+09:00"
     },
     {
       "source": "MSS",
@@ -3009,7 +3009,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:15+09:00"
+      "collected_at": "2026-10-09T22:00:01+09:00"
     },
     {
       "source": "MSS",
@@ -3028,7 +3028,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3047,7 +3047,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3066,7 +3066,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3085,7 +3085,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3104,7 +3104,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3123,7 +3123,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3142,7 +3142,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3161,7 +3161,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3180,7 +3180,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3199,7 +3199,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3218,7 +3218,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3237,7 +3237,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3256,7 +3256,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:19+09:00"
+      "collected_at": "2026-10-09T22:00:05+09:00"
     },
     {
       "source": "MSS",
@@ -3275,7 +3275,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:23+09:00"
+      "collected_at": "2026-10-09T22:00:09+09:00"
     },
     {
       "source": "MSS",
@@ -3294,7 +3294,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:23+09:00"
+      "collected_at": "2026-10-09T22:00:09+09:00"
     },
     {
       "source": "MSS",
@@ -3313,7 +3313,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:23+09:00"
+      "collected_at": "2026-10-09T22:00:09+09:00"
     },
     {
       "source": "MSS",
@@ -3332,7 +3332,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:23+09:00"
+      "collected_at": "2026-10-09T22:00:09+09:00"
     },
     {
       "source": "MSS",
@@ -3351,7 +3351,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:23+09:00"
+      "collected_at": "2026-10-09T22:00:09+09:00"
     },
     {
       "source": "MSS",
@@ -3370,7 +3370,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:23+09:00"
+      "collected_at": "2026-10-09T22:00:09+09:00"
     },
     {
       "source": "MSS",
@@ -3389,7 +3389,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:27+09:00"
+      "collected_at": "2026-10-09T22:00:13+09:00"
     },
     {
       "source": "MSS",
@@ -3408,7 +3408,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:27+09:00"
+      "collected_at": "2026-10-09T22:00:13+09:00"
     },
     {
       "source": "MSS",
@@ -3427,7 +3427,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:27+09:00"
+      "collected_at": "2026-10-09T22:00:13+09:00"
     },
     {
       "source": "MSS",
@@ -3447,7 +3447,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:27+09:00"
+      "collected_at": "2026-10-09T22:00:13+09:00"
     },
     {
       "source": "MSS",
@@ -3466,7 +3466,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:27+09:00"
+      "collected_at": "2026-10-09T22:00:13+09:00"
     },
     {
       "source": "MSS",
@@ -3485,7 +3485,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:27+09:00"
+      "collected_at": "2026-10-09T22:00:13+09:00"
     },
     {
       "source": "MSS",
@@ -3504,7 +3504,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:27+09:00"
+      "collected_at": "2026-10-09T22:00:13+09:00"
     },
     {
       "source": "MSS",
@@ -3523,7 +3523,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:27+09:00"
+      "collected_at": "2026-10-09T22:00:13+09:00"
     },
     {
       "source": "MSS",
@@ -3542,7 +3542,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:27+09:00"
+      "collected_at": "2026-10-09T22:00:13+09:00"
     },
     {
       "source": "MSS",
@@ -3561,7 +3561,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:27+09:00"
+      "collected_at": "2026-10-09T22:00:13+09:00"
     },
     {
       "source": "MSS",
@@ -3580,7 +3580,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:27+09:00"
+      "collected_at": "2026-10-09T22:00:13+09:00"
     },
     {
       "source": "MSS",
@@ -3599,7 +3599,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:31+09:00"
+      "collected_at": "2026-10-09T22:00:18+09:00"
     },
     {
       "source": "MSS",
@@ -3618,7 +3618,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:31+09:00"
+      "collected_at": "2026-10-09T22:00:18+09:00"
     },
     {
       "source": "MSS",
@@ -3637,7 +3637,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:31+09:00"
+      "collected_at": "2026-10-09T22:00:18+09:00"
     },
     {
       "source": "MSS",
@@ -3656,7 +3656,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:31+09:00"
+      "collected_at": "2026-10-09T22:00:18+09:00"
     },
     {
       "source": "MSS",
@@ -3675,7 +3675,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:31+09:00"
+      "collected_at": "2026-10-09T22:00:18+09:00"
     },
     {
       "source": "MSS",
@@ -3694,7 +3694,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:31+09:00"
+      "collected_at": "2026-10-09T22:00:18+09:00"
     },
     {
       "source": "MSS",
@@ -3713,7 +3713,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:31+09:00"
+      "collected_at": "2026-10-09T22:00:18+09:00"
     },
     {
       "source": "MSS",
@@ -3732,7 +3732,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:31+09:00"
+      "collected_at": "2026-10-09T22:00:18+09:00"
     },
     {
       "source": "MSS",
@@ -3751,7 +3751,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:31+09:00"
+      "collected_at": "2026-10-09T22:00:18+09:00"
     },
     {
       "source": "MSS",
@@ -3770,7 +3770,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:31+09:00"
+      "collected_at": "2026-10-09T22:00:18+09:00"
     },
     {
       "source": "MSS",
@@ -3789,7 +3789,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:36+09:00"
+      "collected_at": "2026-10-09T22:00:22+09:00"
     },
     {
       "source": "MSS",
@@ -3808,7 +3808,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:36+09:00"
+      "collected_at": "2026-10-09T22:00:22+09:00"
     },
     {
       "source": "MSS",
@@ -3827,7 +3827,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:40+09:00"
+      "collected_at": "2026-10-09T22:00:26+09:00"
     },
     {
       "source": "MSS",
@@ -3846,7 +3846,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:40+09:00"
+      "collected_at": "2026-10-09T22:00:26+09:00"
     },
     {
       "source": "MSS",
@@ -3865,7 +3865,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:40+09:00"
+      "collected_at": "2026-10-09T22:00:26+09:00"
     },
     {
       "source": "MSS",
@@ -3884,7 +3884,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:40+09:00"
+      "collected_at": "2026-10-09T22:00:26+09:00"
     },
     {
       "source": "MSS",
@@ -3903,7 +3903,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:40+09:00"
+      "collected_at": "2026-10-09T22:00:26+09:00"
     },
     {
       "source": "MSS",
@@ -3922,7 +3922,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:40+09:00"
+      "collected_at": "2026-10-09T22:00:26+09:00"
     },
     {
       "source": "MSS",
@@ -3941,7 +3941,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:40+09:00"
+      "collected_at": "2026-10-09T22:00:26+09:00"
     },
     {
       "source": "MSS",
@@ -3960,7 +3960,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:40+09:00"
+      "collected_at": "2026-10-09T22:00:26+09:00"
     },
     {
       "source": "MSS",
@@ -3979,7 +3979,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:40+09:00"
+      "collected_at": "2026-10-09T22:00:26+09:00"
     },
     {
       "source": "MSS",
@@ -3998,7 +3998,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4017,7 +4017,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4036,7 +4036,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4055,7 +4055,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4074,7 +4074,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4093,7 +4093,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4112,7 +4112,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4131,7 +4131,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4150,7 +4150,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4169,7 +4169,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4188,7 +4188,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4207,7 +4207,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4226,7 +4226,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4245,7 +4245,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4264,7 +4264,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4283,7 +4283,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4302,7 +4302,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4321,7 +4321,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4340,7 +4340,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4359,7 +4359,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4378,7 +4378,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4397,7 +4397,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "MSS",
@@ -4416,7 +4416,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:44+09:00"
+      "collected_at": "2026-10-09T22:00:30+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -4435,7 +4435,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:49+09:00"
+      "collected_at": "2026-10-09T22:00:35+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -4454,7 +4454,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:49+09:00"
+      "collected_at": "2026-10-09T22:00:35+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -4473,7 +4473,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:49+09:00"
+      "collected_at": "2026-10-09T22:00:35+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -4492,7 +4492,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:49+09:00"
+      "collected_at": "2026-10-09T22:00:35+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -4511,7 +4511,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:49+09:00"
+      "collected_at": "2026-10-09T22:00:35+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -4530,7 +4530,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:52+09:00"
+      "collected_at": "2026-10-09T22:00:36+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -4549,7 +4549,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:52+09:00"
+      "collected_at": "2026-10-09T22:00:36+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4568,7 +4568,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:56+09:00"
+      "collected_at": "2026-10-09T22:00:40+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4587,7 +4587,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:43:56+09:00"
+      "collected_at": "2026-10-09T22:00:40+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4606,7 +4606,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:00+09:00"
+      "collected_at": "2026-10-09T22:00:45+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4625,7 +4625,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:04+09:00"
+      "collected_at": "2026-10-09T22:00:48+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4645,7 +4645,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:04+09:00"
+      "collected_at": "2026-10-09T22:00:48+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4664,7 +4664,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:04+09:00"
+      "collected_at": "2026-10-09T22:00:48+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4683,7 +4683,7 @@
         "주관기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-10-09T14:44:08+09:00"
+      "collected_at": "2026-10-09T22:00:52+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4702,7 +4702,7 @@
         "주관기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-10-09T14:44:08+09:00"
+      "collected_at": "2026-10-09T22:00:52+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4721,7 +4721,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:08+09:00"
+      "collected_at": "2026-10-09T22:00:52+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4740,7 +4740,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:08+09:00"
+      "collected_at": "2026-10-09T22:00:52+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4759,7 +4759,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:17+09:00"
+      "collected_at": "2026-10-09T22:01:00+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4778,7 +4778,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:17+09:00"
+      "collected_at": "2026-10-09T22:01:00+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4797,7 +4797,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:17+09:00"
+      "collected_at": "2026-10-09T22:01:00+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4816,7 +4816,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:20+09:00"
+      "collected_at": "2026-10-09T22:01:04+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4835,7 +4835,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:20+09:00"
+      "collected_at": "2026-10-09T22:01:04+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4854,7 +4854,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:20+09:00"
+      "collected_at": "2026-10-09T22:01:04+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4873,7 +4873,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:20+09:00"
+      "collected_at": "2026-10-09T22:01:04+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4892,7 +4892,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:25+09:00"
+      "collected_at": "2026-10-09T22:01:08+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4911,7 +4911,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:25+09:00"
+      "collected_at": "2026-10-09T22:01:08+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4930,7 +4930,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:25+09:00"
+      "collected_at": "2026-10-09T22:01:08+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4949,7 +4949,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:25+09:00"
+      "collected_at": "2026-10-09T22:01:08+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4968,7 +4968,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:29+09:00"
+      "collected_at": "2026-10-09T22:01:12+09:00"
     },
     {
       "source": "BIZINFO",
@@ -4987,7 +4987,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:33+09:00"
+      "collected_at": "2026-10-09T22:01:16+09:00"
     },
     {
       "source": "BIZINFO",
@@ -5006,7 +5006,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:37+09:00"
+      "collected_at": "2026-10-09T22:01:20+09:00"
     },
     {
       "source": "BIZINFO",
@@ -5025,7 +5025,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:37+09:00"
+      "collected_at": "2026-10-09T22:01:20+09:00"
     },
     {
       "source": "BIZINFO",
@@ -5044,7 +5044,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:37+09:00"
+      "collected_at": "2026-10-09T22:01:20+09:00"
     },
     {
       "source": "BIZINFO",
@@ -5063,7 +5063,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:37+09:00"
+      "collected_at": "2026-10-09T22:01:20+09:00"
     },
     {
       "source": "BIZINFO",
@@ -5082,7 +5082,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:41+09:00"
+      "collected_at": "2026-10-09T22:01:24+09:00"
     },
     {
       "source": "BIZINFO",
@@ -5101,7 +5101,1261 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-09T14:44:50+09:00"
+      "collected_at": "2026-10-09T22:01:35+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "2026년도 소상공인 생활문화 혁신지원 사업 주관기관 회계정산 용역",
+      "org": "(사)창조경제혁신센터협의회",
+      "period_text": "2026-09-29 10:15:00~2026-10-13 17:00:00",
+      "period_start": "2026-09-29 10:15:00",
+      "period_end": "2026-10-13 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747693&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01747693-000",
+      "content": "",
+      "matched_keywords": [
+        "주관기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:45+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "청정수소 인증운영기관 법률자문(사) 위촉",
+      "org": "에너지경제연구원",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743188&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01743188-000",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:47+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "특별성과 포상금 우수 운영기관 정기포상 등 행사 대행용역",
+      "org": "행정안전부",
+      "period_text": "2026-10-14 10:00:00~2026-10-19 10:00:00",
+      "period_start": "2026-10-14 10:00:00",
+      "period_end": "2026-10-19 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01762384&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01762384-000",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:47+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "2026년 노인일자리 수행기관 중간관리자(실장·팀장급) 안전부문 직무 교육과정 개발",
+      "org": "한국노인인력개발원",
+      "period_text": "2026-09-18 16:00:00~2026-09-29 11:00:00",
+      "period_start": "2026-09-18 16:00:00",
+      "period_end": "2026-09-29 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01737066&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01737066-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "2026년도 방송미디어통신 정책연구과제(지상파방송 규제 체계 정비 및 진흥 전략 요구) 수행기관 공모 실시",
+      "org": "방송미디어통신위원회",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739086&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01739086-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "2026년도 방송미디어통신 정책연구과제(이동통신 유통시장 환경 변화에 따른 제도개선 연구) 수행기관 공모 실시",
+      "org": "방송미디어통신위원회",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739127&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01739127-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "2026년 대학·공공연 지식재산 경영 기초 컨설팅 지원 사업 수행기관 모집 공고",
+      "org": "한국특허전략개발원",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01750054&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01750054-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정공고(태종대 일원 오수관로 신설공사)",
+      "org": "부산광역시 영도구",
+      "period_text": "2026-10-02 10:00:00~2026-10-12 17:00:00",
+      "period_start": "2026-10-02 10:00:00",
+      "period_end": "2026-10-12 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01753706&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01753706-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "고양창릉 공공주택지구 부지조성공사(3공구) 안전점검 수행기관 선정",
+      "org": "경기주택도시공사",
+      "period_text": "2026-10-06 09:00:00~2026-10-08 10:00:00",
+      "period_start": "2026-10-06 09:00:00",
+      "period_end": "2026-10-08 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01754279&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01754279-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 입찰 공고(원주정수장 도수관로 및 배출수관로 개선공사)",
+      "org": "강원특별자치도 원주시 상하수도사업소",
+      "period_text": "2026-10-02 14:00:00~2026-10-12 10:00:00",
+      "period_start": "2026-10-02 14:00:00",
+      "period_end": "2026-10-12 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01754687&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01754687-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "호흡기센터 건립사업 안전점검(기계) 수행기관 지정",
+      "org": "부산광역시의료원",
+      "period_text": "2026-09-18 22:00:00~2026-09-23 17:00:00",
+      "period_start": "2026-09-18 22:00:00",
+      "period_end": "2026-09-23 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721260&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01721260-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "구성동 아이파크 오수관로 설치공사 안전점검 수행기관 지정 공고",
+      "org": "충청남도 천안시 맑은물사업본부",
+      "period_text": "2026-09-10 09:10:00~2026-09-16 14:00:00",
+      "period_start": "2026-09-10 09:10:00",
+      "period_end": "2026-09-16 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720001&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01720001-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "부산금정경찰서 청사 신축공사(건축) 안전점검 수행기관 지정 공고",
+      "org": "경찰청 부산광역시경찰청",
+      "period_text": "2026-09-18 18:00:00~2026-09-28 14:00:00",
+      "period_start": "2026-09-18 18:00:00",
+      "period_end": "2026-09-28 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01730970&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01730970-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(우산동 162-1번지 외 1필지 오피스텔 신축공사)",
+      "org": "전남광주통합특별시 북구",
+      "period_text": "2026-09-21 09:00:00~2026-09-23 14:00:00",
+      "period_start": "2026-09-21 09:00:00",
+      "period_end": "2026-09-23 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01737773&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01737773-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "와룡천(홍성) 지방하천 정비사업안전점검 수행기관 선정(가격입찰)",
+      "org": "충청남도 건설본부",
+      "period_text": "2026-09-21 17:00:00~2026-09-29 10:00:00",
+      "period_start": "2026-09-21 17:00:00",
+      "period_end": "2026-09-29 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01738649&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01738649-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "와룡천(홍성) 지방하천 정비사업안전점검 수행기관 선정(가격입찰)",
+      "org": "충청남도 건설본부",
+      "period_text": "2026-09-21 17:00:00~2026-09-29 10:00:00",
+      "period_start": "2026-09-21 17:00:00",
+      "period_end": "2026-09-29 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01738649&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01738649-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검(정기 및 초기) 수행기관 지정 공고(페어필드바이메리어트 부산송도비치 증축공사)",
+      "org": "부산광역시 서구",
+      "period_text": "2026-09-29 10:00:00~2026-10-01 14:00:00",
+      "period_start": "2026-09-29 10:00:00",
+      "period_end": "2026-10-01 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740104&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01740104-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(연산동 1127-1번지 일원 해체공사)",
+      "org": "부산광역시 연제구",
+      "period_text": "2026-09-22 10:00:00~2026-10-02 18:00:00",
+      "period_start": "2026-09-22 10:00:00",
+      "period_end": "2026-10-02 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740036&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01740036-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(분당구보건소 신축사업 설계시공 일괄입찰 공사)",
+      "org": "경기도 성남시",
+      "period_text": "2026-09-23 10:00:00~2026-10-01 15:00:00",
+      "period_start": "2026-09-23 10:00:00",
+      "period_end": "2026-10-01 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739901&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01739901-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(분당구보건소 신축사업 설계시공 일괄입찰 공사)",
+      "org": "경기도 성남시",
+      "period_text": "2026-09-23 10:00:00~2026-10-01 15:00:00",
+      "period_start": "2026-09-23 10:00:00",
+      "period_end": "2026-10-01 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739901&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01739901-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(분당구보건소 신축사업 설계시공 일괄입찰 공사)",
+      "org": "경기도 성남시",
+      "period_text": "2026-09-23 10:00:00~2026-10-01 15:00:00",
+      "period_start": "2026-09-23 10:00:00",
+      "period_end": "2026-10-01 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741078&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01741078-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(분당구보건소 신축사업 설계시공 일괄입찰 공사)",
+      "org": "경기도 성남시",
+      "period_text": "2026-09-23 10:00:00~2026-10-01 15:00:00",
+      "period_start": "2026-09-23 10:00:00",
+      "period_end": "2026-10-01 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741078&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01741078-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건축물의 건설공사 안전점검 수행기관 지정 공고(차항리 109-23번지 신축공사)",
+      "org": "강원특별자치도 평창군",
+      "period_text": "2026-09-23 10:00:00~2026-09-30 10:00:00",
+      "period_start": "2026-09-23 10:00:00",
+      "period_end": "2026-09-30 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741139&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01741139-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사[건축분야] 안전점검 수행기관 지정 공고[백석동 1098 오피스텔 및 근린생활시설 신축공사]",
+      "org": "충청남도 천안시",
+      "period_text": "2026-09-28 09:00:00~2026-09-30 14:00:00",
+      "period_start": "2026-09-28 09:00:00",
+      "period_end": "2026-09-30 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741874&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01741874-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(치평동 1002-17 외 4필지)",
+      "org": "전남광주통합특별시 서구",
+      "period_text": "2026-10-02 09:00:00~2026-10-07 14:00:00",
+      "period_start": "2026-10-02 09:00:00",
+      "period_end": "2026-10-07 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01742488&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01742488-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "[입찰대행] 건설공사 안전점검 수행기관 지정 공고[공주대학교 시설개선 임대형 민자사업(BTL)]",
+      "org": "충청남도 공주시",
+      "period_text": "2026-09-23 17:00:00~2026-10-01 10:00:00",
+      "period_start": "2026-09-23 17:00:00",
+      "period_end": "2026-10-01 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743203&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01743203-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건축공사 안전점검 수행기관 지정 공고(전포동 주차타워 신축공사)",
+      "org": "부산광역시 부산진구",
+      "period_text": "2026-10-06 10:00:00~2026-10-08 14:00:00",
+      "period_start": "2026-10-06 10:00:00",
+      "period_end": "2026-10-08 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743856&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01743856-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "주택건설공사 안전점검 수행기관 지정 공고(양서 군사시설 이전지구)",
+      "org": "경기도 양평군",
+      "period_text": "2026-10-06 10:00:00~2026-10-08 10:00:00",
+      "period_start": "2026-10-06 10:00:00",
+      "period_end": "2026-10-08 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01745025&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01745025-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "대치지구 농어촌생활용수개발사업 건설공사 안전점검 수행기관 지정(지명경쟁)",
+      "org": "충청남도 청양군",
+      "period_text": "2026-09-29 12:00:00~2026-10-07 12:00:00",
+      "period_start": "2026-09-29 12:00:00",
+      "period_end": "2026-10-07 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747279&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01747279-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(분당구보건소 신축사업 설계시공 일괄입찰 공사)",
+      "org": "경기도 성남시",
+      "period_text": "2026-09-29 15:00:00~2026-10-02 15:00:00",
+      "period_start": "2026-09-29 15:00:00",
+      "period_end": "2026-10-02 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741078&bidPbancOrd=002",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01741078-002",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고[명지동 3591-3]",
+      "org": "부산.진해경제자유구역청",
+      "period_text": "2026-10-01 09:00:00~2026-10-06 17:00:00",
+      "period_start": "2026-10-01 09:00:00",
+      "period_end": "2026-10-06 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01748687&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01748687-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(분당구보건소 신축사업 설계시공 일괄입찰 공사)",
+      "org": "경기도 성남시",
+      "period_text": "2026-09-29 15:00:00~2026-10-02 15:00:00",
+      "period_start": "2026-09-29 15:00:00",
+      "period_end": "2026-10-02 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741078&bidPbancOrd=003",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01741078-003",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(건축) 안전점검 수행기관 지정 공고(홍천아산병원 증축 및 리모델링 공사)",
+      "org": "강원특별자치도 홍천군",
+      "period_text": "2026-09-29 16:00:00~2026-10-06 16:00:00",
+      "period_start": "2026-09-29 16:00:00",
+      "period_end": "2026-10-06 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01748857&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01748857-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(인지면 둔당리 노후하수관로 정비공사)",
+      "org": "충청남도 서산시",
+      "period_text": "2026-09-30 10:00:00~2026-10-12 10:00:00",
+      "period_start": "2026-09-30 10:00:00",
+      "period_end": "2026-10-12 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01748977&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01748977-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 입찰공고(분당구보건소 신축사업 설계시공 일괄입찰 공사)",
+      "org": "경기도 성남시",
+      "period_text": "2026-09-30 10:00:00~2026-10-07 15:00:00",
+      "period_start": "2026-09-30 10:00:00",
+      "period_end": "2026-10-07 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01749026&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01749026-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(토목분야) 안전점검 수행기관 지정 공고(창리 소규모 마을하수도 설치사업(토목+건축+기계))",
+      "org": "강원특별자치도 평창군",
+      "period_text": "2026-09-30 10:00:00~2026-10-07 10:00:00",
+      "period_start": "2026-09-30 10:00:00",
+      "period_end": "2026-10-07 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743340&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01743340-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "안전점검 수행기관 지정 공고[공성면 이화리 배수관 확장공사](※신청자격확인)",
+      "org": "경상북도 상주시 상수도사업소",
+      "period_text": "2026-09-30 10:00:00~2026-10-07 10:00:00",
+      "period_start": "2026-09-30 10:00:00",
+      "period_end": "2026-10-07 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01749769&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01749769-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "주택건설공사 안전점검 수행기관 지정(고현동 12-23 외 2필지 도시형생활주택 신축공사)",
+      "org": "경기도 오산시",
+      "period_text": "2026-10-08 09:00:00~2026-10-13 12:00:00",
+      "period_start": "2026-10-08 09:00:00",
+      "period_end": "2026-10-13 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01750052&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01750052-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(토목분야) 안전점검 수행기관 지정 공고(창리 소규모 마을하수도 설치사업(토목+건축+기계))",
+      "org": "강원특별자치도 평창군",
+      "period_text": "2026-09-30 10:00:00~2026-10-07 10:00:00",
+      "period_start": "2026-09-30 10:00:00",
+      "period_end": "2026-10-07 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743340&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01743340-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "청남지구 농어촌생활용수개발사업 건설공사 안전점검 수행기관 지정(지명경쟁)",
+      "org": "충청남도 청양군",
+      "period_text": "2026-10-01 12:00:00~2026-10-07 12:00:00",
+      "period_start": "2026-10-01 12:00:00",
+      "period_end": "2026-10-07 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747279&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01747279-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(행신2-1구역 재건축정비사업)",
+      "org": "경기도 고양시",
+      "period_text": "2026-10-08 10:00:00~2026-10-14 11:00:00",
+      "period_start": "2026-10-08 10:00:00",
+      "period_end": "2026-10-14 11:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01751034&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01751034-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(토목분야) 안전점검 수행기관 지정 공고(창리 소규모 마을하수도 설치 사업(토목+건축+기계)",
+      "org": "강원특별자치도 평창군",
+      "period_text": "2026-10-01 10:00:00~2026-10-08 10:00:00",
+      "period_start": "2026-10-01 10:00:00",
+      "period_end": "2026-10-08 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01750964&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01750964-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건축공사 안전점검 수행기관 지정 공고(전포동 주차타워 신축공사)",
+      "org": "부산광역시 부산진구",
+      "period_text": "2026-10-06 10:00:00~2026-10-08 14:00:00",
+      "period_start": "2026-10-06 10:00:00",
+      "period_end": "2026-10-08 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743856&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01743856-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "[입찰대행] 건설공사 안전점검 수행기관 지정 공고[공주대학교 시설개선 임대형 민자사업(BTL)]",
+      "org": "충청남도 공주시",
+      "period_text": "2026-09-23 17:00:00~2026-10-01 10:00:00",
+      "period_start": "2026-09-23 17:00:00",
+      "period_end": "2026-10-01 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743203&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01743203-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "2026년 정릉천고가교 보수보강공사 안전점검 수행기관 지정",
+      "org": "서울시설공단",
+      "period_text": "2026-10-01 20:00:00~2026-10-13 10:00:00",
+      "period_start": "2026-10-01 20:00:00",
+      "period_end": "2026-10-13 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01752114&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01752114-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고 의뢰(하남시 감북동 368-1 외4필지)",
+      "org": "경기도 하남시",
+      "period_text": "2026-10-07 09:00:00~2026-10-14 10:00:00",
+      "period_start": "2026-10-07 09:00:00",
+      "period_end": "2026-10-14 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01753727&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01753727-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고 의뢰(하남시 감이동 475-6번지)",
+      "org": "경기도 하남시",
+      "period_text": "2026-10-12 09:00:00~2026-10-16 10:00:00",
+      "period_start": "2026-10-12 09:00:00",
+      "period_end": "2026-10-16 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01753836&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01753836-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(건축분야) 안전점검 수행기관 지정 공고(장지동 판매시설 신축공사)",
+      "org": "경기도 광주시",
+      "period_text": "2026-10-02 17:00:00~2026-10-14 10:00:00",
+      "period_start": "2026-10-02 17:00:00",
+      "period_end": "2026-10-14 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01755636&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01755636-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "구미제1국가산업단지 공영주차장조성사업 안전점검 수행기관 지정 공고(항타·항발 및 흙막이 지보공)",
+      "org": "경상북도 구미시",
+      "period_text": "2026-10-12 10:00:00~2026-10-14 10:00:00",
+      "period_start": "2026-10-12 10:00:00",
+      "period_end": "2026-10-14 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01756086&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01756086-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "빛그린 국가산단 진입도로(광주방면) 건설공사 안전점검 수행기관 지정 공고",
+      "org": "국토교통부 익산지방국토관리청",
+      "period_text": "2026-10-06 16:00:00~2026-10-13 16:00:00",
+      "period_start": "2026-10-06 16:00:00",
+      "period_end": "2026-10-13 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01757943&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01757943-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "함평-해보 도로시설개량공사 안전점검 수행기관 지정 공고",
+      "org": "국토교통부 익산지방국토관리청",
+      "period_text": "2026-10-06 16:00:00~2026-10-13 16:00:00",
+      "period_start": "2026-10-06 16:00:00",
+      "period_end": "2026-10-13 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01757969&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01757969-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "무안 현경-해제 도로시설개량공사 안전점검 수행기관 지정 공고",
+      "org": "국토교통부 익산지방국토관리청",
+      "period_text": "2026-10-06 16:00:00~2026-10-13 16:00:00",
+      "period_start": "2026-10-06 16:00:00",
+      "period_end": "2026-10-13 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758000&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01758000-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "신안 수곡-신석 도로시설개량공사 안전점검 수행기관 지정 공고",
+      "org": "국토교통부 익산지방국토관리청",
+      "period_text": "2026-10-06 16:00:00~2026-10-13 16:00:00",
+      "period_start": "2026-10-06 16:00:00",
+      "period_end": "2026-10-13 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758030&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01758030-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "영광 대신지구 위험도로 개선공사 안전점검 수행기관 지정 공고",
+      "org": "국토교통부 익산지방국토관리청",
+      "period_text": "2026-10-06 16:00:00~2026-10-13 16:00:00",
+      "period_start": "2026-10-06 16:00:00",
+      "period_end": "2026-10-13 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758055&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01758055-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "주택건설공사 안전점검 수행기관 지정 공고[천안 부성2구역 더샵 공동주택 신축공사]",
+      "org": "충청남도 천안시",
+      "period_text": "2026-10-16 09:00:00~2026-10-20 12:00:00",
+      "period_start": "2026-10-16 09:00:00",
+      "period_end": "2026-10-20 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01756904&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01756904-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "항만자동화 테스트베드(광양항) 구축사업 기반시설공사 안전점검 수행기관 지정 공고",
+      "org": "여수광양항만공사",
+      "period_text": "2026-10-07 14:00:00~2026-10-15 10:00:00",
+      "period_start": "2026-10-07 14:00:00",
+      "period_end": "2026-10-15 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758745&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01758745-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(토목) 안전점검 수행기관 지정 공고(추령지구 마을하수도 설치사업)",
+      "org": "전북특별자치도 순창군",
+      "period_text": "2026-10-12 09:00:00~2026-10-14 10:00:00",
+      "period_start": "2026-10-12 09:00:00",
+      "period_end": "2026-10-14 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758644&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01758644-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(토목) 안전점검 수행기관 지정 공고(지북지구 하수관로 정비사업)",
+      "org": "전북특별자치도 순창군",
+      "period_text": "2026-10-12 09:00:00~2026-10-14 10:00:00",
+      "period_start": "2026-10-12 09:00:00",
+      "period_end": "2026-10-14 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758566&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01758566-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(남천동 40-11번지)",
+      "org": "부산광역시 수영구",
+      "period_text": "2026-10-08 17:00:00~2026-10-16 17:00:00",
+      "period_start": "2026-10-08 17:00:00",
+      "period_end": "2026-10-16 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01759523&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01759523-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "우평지구 배수개선사업 건설공사 안전점검 수행기관 지정",
+      "org": "전남광주통합특별시 영광군",
+      "period_text": "2026-10-07 14:00:00~2026-10-13 14:00:00",
+      "period_start": "2026-10-07 14:00:00",
+      "period_end": "2026-10-13 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758983&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01758983-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "주택건설공사 안전점검 수행기관 지정 공고(중외공원 민간공원 특례사업 공동주택 1BL 신축공사)",
+      "org": "전남광주통합특별시 북구",
+      "period_text": "2026-10-19 09:00:00~2026-10-21 14:00:00",
+      "period_start": "2026-10-19 09:00:00",
+      "period_end": "2026-10-21 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01760081&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01760081-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(토목분야) 안전점검 수행기관 지정 공고(대화천 생태하천 복원사업)",
+      "org": "강원특별자치도 평창군",
+      "period_text": "2026-10-08 10:00:00~2026-10-15 10:00:00",
+      "period_start": "2026-10-08 10:00:00",
+      "period_end": "2026-10-15 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01760265&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01760265-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(하웅지구 농어촌마을하수도 정비사업)",
+      "org": "전남광주통합특별시 장성군",
+      "period_text": "2026-10-08 09:00:00~2026-10-15 10:00:00",
+      "period_start": "2026-10-08 09:00:00",
+      "period_end": "2026-10-15 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01761227&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01761227-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "주택건설공사 안전점검 수행기관 지정 공고(우아동3가 전원연립주택 일원 가로주택정비사업)",
+      "org": "전북특별자치도 전주시",
+      "period_text": "2026-10-16 10:00:00~2026-10-20 10:00:00",
+      "period_start": "2026-10-16 10:00:00",
+      "period_end": "2026-10-20 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01762504&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01762504-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "안전점검 수행기관 지정 공고[죽변항 청정해수공급사업(건축)]",
+      "org": "경상북도 울진군",
+      "period_text": "2026-10-09 09:00:00~2026-10-15 10:00:00",
+      "period_start": "2026-10-09 09:00:00",
+      "period_end": "2026-10-15 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01763672&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01763672-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(연산동 1123-1번지,  자이갤러리 주거복합시설 신축공사)",
+      "org": "부산광역시 연제구",
+      "period_text": "2026-10-09 10:00:00~2026-10-15 17:00:00",
+      "period_start": "2026-10-09 10:00:00",
+      "period_end": "2026-10-15 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01763484&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01763484-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-10-09T22:01:49+09:00"
     },
     {
       "source": "MOTIE",
