@@ -2,29 +2,29 @@
   {
     "label": "MSS(중소벤처기업부)",
     "status": "OK",
-    "count": 2219,
+    "count": 2221,
     "error": "",
-    "run_at": "2026-10-20T13:28:55+09:00"
+    "run_at": "2026-10-20T20:21:26+09:00"
   },
   {
     "label": "KSTARTUP(창업진흥원(K-Startup))",
     "status": "OK",
     "count": 300,
     "error": "",
-    "run_at": "2026-10-20T13:28:55+09:00"
+    "run_at": "2026-10-20T20:21:26+09:00"
   },
   {
     "label": "BIZINFO(기업마당)",
-    "status": "FAIL",
-    "count": 0,
-    "error": "HTTPSConnectionPool(host='www.bizinfo.go.kr', port=443): Max retries exceeded with url: /uss/rss/bizinfoApi.do?crtfcKey=PJTZxS&dataType=json&pageUnit=100&pageIndex=6 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bizinfo.go.kr', port=443) at 0x7f23653cf4a0>, 'Connection to www.bizinfo.go.kr timed out. (connect timeout=30)'))",
-    "run_at": "2026-10-20T13:28:55+09:00"
+    "status": "OK",
+    "count": 1464,
+    "error": "",
+    "run_at": "2026-10-20T20:21:26+09:00"
   },
   {
     "label": "G2B(나라장터(조달청))",
     "status": "OK",
-    "count": 90,
+    "count": 94,
     "error": "",
-    "run_at": "2026-10-20T13:28:55+09:00"
+    "run_at": "2026-10-20T20:21:26+09:00"
   }
 ]
