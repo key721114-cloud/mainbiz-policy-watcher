@@ -4,27 +4,27 @@
     "status": "OK",
     "count": 2226,
     "error": "",
-    "run_at": "2026-10-30T21:38:15+09:00"
+    "run_at": "2026-10-31T14:07:00+09:00"
   },
   {
     "label": "KSTARTUP(창업진흥원(K-Startup))",
     "status": "OK",
     "count": 400,
     "error": "",
-    "run_at": "2026-10-30T21:38:15+09:00"
+    "run_at": "2026-10-31T14:07:00+09:00"
   },
   {
     "label": "BIZINFO(기업마당)",
     "status": "OK",
-    "count": 1491,
+    "count": 1381,
     "error": "",
-    "run_at": "2026-10-30T21:38:15+09:00"
+    "run_at": "2026-10-31T14:07:00+09:00"
   },
   {
     "label": "G2B(나라장터(조달청))",
     "status": "FAIL",
     "count": 0,
     "error": "Expecting value: line 1 column 1 (char 0)",
-    "run_at": "2026-10-30T21:38:15+09:00"
+    "run_at": "2026-10-31T14:07:00+09:00"
   }
 ]
