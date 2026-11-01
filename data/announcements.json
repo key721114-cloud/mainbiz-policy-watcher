@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T08:50:58+09:00",
-  "count": 313,
+  "generated_at": "2026-11-01T14:38:13+09:00",
+  "count": 311,
   "items": [
     {
       "source": "KSTARTUP",
@@ -19,7 +19,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:03:52+09:00"
+      "collected_at": "2026-11-01T14:37:24+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -38,7 +38,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:03:54+09:00"
+      "collected_at": "2026-11-01T14:37:26+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -57,7 +57,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:03:54+09:00"
+      "collected_at": "2026-11-01T14:37:26+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -76,7 +76,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:03:54+09:00"
+      "collected_at": "2026-11-01T14:37:26+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -95,7 +95,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:03:54+09:00"
+      "collected_at": "2026-11-01T14:37:26+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -114,7 +114,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:03:54+09:00"
+      "collected_at": "2026-11-01T14:37:26+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -133,7 +133,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:03:55+09:00"
+      "collected_at": "2026-11-01T14:37:27+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -152,7 +152,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:03:55+09:00"
+      "collected_at": "2026-11-01T14:37:27+09:00"
     },
     {
       "source": "BIZINFO",
@@ -171,7 +171,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:00+09:00"
+      "collected_at": "2026-11-01T14:37:31+09:00"
     },
     {
       "source": "BIZINFO",
@@ -190,7 +190,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:00+09:00"
+      "collected_at": "2026-11-01T14:37:31+09:00"
     },
     {
       "source": "BIZINFO",
@@ -209,7 +209,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:04+09:00"
+      "collected_at": "2026-11-01T14:37:34+09:00"
     },
     {
       "source": "BIZINFO",
@@ -228,7 +228,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:04+09:00"
+      "collected_at": "2026-11-01T14:37:34+09:00"
     },
     {
       "source": "BIZINFO",
@@ -247,7 +247,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:04+09:00"
+      "collected_at": "2026-11-01T14:37:34+09:00"
     },
     {
       "source": "BIZINFO",
@@ -266,7 +266,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:08+09:00"
+      "collected_at": "2026-11-01T14:37:38+09:00"
     },
     {
       "source": "BIZINFO",
@@ -286,7 +286,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:12+09:00"
+      "collected_at": "2026-11-01T14:37:41+09:00"
     },
     {
       "source": "BIZINFO",
@@ -305,7 +305,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:12+09:00"
+      "collected_at": "2026-11-01T14:37:41+09:00"
     },
     {
       "source": "BIZINFO",
@@ -324,7 +324,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:12+09:00"
+      "collected_at": "2026-11-01T14:37:41+09:00"
     },
     {
       "source": "BIZINFO",
@@ -343,26 +343,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:16+09:00"
-    },
-    {
-      "source": "BIZINFO",
-      "source_name": "기업마당",
-      "title": "2026년 미래내일 일경험(인턴형) 참여기업 모집 공고",
-      "org": "고용노동부",
-      "period_text": "2026-08-18 ~ 2026-10-31",
-      "period_start": "2026-08-18",
-      "period_end": "2026-10-31",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125426",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "BIZINFO-PBLN_000000000125426",
-      "content": "고용노동부 주관 「2026년 미래내일 일경험 지원사업(인턴형)」에 함께할 참여기업을 모집합니다. 본 사업은 미취업 청년에게 기업 현장에서 실제 직무를 경험할 수 있는 기회를 제공하고, 참여기업에는 청년의 직무수행 과정과 직무 적합성을 확인할 수 있는 기회를 제공하는 정부지원 일경험 프로그램입니다. 운영기관 ㈜중소기업키움센터에서 참여청년 모집ㆍ추천부터 면접 및 매칭, 협약, 출결관리, 모니터링, 지원금 관련 행정업무까지 전반적인 운영을 지원​합니다. ☞ 고용보험 피보험자 수 10인 이상으로, 미취업 청년에게 실제 직무 기반의 일경험을 제공할 수 있는 기업ㆍ기관ㆍ단체 - 다만, 벤처기업 등 일부 기업은 피보험자 수 10인 미만인 경우에도 별도 요건 충족 시 참여 가능 ☞ 기업 지원금 최대 50만원 지원, 멘토 지원금 최대 37.5만원 지원",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:20+09:00"
+      "collected_at": "2026-11-01T14:37:44+09:00"
     },
     {
       "source": "BIZINFO",
@@ -381,7 +362,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:20+09:00"
+      "collected_at": "2026-11-01T14:37:44+09:00"
     },
     {
       "source": "BIZINFO",
@@ -400,7 +381,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:20+09:00"
+      "collected_at": "2026-11-01T14:37:47+09:00"
     },
     {
       "source": "BIZINFO",
@@ -419,7 +400,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:20+09:00"
+      "collected_at": "2026-11-01T14:37:47+09:00"
     },
     {
       "source": "BIZINFO",
@@ -438,7 +419,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:24+09:00"
+      "collected_at": "2026-11-01T14:37:47+09:00"
     },
     {
       "source": "BIZINFO",
@@ -457,26 +438,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:24+09:00"
-    },
-    {
-      "source": "BIZINFO",
-      "source_name": "기업마당",
-      "title": "[대전ㆍ충청] 2026년 중소기업 AI훈련확산 지원사업 참여기업 모집 공고",
-      "org": "고용노동부",
-      "period_text": "2026-02-09 ~ 2026-10-31",
-      "period_start": "2026-02-09",
-      "period_end": "2026-10-31",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123277",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "BIZINFO-PBLN_000000000123277",
-      "content": "안녕하세요, 한국문화산업협회입니다. 우리 협회는 한국산업인력공단이 주관하는「2026년 중소기업 AI훈련확산센터」의 수행기관으로서, 중소기업의 AI도입과 실무 역량 강화를 지원하고 있습니다. 맞춤형 AI도입 훈련 프로그램에 참여할 기업을 모집합니다. 많은 관심 부탁드립니다. ☞ (대전/충청권 소재) AI활용 및 도입 수요가 있는 상시근로자 20인 이상 기업 우선 지원 ※ 단, AI기반 스타트업 등의 경우 20인 미만도 가능 ☞ AI도입을 위한 기업 맞춤형 훈련 로드맵 수립, 문제해결형(PBL) AI+ 직무 훈련과정 개발 및 AI역량 수준별 훈련 지원 - 컨설팅 비용 100% 전액 지원, 컨설팅 이후 AI+직무훈련 진행 기업의 경우, 기업당 최대 610만원 내 비용 지원",
-      "matched_keywords": [
-        "수행기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:24+09:00"
+      "collected_at": "2026-11-01T14:37:50+09:00"
     },
     {
       "source": "BIZINFO",
@@ -495,7 +457,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:24+09:00"
+      "collected_at": "2026-11-01T14:37:50+09:00"
     },
     {
       "source": "BIZINFO",
@@ -514,7 +476,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:24+09:00"
+      "collected_at": "2026-11-01T14:37:50+09:00"
     },
     {
       "source": "BIZINFO",
@@ -533,7 +495,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:33+09:00"
+      "collected_at": "2026-11-01T14:37:54+09:00"
     },
     {
       "source": "BIZINFO",
@@ -552,7 +514,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:33+09:00"
+      "collected_at": "2026-11-01T14:37:57+09:00"
     },
     {
       "source": "BIZINFO",
@@ -571,7 +533,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:37+09:00"
+      "collected_at": "2026-11-01T14:38:00+09:00"
     },
     {
       "source": "BIZINFO",
@@ -590,7 +552,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:40+09:00"
+      "collected_at": "2026-11-01T14:38:00+09:00"
     },
     {
       "source": "BIZINFO",
@@ -609,7 +571,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:40+09:00"
+      "collected_at": "2026-11-01T14:38:00+09:00"
     },
     {
       "source": "BIZINFO",
@@ -628,7 +590,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:40+09:00"
+      "collected_at": "2026-11-01T14:38:00+09:00"
     },
     {
       "source": "BIZINFO",
@@ -647,7 +609,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:40+09:00"
+      "collected_at": "2026-11-01T14:38:03+09:00"
     },
     {
       "source": "BIZINFO",
@@ -666,7 +628,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-10-31T21:04:51+09:00"
+      "collected_at": "2026-11-01T14:38:10+09:00"
     },
     {
       "source": "MOTIE",
