@@ -4,27 +4,27 @@
     "status": "FAIL",
     "count": 0,
     "error": "HTTPSConnectionPool(host='apis.data.go.kr', port=443): Read timed out. (read timeout=30)",
-    "run_at": "2026-11-07T04:15:03+09:00"
+    "run_at": "2026-11-07T14:38:15+09:00"
   },
   {
     "label": "KSTARTUP(창업진흥원(K-Startup))",
     "status": "OK",
     "count": 300,
     "error": "",
-    "run_at": "2026-11-07T04:15:03+09:00"
+    "run_at": "2026-11-07T14:38:15+09:00"
   },
   {
     "label": "BIZINFO(기업마당)",
     "status": "OK",
     "count": 1328,
     "error": "",
-    "run_at": "2026-11-07T04:15:03+09:00"
+    "run_at": "2026-11-07T14:38:15+09:00"
   },
   {
     "label": "G2B(나라장터(조달청))",
     "status": "OK",
-    "count": 118,
+    "count": 113,
     "error": "",
-    "run_at": "2026-11-07T04:15:03+09:00"
+    "run_at": "2026-11-07T14:38:15+09:00"
   }
 ]
