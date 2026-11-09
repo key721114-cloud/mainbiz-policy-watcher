@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T09:14:12+09:00",
-  "count": 308,
+  "generated_at": "2026-11-09T14:50:47+09:00",
+  "count": 424,
   "items": [
     {
       "source": "KSTARTUP",
@@ -19,7 +19,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:07:57+09:00"
+      "collected_at": "2026-11-09T14:49:17+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -38,7 +38,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:07:57+09:00"
+      "collected_at": "2026-11-09T14:49:17+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -57,7 +57,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:07:57+09:00"
+      "collected_at": "2026-11-09T14:49:17+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -76,7 +76,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:07:57+09:00"
+      "collected_at": "2026-11-09T14:49:17+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -95,7 +95,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:07:59+09:00"
+      "collected_at": "2026-11-09T14:49:19+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -114,7 +114,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:07:59+09:00"
+      "collected_at": "2026-11-09T14:49:19+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -133,7 +133,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:07:59+09:00"
+      "collected_at": "2026-11-09T14:49:19+09:00"
     },
     {
       "source": "BIZINFO",
@@ -152,7 +152,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:04+09:00"
+      "collected_at": "2026-11-09T14:49:23+09:00"
     },
     {
       "source": "BIZINFO",
@@ -171,7 +171,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:04+09:00"
+      "collected_at": "2026-11-09T14:49:23+09:00"
     },
     {
       "source": "BIZINFO",
@@ -190,7 +190,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:07+09:00"
+      "collected_at": "2026-11-09T14:49:27+09:00"
     },
     {
       "source": "BIZINFO",
@@ -209,7 +209,7 @@
         "수행기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-08T22:08:07+09:00"
+      "collected_at": "2026-11-09T14:49:27+09:00"
     },
     {
       "source": "BIZINFO",
@@ -228,7 +228,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:07+09:00"
+      "collected_at": "2026-11-09T14:49:27+09:00"
     },
     {
       "source": "BIZINFO",
@@ -247,7 +247,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:10+09:00"
+      "collected_at": "2026-11-09T14:49:31+09:00"
     },
     {
       "source": "BIZINFO",
@@ -266,7 +266,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:10+09:00"
+      "collected_at": "2026-11-09T14:49:31+09:00"
     },
     {
       "source": "BIZINFO",
@@ -286,7 +286,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:14+09:00"
+      "collected_at": "2026-11-09T14:49:36+09:00"
     },
     {
       "source": "BIZINFO",
@@ -305,7 +305,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:14+09:00"
+      "collected_at": "2026-11-09T14:49:36+09:00"
     },
     {
       "source": "BIZINFO",
@@ -324,7 +324,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:17+09:00"
+      "collected_at": "2026-11-09T14:49:40+09:00"
     },
     {
       "source": "BIZINFO",
@@ -343,7 +343,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:17+09:00"
+      "collected_at": "2026-11-09T14:49:40+09:00"
     },
     {
       "source": "BIZINFO",
@@ -362,7 +362,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:20+09:00"
+      "collected_at": "2026-11-09T14:49:44+09:00"
     },
     {
       "source": "BIZINFO",
@@ -381,7 +381,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:20+09:00"
+      "collected_at": "2026-11-09T14:49:44+09:00"
     },
     {
       "source": "BIZINFO",
@@ -400,7 +400,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:20+09:00"
+      "collected_at": "2026-11-09T14:49:44+09:00"
     },
     {
       "source": "BIZINFO",
@@ -419,7 +419,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:24+09:00"
+      "collected_at": "2026-11-09T14:49:48+09:00"
     },
     {
       "source": "BIZINFO",
@@ -438,7 +438,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:24+09:00"
+      "collected_at": "2026-11-09T14:49:48+09:00"
     },
     {
       "source": "BIZINFO",
@@ -457,7 +457,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:30+09:00"
+      "collected_at": "2026-11-09T14:49:56+09:00"
     },
     {
       "source": "BIZINFO",
@@ -476,7 +476,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:30+09:00"
+      "collected_at": "2026-11-09T14:49:56+09:00"
     },
     {
       "source": "BIZINFO",
@@ -495,7 +495,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:34+09:00"
+      "collected_at": "2026-11-09T14:50:01+09:00"
     },
     {
       "source": "BIZINFO",
@@ -514,7 +514,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:34+09:00"
+      "collected_at": "2026-11-09T14:50:01+09:00"
     },
     {
       "source": "BIZINFO",
@@ -533,7 +533,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:34+09:00"
+      "collected_at": "2026-11-09T14:50:01+09:00"
     },
     {
       "source": "BIZINFO",
@@ -552,7 +552,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:34+09:00"
+      "collected_at": "2026-11-09T14:50:01+09:00"
     },
     {
       "source": "BIZINFO",
@@ -571,7 +571,2211 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-08T22:08:37+09:00"
+      "collected_at": "2026-11-09T14:50:05+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "2026년 청소년수련활동인증제 운영기관 인증현판 제작·보급",
+      "org": "한국청소년활동진흥원",
+      "period_text": "2026-11-06 17:00:00~2026-11-12 10:00:00",
+      "period_start": "2026-11-06 17:00:00",
+      "period_end": "2026-11-12 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01813352&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01813352-000",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:18+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "군 책임운영기관 2026년 업무성과평가",
+      "org": "조달청 서울지방조달청",
+      "period_text": "2026-11-02 10:00:00~2026-11-04 10:00:00",
+      "period_start": "2026-11-02 10:00:00",
+      "period_end": "2026-11-04 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01767231&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01767231-000",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:31+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "특별성과 포상금 우수 운영기관 정기포상 등 행사 대행용역",
+      "org": "행정안전부",
+      "period_text": "2026-10-26 10:00:00~2026-10-30 10:00:00",
+      "period_start": "2026-10-26 10:00:00",
+      "period_end": "2026-10-30 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01778794&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01778794-000",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:31+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "⌜2026년 모두의 창업-사회혁신 소셜벤처 리그⌟ 최종평가 운영기관 위탁 용역",
+      "org": "(사)벤처기업협회",
+      "period_text": "",
+      "period_start": null,
+      "period_end": null,
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01785417&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01785417-000",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:31+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "군 책임운영기관 2026년 업무성과평가",
+      "org": "조달청 서울지방조달청",
+      "period_text": "2026-11-13 10:00:00~2026-11-17 10:00:00",
+      "period_start": "2026-11-13 10:00:00",
+      "period_end": "2026-11-17 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01808780&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01808780-000",
+      "content": "",
+      "matched_keywords": [
+        "운영기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:31+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "울산공항 관리동 및 장비고 신축공사 안전점검 수행기관 지정 공고",
+      "org": "한국공항공사",
+      "period_text": "2026-10-22 10:00:00~2026-10-26 10:00:00",
+      "period_start": "2026-10-22 10:00:00",
+      "period_end": "2026-10-26 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01781245&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01781245-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정(중촌.읍천 자연재해위험개선지구 정비사업)",
+      "org": "경상북도 경산시",
+      "period_text": "2026-10-29 14:00:00~2026-11-06 14:00:00",
+      "period_start": "2026-10-29 14:00:00",
+      "period_end": "2026-11-06 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01795714&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01795714-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "수출바우처사업 수행기관 역량평가 및 서비스 메뉴 검수 용역",
+      "org": "중소벤처기업진흥공단",
+      "period_text": "2026-11-18 10:00:00~2026-11-20 10:00:00",
+      "period_start": "2026-11-18 10:00:00",
+      "period_end": "2026-11-20 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01817575&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01817575-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(수리시설 분야) 안전점검 수행기관 지정 공고",
+      "org": "세종특별자치시",
+      "period_text": "2026-10-19 10:00:00~2026-10-21 10:00:00",
+      "period_start": "2026-10-19 10:00:00",
+      "period_end": "2026-10-21 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01776985&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01776985-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건축공사 안전점검 수행기관 지정 공고[중앙동4가 업무시설(오피스텔) 신축공사]",
+      "org": "부산광역시 중구",
+      "period_text": "2026-10-19 09:00:00~2026-10-26 17:00:00",
+      "period_start": "2026-10-19 09:00:00",
+      "period_end": "2026-10-26 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01769757&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01769757-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검수행기관 지정 공고(석우리 620-10 일원 비관리청 도로공사)",
+      "org": "경기도 양주시",
+      "period_text": "2026-10-26 10:00:00~2026-11-02 12:00:00",
+      "period_start": "2026-10-26 10:00:00",
+      "period_end": "2026-11-02 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01776242&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01776242-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "세계태권도연맹 본부 건립사업(건축) 건설공사 안전점거 수행기관 지정 공고",
+      "org": "강원특별자치도 춘천시",
+      "period_text": "2026-10-19 11:00:00~2026-10-26 10:00:00",
+      "period_start": "2026-10-19 11:00:00",
+      "period_end": "2026-10-26 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01777239&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01777239-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검수행기관 지정 공고(석우리 620-10 일원 비관리청 도로공사)",
+      "org": "경기도 양주시",
+      "period_text": "2026-10-26 10:00:00~2026-11-02 12:00:00",
+      "period_start": "2026-10-26 10:00:00",
+      "period_end": "2026-11-02 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01776242&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01776242-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건축공사 안전점검 수행기관 지정 공고[중앙동4가 업무시설(오피스텔) 신축공사]",
+      "org": "부산광역시 중구",
+      "period_text": "2026-10-19 13:00:00~2026-10-26 17:00:00",
+      "period_start": "2026-10-19 13:00:00",
+      "period_end": "2026-10-26 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01769757&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01769757-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "거의~대동아파트간 도시계획도로(중1-30호) 개설공사 안전점검 수행기관 지정 공고",
+      "org": "경상북도 구미시",
+      "period_text": "2026-10-23 10:00:00~2026-10-27 10:00:00",
+      "period_start": "2026-10-23 10:00:00",
+      "period_end": "2026-10-27 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01777766&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01777766-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(건축분야) 안전점검 수행기관 지정 공고(장지동 근린생활시설 신축공사)",
+      "org": "경기도 광주시",
+      "period_text": "2026-10-19 17:00:00~2026-10-26 10:00:00",
+      "period_start": "2026-10-19 17:00:00",
+      "period_end": "2026-10-26 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01779095&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01779095-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "연화지구 수리시설개보수사업 안전점검 수행기관 가격평가",
+      "org": "한국농어촌공사 충남지역본부 부여지사",
+      "period_text": "2026-10-20 13:00:00~2026-10-20 16:00:00",
+      "period_start": "2026-10-20 13:00:00",
+      "period_end": "2026-10-20 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01780628&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01780628-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(금사동 118-7번지 외 1필지)",
+      "org": "부산광역시 금정구",
+      "period_text": "2026-10-20 17:00:00~2026-10-28 18:00:00",
+      "period_start": "2026-10-20 17:00:00",
+      "period_end": "2026-10-28 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01781595&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01781595-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고[서구 남부민동 동양냉장 송도지점 철거공사]",
+      "org": "부산광역시 서구",
+      "period_text": "2026-10-22 10:00:00~2026-10-26 18:00:00",
+      "period_start": "2026-10-22 10:00:00",
+      "period_end": "2026-10-26 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01774886&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01774886-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(대정지구 자연재해위험개선지구 정비사업)",
+      "org": "전남광주통합특별시 장성군",
+      "period_text": "2026-10-21 09:00:00~2026-10-28 10:00:00",
+      "period_start": "2026-10-21 09:00:00",
+      "period_end": "2026-10-28 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01782249&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01782249-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "(가칭)동곡초등학교 교사 신축공사 안전점검 수행기관 지정 공고",
+      "org": "경상북도교육청 경상북도구미교육지원청",
+      "period_text": "2026-10-22 10:00:00~2026-10-27 10:00:00",
+      "period_start": "2026-10-22 10:00:00",
+      "period_end": "2026-10-27 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01781013&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01781013-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(대촌동 957번지 일원 공장 증축공사)",
+      "org": "전남광주통합특별시 북구",
+      "period_text": "2026-10-23 09:00:00~2026-10-27 14:00:00",
+      "period_start": "2026-10-23 09:00:00",
+      "period_end": "2026-10-27 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01782653&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01782653-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "주택건설공사 안전점검 수행기관 지정 공고(중외공원 민간공원 특례사업 공동주택 1BL 신축공사)",
+      "org": "전남광주통합특별시 북구",
+      "period_text": "2026-10-19 09:00:00~2026-10-21 14:00:00",
+      "period_start": "2026-10-19 09:00:00",
+      "period_end": "2026-10-21 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01760081&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01760081-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고[서구 남부민동 동양냉장 송도지점 철거공사]",
+      "org": "부산광역시 서구",
+      "period_text": "2026-10-22 10:00:00~2026-10-26 18:00:00",
+      "period_start": "2026-10-22 10:00:00",
+      "period_end": "2026-10-26 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01774886&bidPbancOrd=002",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01774886-002",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(대촌동 957번지 일원 공장 증축공사)",
+      "org": "전남광주통합특별시 북구",
+      "period_text": "2026-10-23 09:00:00~2026-10-27 14:00:00",
+      "period_start": "2026-10-23 09:00:00",
+      "period_end": "2026-10-27 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01782653&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01782653-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고[노곡 자연재해위험 개선지구 정비사업]",
+      "org": "경기도 연천군",
+      "period_text": "2026-10-22 10:00:00~2026-10-30 10:00:00",
+      "period_start": "2026-10-22 10:00:00",
+      "period_end": "2026-10-30 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01783021&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01783021-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "주택건설사업 안전점검 수행기관 지정 공고(중외공원 비공원시설 공동주택 1BL 신축공사)",
+      "org": "전남광주통합특별시 북구",
+      "period_text": "2026-10-29 09:00:00~2026-11-02 14:00:00",
+      "period_start": "2026-10-29 09:00:00",
+      "period_end": "2026-11-02 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01784356&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01784356-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건축공사 안전점검 수행기관 지정 공고(구평동 493번지)",
+      "org": "부산광역시 사하구",
+      "period_text": "2026-10-22 17:00:00~2026-10-28 17:00:00",
+      "period_start": "2026-10-22 17:00:00",
+      "period_end": "2026-10-28 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01782892&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01782892-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(명장공원 비공원시설(1단지) 공동주택 신축공사)",
+      "org": "부산광역시 해운대구",
+      "period_text": "2026-10-30 10:00:00~2026-11-03 14:00:00",
+      "period_start": "2026-10-30 10:00:00",
+      "period_end": "2026-11-03 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01785757&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01785757-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(명장공원 비공원시설(2단지) 공동주택 신축공사)",
+      "org": "부산광역시 해운대구",
+      "period_text": "2026-10-30 10:00:00~2026-11-03 14:00:00",
+      "period_start": "2026-10-30 10:00:00",
+      "period_end": "2026-11-03 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01785812&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01785812-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(명장공원 비공원시설(1단지) 공동주택 신축공사)",
+      "org": "부산광역시 해운대구",
+      "period_text": "2026-10-30 10:00:00~2026-11-03 14:00:00",
+      "period_start": "2026-10-30 10:00:00",
+      "period_end": "2026-11-03 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01785757&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01785757-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(명장공원 비공원시설(2단지) 공동주택 신축공사)",
+      "org": "부산광역시 해운대구",
+      "period_text": "2026-10-30 10:00:00~2026-11-03 14:00:00",
+      "period_start": "2026-10-30 10:00:00",
+      "period_end": "2026-11-03 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01785812&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01785812-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "화천군 하리1 배수분구 중점관리지역 도시침수 대응사업 안전점검 수행기관 지정 공고",
+      "org": "강원특별자치도 화천군",
+      "period_text": "2026-10-22 16:00:00~2026-11-03 16:00:00",
+      "period_start": "2026-10-22 16:00:00",
+      "period_end": "2026-11-03 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01786419&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01786419-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(토목) 안전점검 수행기관 지정 공고(적성지구 농어촌생활용수 개발사업)",
+      "org": "전북특별자치도 순창군",
+      "period_text": "2026-10-19 09:00:00~2026-10-21 10:00:00",
+      "period_start": "2026-10-19 09:00:00",
+      "period_end": "2026-10-21 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01771887&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01771887-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(토목) 안전점검 수행기관 지정 공고(적성지구 농어촌생활용수 개발사업)",
+      "org": "전북특별자치도 순창군",
+      "period_text": "2026-10-26 09:00:00~2026-10-28 10:00:00",
+      "period_start": "2026-10-26 09:00:00",
+      "period_end": "2026-10-28 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01787446&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01787446-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사[건축분야] 안전점검 수행기관 지정 공고[㈜엔플로우 천안공장 신축공사]",
+      "org": "충청남도 천안시",
+      "period_text": "2026-10-27 09:00:00~2026-10-29 14:00:00",
+      "period_start": "2026-10-27 09:00:00",
+      "period_end": "2026-10-29 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01787642&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01787642-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "안전점검 수행기관 지정 공고(송정동 1711-4 외 4필지)",
+      "org": "부산광역시 강서구",
+      "period_text": "2026-10-28 15:00:00~2026-10-30 15:00:00",
+      "period_start": "2026-10-28 15:00:00",
+      "period_end": "2026-10-30 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01787081&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01787081-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "왜관읍 회동마을 상습침수지구 개선사업 안전점검 수행기관 지정을 위한 공고",
+      "org": "경상북도 칠곡군",
+      "period_text": "2026-10-26 10:00:00~2026-10-29 10:00:00",
+      "period_start": "2026-10-26 10:00:00",
+      "period_end": "2026-10-29 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01788028&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01788028-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "적누지구 수리시설개보수사업 토목,기계공사 안전점검 수행기관 지정평가",
+      "org": "한국농어촌공사 충남지역본부 청양지사",
+      "period_text": "2026-10-26 09:00:00~2026-10-26 12:00:00",
+      "period_start": "2026-10-26 09:00:00",
+      "period_end": "2026-10-26 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01788317&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01788317-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "적누지구 수리시설개보수사업 토목,기계공사 안전점검 수행기관 지정평가",
+      "org": "한국농어촌공사 충남지역본부 청양지사",
+      "period_text": "2026-10-26 09:00:00~2026-10-26 12:00:00",
+      "period_start": "2026-10-26 09:00:00",
+      "period_end": "2026-10-26 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01788317&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01788317-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「대병 면단위 하수처리장 증설사업(토목,건축,기계)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-10-27 10:00:00~2026-10-29 10:00:00",
+      "period_start": "2026-10-27 10:00:00",
+      "period_end": "2026-10-29 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01788425&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01788425-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "탄천수계 고덕천 차집관로 성능개선공사 정기안전점검 수행기관 지정 공고",
+      "org": "서울물재생시설공단",
+      "period_text": "2026-10-23 14:30:00~2026-10-28 15:00:00",
+      "period_start": "2026-10-23 14:30:00",
+      "period_end": "2026-10-28 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01788575&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01788575-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(건축분야) 안전점검 수행기관 모집 공고(양덕동 1052-1 주유소 증축 및 용도변경 공사)",
+      "org": "경상북도 포항시",
+      "period_text": "2026-10-27 09:00:00~2026-10-29 14:00:00",
+      "period_start": "2026-10-27 09:00:00",
+      "period_end": "2026-10-29 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01789030&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01789030-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고[군도12호선(궁평리)배수로 정비공사]",
+      "org": "경기도 연천군",
+      "period_text": "2026-10-26 10:00:00~2026-11-02 10:00:00",
+      "period_start": "2026-10-26 10:00:00",
+      "period_end": "2026-11-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01789251&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01789251-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(초량동 744-21번지)",
+      "org": "부산광역시 동구",
+      "period_text": "2026-10-26 09:00:00~2026-10-30 17:00:00",
+      "period_start": "2026-10-26 09:00:00",
+      "period_end": "2026-10-30 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01789479&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01789479-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "탄천수계 고덕천 차집관로 성능개선공사 정기안전점검 수행기관 지정 공고",
+      "org": "서울물재생시설공단",
+      "period_text": "2026-10-23 14:30:00~2026-10-28 15:00:00",
+      "period_start": "2026-10-23 14:30:00",
+      "period_end": "2026-10-28 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01788575&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01788575-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "탄천수계 고덕천 차집관로 성능개선공사 정기안전점검 수행기관 지정 공고",
+      "org": "서울물재생시설공단",
+      "period_text": "2026-10-26 10:30:00~2026-10-28 15:00:00",
+      "period_start": "2026-10-26 10:30:00",
+      "period_end": "2026-10-28 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01790252&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01790252-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고[군도12호선(궁평리)배수로 정비공사]",
+      "org": "경기도 연천군",
+      "period_text": "2026-10-26 10:00:00~2026-11-02 10:00:00",
+      "period_start": "2026-10-26 10:00:00",
+      "period_end": "2026-11-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01789251&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01789251-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "대구보훈병원 서관동 증축사업 안전점검 수행기관 지정 공고",
+      "org": "조달청",
+      "period_text": "2026-10-28 10:00:00~2026-11-03 10:00:00",
+      "period_start": "2026-10-28 10:00:00",
+      "period_end": "2026-11-03 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01785425&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01785425-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(남천동 10-11번지)",
+      "org": "부산광역시 수영구",
+      "period_text": "2026-10-27 17:00:00~2026-11-02 17:00:00",
+      "period_start": "2026-10-27 17:00:00",
+      "period_end": "2026-11-02 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01791545&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01791545-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "탄천수계 고덕천 차집관로 성능개선공사 정기안전점검 수행기관 지정 공고",
+      "org": "서울물재생시설공단",
+      "period_text": "2026-10-26 10:30:00~2026-10-28 15:00:00",
+      "period_start": "2026-10-26 10:30:00",
+      "period_end": "2026-10-28 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01790252&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01790252-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(대촌동 957번지 일원 공장 증축공사)",
+      "org": "전남광주통합특별시 북구",
+      "period_text": "2026-10-23 09:00:00~2026-10-27 14:00:00",
+      "period_start": "2026-10-23 09:00:00",
+      "period_end": "2026-10-27 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01782653&bidPbancOrd=002",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01782653-002",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "나주시 노후 상수관망 정비사업(나주천 횡단구간) 안전점검 수행기관 지정 공고",
+      "org": "전라남도 나주시 상수도사업소",
+      "period_text": "2026-10-29 09:00:00~2026-11-03 10:00:00",
+      "period_start": "2026-10-29 09:00:00",
+      "period_end": "2026-11-03 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01791480&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01791480-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「대병 면단위 하수처리장 증설사업(토목,건축,기계)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-10-27 10:00:00~2026-10-29 10:00:00",
+      "period_start": "2026-10-27 10:00:00",
+      "period_end": "2026-10-29 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01788425&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01788425-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "경북 장애인가족 공립 복합힐링센터 건립공사 안전점검 수행기관 지정 공고",
+      "org": "경상북도",
+      "period_text": "2026-10-27 10:00:00~2026-11-03 14:00:00",
+      "period_start": "2026-10-27 10:00:00",
+      "period_end": "2026-11-03 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01792662&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01792662-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "2027년도 조달청 안전점검 수행기관 모집 공고(통합명부)",
+      "org": "조달청",
+      "period_text": "2026-10-28 09:00:00~2026-12-04 18:00:00",
+      "period_start": "2026-10-28 09:00:00",
+      "period_end": "2026-12-04 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01792127&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01792127-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고[옥정동 967-5, 주식회사쓰리주]",
+      "org": "경기도 양주시",
+      "period_text": "2026-11-05 10:00:00~2026-11-12 12:00:00",
+      "period_start": "2026-11-05 10:00:00",
+      "period_end": "2026-11-12 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01793112&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01793112-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "2026년 망원5교 외 1개소 보수공사 안전점검 수행기관 지정",
+      "org": "서울시설공단",
+      "period_text": "2026-10-27 20:00:00~2026-11-03 10:00:00",
+      "period_start": "2026-10-27 20:00:00",
+      "period_end": "2026-11-03 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01792538&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01792538-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고[옥정동 967-5, 주식회사쓰리주]",
+      "org": "경기도 양주시",
+      "period_text": "2026-11-05 10:00:00~2026-11-12 12:00:00",
+      "period_start": "2026-11-05 10:00:00",
+      "period_end": "2026-11-12 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01793112&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01793112-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「신원 수옥지구 소규모하수처리시설 설치사업」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 거창군 수도사업소",
+      "period_text": "2026-10-28 10:00:00~2026-10-30 10:00:00",
+      "period_start": "2026-10-28 10:00:00",
+      "period_end": "2026-10-30 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01794641&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01794641-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사[건축분야] 안전점검 수행기관 지정 공고[구룡사 123미터 평화대불 증축공사]",
+      "org": "충청남도 천안시",
+      "period_text": "2026-11-02 09:00:00~2026-11-04 14:00:00",
+      "period_start": "2026-11-02 09:00:00",
+      "period_end": "2026-11-04 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01793470&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01793470-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「가회천 개선복구사업(1공구)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-10-29 10:00:00~2026-11-02 10:00:00",
+      "period_start": "2026-10-29 10:00:00",
+      "period_end": "2026-11-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01794981&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01794981-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「가회천 개선복구사업(2공구)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-10-29 10:00:00~2026-11-02 10:00:00",
+      "period_start": "2026-10-29 10:00:00",
+      "period_end": "2026-11-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01795029&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01795029-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「가회천 재해복구사업」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-10-29 10:00:00~2026-11-02 10:00:00",
+      "period_start": "2026-10-29 10:00:00",
+      "period_end": "2026-11-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01795033&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01795033-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「팔산천 개선복구사업」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-10-29 10:00:00~2026-11-02 10:00:00",
+      "period_start": "2026-10-29 10:00:00",
+      "period_end": "2026-11-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01795036&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01795036-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「황계천 개선복구사업(1공구)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-10-29 10:00:00~2026-11-02 10:00:00",
+      "period_start": "2026-10-29 10:00:00",
+      "period_end": "2026-11-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01795038&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01795038-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「황계천 개선복구사업(2공구)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-10-29 10:00:00~2026-11-02 10:00:00",
+      "period_start": "2026-10-29 10:00:00",
+      "period_end": "2026-11-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01795041&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01795041-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "운산2지구 소규모 배수개선사업 토목공사 안전점검 수행기관 지정 공고",
+      "org": "한국농어촌공사 충남지역본부 당진지사",
+      "period_text": "2026-10-28 10:00:00~2026-10-28 15:00:00",
+      "period_start": "2026-10-28 10:00:00",
+      "period_end": "2026-10-28 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01794712&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01794712-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "오봉지 자연환경보전이용시설 설치공사 토목공사 안전점검 수행기관 지정공고",
+      "org": "한국농어촌공사 충남지역본부 당진지사",
+      "period_text": "2026-10-28 10:00:00~2026-10-28 15:00:00",
+      "period_start": "2026-10-28 10:00:00",
+      "period_end": "2026-10-28 15:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01794591&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01794591-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고[군도12호선(궁평리)배수로 정비공사]",
+      "org": "경기도 연천군",
+      "period_text": "2026-10-29 10:00:00~2026-11-05 10:00:00",
+      "period_start": "2026-10-29 10:00:00",
+      "period_end": "2026-11-05 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01797380&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01797380-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「금성천 개선복구사업(1공구)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-10-29 10:00:00~2026-11-02 10:00:00",
+      "period_start": "2026-10-29 10:00:00",
+      "period_end": "2026-11-02 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01797628&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01797628-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「금성천 개선복구사업(1공구)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-10-30 10:00:00~2026-11-03 10:00:00",
+      "period_start": "2026-10-30 10:00:00",
+      "period_end": "2026-11-03 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01797628&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01797628-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "나주시 노후 상수관망 정비사업(나주천 횡단구간) 안전점검 수행기관 지정 공고",
+      "org": "전라남도 나주시 상수도사업소",
+      "period_text": "2026-10-29 09:00:00~2026-11-03 10:00:00",
+      "period_start": "2026-10-29 09:00:00",
+      "period_end": "2026-11-03 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01791480&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01791480-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "나주시 노후 상수관망 정비사업(나주천 횡단구간) 안전점검 수행기관 지정 공고",
+      "org": "전라남도 나주시 상수도사업소",
+      "period_text": "2026-11-02 09:00:00~2026-11-04 10:00:00",
+      "period_start": "2026-11-02 09:00:00",
+      "period_end": "2026-11-04 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01798253&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01798253-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고[군도12호선(궁평리)배수로 정비공사]",
+      "org": "경기도 연천군",
+      "period_text": "2026-10-29 10:00:00~2026-11-05 10:00:00",
+      "period_start": "2026-10-29 10:00:00",
+      "period_end": "2026-11-05 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01797380&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01797380-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건축공사 안전점검 수행기관 지정 공고(덕포동 270-4번지 외 1필지)",
+      "org": "부산광역시 사상구",
+      "period_text": "2026-10-30 09:00:00~2026-11-06 17:00:00",
+      "period_start": "2026-10-30 09:00:00",
+      "period_end": "2026-11-06 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01799421&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01799421-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "주택건설공사 안전점검(옹벽) 수행기관 지정 공고[천안 부대1구역]",
+      "org": "충청남도 천안시",
+      "period_text": "2026-11-06 09:00:00~2026-11-10 14:00:00",
+      "period_start": "2026-11-06 09:00:00",
+      "period_end": "2026-11-10 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01799495&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01799495-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고[군도12호선(궁평리)배수로 정비공사]",
+      "org": "경기도 연천군",
+      "period_text": "2026-10-30 10:00:00~2026-11-06 13:10:00",
+      "period_start": "2026-10-30 10:00:00",
+      "period_end": "2026-11-06 13:10:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01800352&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01800352-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(토목분야) 안전점검 수행기관 지정 공고(김천 자동차 주행시험장 조성사업)",
+      "org": "경상북도 김천시",
+      "period_text": "2026-11-02 12:00:00~2026-11-10 12:00:00",
+      "period_start": "2026-11-02 12:00:00",
+      "period_end": "2026-11-10 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01801756&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01801756-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "나주공공하수처리장 유입 차집관로 정비사업(2단계) 안전점검 수행기관 지정 공고",
+      "org": "전라남도 나주시 하수도사업소",
+      "period_text": "2026-11-02 09:00:00~2026-11-05 10:00:00",
+      "period_start": "2026-11-02 09:00:00",
+      "period_end": "2026-11-05 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01801722&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01801722-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(초읍동 54-59번지 일원 삼광사 주차장 증축공사)",
+      "org": "부산광역시 부산진구",
+      "period_text": "2026-11-09 10:00:00~2026-11-11 14:00:00",
+      "period_start": "2026-11-09 10:00:00",
+      "period_end": "2026-11-11 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01800815&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01800815-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(EDC해리아나 공장 신축공사)",
+      "org": "부산광역시 강서구",
+      "period_text": "2026-11-05 17:00:00~2026-11-09 17:00:00",
+      "period_start": "2026-11-05 17:00:00",
+      "period_end": "2026-11-09 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01801036&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01801036-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(토목분야) 안전점검 수행기관 지정 공고(김천 자동차 주행시험장 조성사업)",
+      "org": "경상북도 김천시",
+      "period_text": "2026-11-02 12:00:00~2026-11-10 12:00:00",
+      "period_start": "2026-11-02 12:00:00",
+      "period_end": "2026-11-10 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01801756&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01801756-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건축공사 안전점검 수행기관 지정 공고(광안동 1072-8번지)",
+      "org": "부산광역시 수영구",
+      "period_text": "2026-11-03 17:00:00~2026-11-09 17:00:00",
+      "period_start": "2026-11-03 17:00:00",
+      "period_end": "2026-11-09 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01803621&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01803621-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정공고(대촌동 957번지 일원 공장 증축공사)",
+      "org": "전남광주통합특별시 북구",
+      "period_text": "2026-11-06 09:00:00~2026-11-10 14:00:00",
+      "period_start": "2026-11-06 09:00:00",
+      "period_end": "2026-11-10 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804194&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01804194-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "탄천수계 고덕천 차집관로 성능개선공사 정기안전점검 수행기관 지정 공고",
+      "org": "서울물재생시설공단",
+      "period_text": "2026-11-02 17:00:00~2026-11-04 17:00:00",
+      "period_start": "2026-11-02 17:00:00",
+      "period_end": "2026-11-04 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804750&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01804750-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "남하 안흥지구 소규모하수처리시설 설치사업 안전점검 수행기관 지정 공고",
+      "org": "경상남도 거창군 수도사업소",
+      "period_text": "2026-11-03 10:00:00~2026-11-06 13:10:00",
+      "period_start": "2026-11-03 10:00:00",
+      "period_end": "2026-11-06 13:10:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804693&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01804693-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "거창 강남지구 소규모하수처리시설 설치사업 안전점검 수행기관 지정 공고",
+      "org": "경상남도 거창군 수도사업소",
+      "period_text": "2026-11-03 10:00:00~2026-11-06 13:10:00",
+      "period_start": "2026-11-03 10:00:00",
+      "period_end": "2026-11-06 13:10:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804907&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01804907-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「금성천 개선복구사업(2공구)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-11-03 10:00:00~2026-11-06 13:10:00",
+      "period_start": "2026-11-03 10:00:00",
+      "period_end": "2026-11-06 13:10:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804986&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01804986-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정공고[인제키지트 조성사업(건축)]",
+      "org": "강원특별자치도 인제군",
+      "period_text": "2026-11-04 10:00:00~2026-11-06 13:10:00",
+      "period_start": "2026-11-04 10:00:00",
+      "period_end": "2026-11-06 13:10:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804082&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01804082-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정공고[솔정 자연재해위험개선지구 정비사업]",
+      "org": "강원특별자치도 인제군",
+      "period_text": "2026-11-04 10:00:00~2026-11-06 10:00:00",
+      "period_start": "2026-11-04 10:00:00",
+      "period_end": "2026-11-06 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804243&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01804243-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정공고[인제읍 덕산지구 군계획도로 개설공사]",
+      "org": "강원특별자치도 인제군",
+      "period_text": "2026-11-04 10:00:00~2026-11-06 10:00:00",
+      "period_start": "2026-11-04 10:00:00",
+      "period_end": "2026-11-06 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804290&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01804290-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정공고[북면 원통리 722-7 A, B동 다세대주택 신축공사]",
+      "org": "강원특별자치도 인제군",
+      "period_text": "2026-11-04 10:00:00~2026-11-06 13:10:00",
+      "period_start": "2026-11-04 10:00:00",
+      "period_end": "2026-11-06 13:10:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804404&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01804404-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「금성천 재해복구사업」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-11-03 10:00:00~2026-11-06 13:10:00",
+      "period_start": "2026-11-03 10:00:00",
+      "period_end": "2026-11-06 13:10:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01805034&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01805034-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정(하남시 초일동 154-14 신축공사)",
+      "org": "경기도 하남시",
+      "period_text": "2026-11-11 09:00:00~2026-11-17 10:00:00",
+      "period_start": "2026-11-11 09:00:00",
+      "period_end": "2026-11-17 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01798859&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01798859-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "글로컬지원센터 증축공사 안전점검 수행기관 지정",
+      "org": "국립한국교통대학교",
+      "period_text": "2026-11-04 10:00:00~2026-11-09 10:00:00",
+      "period_start": "2026-11-04 10:00:00",
+      "period_end": "2026-11-09 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01803601&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01803601-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(건축분야) 안전점검 수행기관 지정 공고(진우리 공장 신축공사)",
+      "org": "경기도 광주시",
+      "period_text": "2026-11-03 17:00:00~2026-11-10 10:00:00",
+      "period_start": "2026-11-03 17:00:00",
+      "period_end": "2026-11-10 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01807595&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01807595-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사[건축분야] 안전점검 수행기관 지정 공고[유량동 103-11 단독주택 신축공사]",
+      "org": "충청남도 천안시",
+      "period_text": "2026-11-09 09:00:00~2026-11-11 14:00:00",
+      "period_start": "2026-11-09 09:00:00",
+      "period_end": "2026-11-11 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01807821&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01807821-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(건축분야) 안전점검 수행기관 지정 공고(중대동 다세대주택 신축공사)",
+      "org": "경기도 광주시",
+      "period_text": "2026-11-03 17:40:00~2026-11-10 10:00:00",
+      "period_start": "2026-11-03 17:40:00",
+      "period_end": "2026-11-10 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01807884&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01807884-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "조정지구 농어촌마을하수도정비사업 안전점검 수행기관 지정평가",
+      "org": "한국농어촌공사 충남지역본부 세종대전금산지사",
+      "period_text": "2026-11-04 13:00:00~2026-11-05 10:00:00",
+      "period_start": "2026-11-04 13:00:00",
+      "period_end": "2026-11-05 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01807772&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01807772-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사[건축분야] 안전점검 수행기관 지정 공고(제주시 화북이동 5121-2번지 화북거로사거리지역주택조합 공동주택 신축공사)",
+      "org": "제주특별자치도 제주시",
+      "period_text": "2026-11-05 10:00:00~2026-11-12 16:00:00",
+      "period_start": "2026-11-05 10:00:00",
+      "period_end": "2026-11-12 16:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01807856&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01807856-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "아산 풍기역지구 도시개발사업 조성공사(토목,조경) 안전점검 수행기관 지정 공고",
+      "org": "충청남도 아산시",
+      "period_text": "2026-11-04 20:00:00~2026-11-10 12:00:00",
+      "period_start": "2026-11-04 20:00:00",
+      "period_end": "2026-11-10 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01808297&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01808297-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정공고[솔정 자연재해위험개선지구 정비사업]",
+      "org": "강원특별자치도 인제군",
+      "period_text": "2026-11-04 10:00:00~2026-11-06 10:00:00",
+      "period_start": "2026-11-04 10:00:00",
+      "period_end": "2026-11-06 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804243&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01804243-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정공고[인제읍 덕산지구 군계획도로 개설공사]",
+      "org": "강원특별자치도 인제군",
+      "period_text": "2026-11-04 10:00:00~2026-11-06 10:00:00",
+      "period_start": "2026-11-04 10:00:00",
+      "period_end": "2026-11-06 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804290&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01804290-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "구)동원탄좌 폐경석 사면 보강공사 안전점검 수행기관 지정 공고",
+      "org": "(주)강원랜드",
+      "period_text": "2026-11-05 10:00:00~2026-11-12 10:00:00",
+      "period_start": "2026-11-05 10:00:00",
+      "period_end": "2026-11-12 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01810618&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01810618-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "경상북도 농업자원관리원 건립공사 안전점검 수행기관 지정 공고",
+      "org": "경상북도",
+      "period_text": "2026-11-05 10:00:00~2026-11-12 14:00:00",
+      "period_start": "2026-11-05 10:00:00",
+      "period_end": "2026-11-12 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01810771&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01810771-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건축공사 안전점검 수행기관 지정 공고(덕포동 270-4번지 외 1필지)",
+      "org": "부산광역시 사상구",
+      "period_text": "2026-11-05 10:00:00~2026-11-09 17:00:00",
+      "period_start": "2026-11-05 10:00:00",
+      "period_end": "2026-11-09 17:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01799421&bidPbancOrd=001",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01799421-001",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사 안전점검 수행기관 지정 공고(하봉암동 92-10번지 외 18필지)",
+      "org": "경기도 동두천시",
+      "period_text": "2026-11-06 09:00:00~2026-11-13 18:00:00",
+      "period_start": "2026-11-06 09:00:00",
+      "period_end": "2026-11-13 18:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01813725&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01813725-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건설공사(토목분야) 안전점검 수행기관 지정 재공고(김천 자동차 주행시험장 조성사업)",
+      "org": "경상북도 김천시",
+      "period_text": "2026-11-09 12:00:00~2026-11-17 12:00:00",
+      "period_start": "2026-11-09 12:00:00",
+      "period_end": "2026-11-17 12:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01813916&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01813916-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「신등천 개선복구사업(1공구)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-11-10 10:00:00~2026-11-12 10:00:00",
+      "period_start": "2026-11-10 10:00:00",
+      "period_end": "2026-11-12 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816021&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01816021-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「도탄천 개선복구사업」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-11-10 10:00:00~2026-11-12 10:00:00",
+      "period_start": "2026-11-10 10:00:00",
+      "period_end": "2026-11-12 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816022&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01816022-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「신등천 재해복구사업」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-11-10 10:00:00~2026-11-12 10:00:00",
+      "period_start": "2026-11-10 10:00:00",
+      "period_end": "2026-11-12 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816024&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01816024-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "「신등천 개선복구사업(3공구)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-11-10 10:00:00~2026-11-12 10:00:00",
+      "period_start": "2026-11-10 10:00:00",
+      "period_end": "2026-11-12 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816025&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01816025-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "신등천 개선복구사업(2공구)」 건설공사 안전점검 수행기관 지정 공고",
+      "org": "경상남도 합천군",
+      "period_text": "2026-11-10 10:00:00~2026-11-12 10:00:00",
+      "period_start": "2026-11-10 10:00:00",
+      "period_end": "2026-11-12 10:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816026&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01816026-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "건축공사 안전점검 수행기관 지정 공고 [갑천4BL 공공지원 민간임대 주택사업]",
+      "org": "대전광역시 서구",
+      "period_text": "2026-11-18 09:00:00~2026-11-20 14:00:00",
+      "period_start": "2026-11-18 09:00:00",
+      "period_end": "2026-11-20 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01817702&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01817702-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
+    },
+    {
+      "source": "G2B",
+      "source_name": "나라장터(조달청)",
+      "title": "안전점검 수행기관 지정 공고[남부권 시내버스 공영차고지 조성공사]",
+      "org": "충청남도 천안시",
+      "period_text": "2026-11-10 09:00:00~2026-11-16 14:00:00",
+      "period_start": "2026-11-10 09:00:00",
+      "period_end": "2026-11-16 14:00:00",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01817814&bidPbancOrd=000",
+      "collect_method": "API",
+      "stage": "집행단계",
+      "external_id": "G2B-R26BK01817814-000",
+      "content": "",
+      "matched_keywords": [
+        "수행기관"
+      ],
+      "is_duplicate": false,
+      "collected_at": "2026-11-09T14:50:38+09:00"
     },
     {
       "source": "MOTIE",
