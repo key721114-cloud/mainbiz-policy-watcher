@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:40:01+09:00",
+  "generated_at": "2026-11-18T15:59:03+09:00",
   "count": 312,
   "items": [
     {
@@ -19,7 +19,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:03+09:00"
+      "collected_at": "2026-11-18T15:57:58+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -38,7 +38,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:03+09:00"
+      "collected_at": "2026-11-18T15:57:58+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -57,7 +57,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:03+09:00"
+      "collected_at": "2026-11-18T15:57:58+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -76,7 +76,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:04+09:00"
+      "collected_at": "2026-11-18T15:57:59+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -95,7 +95,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:07+09:00"
+      "collected_at": "2026-11-18T15:58:01+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -114,7 +114,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:07+09:00"
+      "collected_at": "2026-11-18T15:58:01+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -133,7 +133,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:07+09:00"
+      "collected_at": "2026-11-18T15:58:01+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -152,7 +152,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:07+09:00"
+      "collected_at": "2026-11-18T15:58:01+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -171,7 +171,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:07+09:00"
+      "collected_at": "2026-11-18T15:58:01+09:00"
     },
     {
       "source": "BIZINFO",
@@ -190,7 +190,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:12+09:00"
+      "collected_at": "2026-11-18T15:58:05+09:00"
     },
     {
       "source": "BIZINFO",
@@ -209,7 +209,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:12+09:00"
+      "collected_at": "2026-11-18T15:58:05+09:00"
     },
     {
       "source": "BIZINFO",
@@ -228,7 +228,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:12+09:00"
+      "collected_at": "2026-11-18T15:58:05+09:00"
     },
     {
       "source": "BIZINFO",
@@ -247,7 +247,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:12+09:00"
+      "collected_at": "2026-11-18T15:58:09+09:00"
     },
     {
       "source": "BIZINFO",
@@ -266,7 +266,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:16+09:00"
+      "collected_at": "2026-11-18T15:58:09+09:00"
     },
     {
       "source": "BIZINFO",
@@ -285,7 +285,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:16+09:00"
+      "collected_at": "2026-11-18T15:58:09+09:00"
     },
     {
       "source": "BIZINFO",
@@ -304,7 +304,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:16+09:00"
+      "collected_at": "2026-11-18T15:58:12+09:00"
     },
     {
       "source": "BIZINFO",
@@ -323,7 +323,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:21+09:00"
+      "collected_at": "2026-11-18T15:58:12+09:00"
     },
     {
       "source": "BIZINFO",
@@ -342,7 +342,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:26+09:00"
+      "collected_at": "2026-11-18T15:58:16+09:00"
     },
     {
       "source": "BIZINFO",
@@ -362,7 +362,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:26+09:00"
+      "collected_at": "2026-11-18T15:58:16+09:00"
     },
     {
       "source": "BIZINFO",
@@ -381,7 +381,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:30+09:00"
+      "collected_at": "2026-11-18T15:58:19+09:00"
     },
     {
       "source": "BIZINFO",
@@ -400,7 +400,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:30+09:00"
+      "collected_at": "2026-11-18T15:58:19+09:00"
     },
     {
       "source": "BIZINFO",
@@ -419,7 +419,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:35+09:00"
+      "collected_at": "2026-11-18T15:58:23+09:00"
     },
     {
       "source": "BIZINFO",
@@ -438,7 +438,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:35+09:00"
+      "collected_at": "2026-11-18T15:58:23+09:00"
     },
     {
       "source": "BIZINFO",
@@ -457,7 +457,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:35+09:00"
+      "collected_at": "2026-11-18T15:58:26+09:00"
     },
     {
       "source": "BIZINFO",
@@ -476,7 +476,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:35+09:00"
+      "collected_at": "2026-11-18T15:58:26+09:00"
     },
     {
       "source": "BIZINFO",
@@ -495,7 +495,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:39+09:00"
+      "collected_at": "2026-11-18T15:58:26+09:00"
     },
     {
       "source": "BIZINFO",
@@ -514,7 +514,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:39+09:00"
+      "collected_at": "2026-11-18T15:58:26+09:00"
     },
     {
       "source": "BIZINFO",
@@ -533,7 +533,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:48+09:00"
+      "collected_at": "2026-11-18T15:58:33+09:00"
     },
     {
       "source": "BIZINFO",
@@ -552,7 +552,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:48+09:00"
+      "collected_at": "2026-11-18T15:58:33+09:00"
     },
     {
       "source": "BIZINFO",
@@ -571,7 +571,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:53+09:00"
+      "collected_at": "2026-11-18T15:58:37+09:00"
     },
     {
       "source": "BIZINFO",
@@ -590,7 +590,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:53+09:00"
+      "collected_at": "2026-11-18T15:58:41+09:00"
     },
     {
       "source": "BIZINFO",
@@ -609,7 +609,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:53+09:00"
+      "collected_at": "2026-11-18T15:58:41+09:00"
     },
     {
       "source": "BIZINFO",
@@ -628,7 +628,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:53+09:00"
+      "collected_at": "2026-11-18T15:58:41+09:00"
     },
     {
       "source": "BIZINFO",
@@ -647,7 +647,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-18T05:44:57+09:00"
+      "collected_at": "2026-11-18T15:58:41+09:00"
     },
     {
       "source": "MOTIE",
