@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T15:52:12+09:00",
-  "count": 310,
+  "generated_at": "2026-11-21T10:52:26+09:00",
+  "count": 308,
   "items": [
     {
       "source": "KSTARTUP",
@@ -19,7 +19,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:23+09:00"
+      "collected_at": "2026-11-21T04:53:59+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -38,7 +38,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:23+09:00"
+      "collected_at": "2026-11-21T04:53:59+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -57,7 +57,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:23+09:00"
+      "collected_at": "2026-11-21T04:53:59+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -76,7 +76,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:23+09:00"
+      "collected_at": "2026-11-21T04:53:59+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -95,7 +95,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:26+09:00"
+      "collected_at": "2026-11-21T04:54:01+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -114,7 +114,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:26+09:00"
+      "collected_at": "2026-11-21T04:54:01+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -133,7 +133,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:26+09:00"
+      "collected_at": "2026-11-21T04:54:01+09:00"
     },
     {
       "source": "BIZINFO",
@@ -152,7 +152,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:30+09:00"
+      "collected_at": "2026-11-21T04:54:05+09:00"
     },
     {
       "source": "BIZINFO",
@@ -171,7 +171,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:30+09:00"
+      "collected_at": "2026-11-21T04:54:05+09:00"
     },
     {
       "source": "BIZINFO",
@@ -190,26 +190,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:35+09:00"
-    },
-    {
-      "source": "BIZINFO",
-      "source_name": "기업마당",
-      "title": "[경기] 2026년 경기지방중소벤처기업청 산학연협력 유공 포상 신청 모집 연장 공고",
-      "org": "중소벤처기업부",
-      "period_text": "2026-10-28 ~ 2026-11-20",
-      "period_start": "2026-10-28",
-      "period_end": "2026-11-20",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127951",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "BIZINFO-PBLN_000000000127951",
-      "content": "산학연 협력에 기여한 지원기관 공로자와 우수 중소기업을 발굴 및 격려하기 위하여 산학연협력 유공 포상을 추진하고자 합니다. 많은 관심과 참여 바랍니다. ☞ 산학연협력 지원기관 공로자, 산학연협력 중소기업 - (산학연협력 지원기관 공로자) 산학연 협력 기술개발 지원을 통해 지역 산학연협력 생태계 발전에 기여한 지원기관 소속 임직원으로 해당기관에서 2년이상의 경력이 있는 자 - (산학연협력 중소기업) 중소벤처기업부 R&D 사업 참여기업 등 기술력이 우수하고 성장 가능성이 높으며, 2년이상 산학연협력 활성화에 기여한 공적이 있는 기업인 ※ 중소기업 소재지 : 사업자등록증 상 본사, 공장 어느 한 곳의 소재지가 경기지역이어야 함 ☞ 중기부장관표창 6점, 경기청장표창 6점 포상 지원 ※ 자세한 지원내용 공고문 참조",
-      "matched_keywords": [
-        "지원기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:35+09:00"
+      "collected_at": "2026-11-21T04:54:05+09:00"
     },
     {
       "source": "BIZINFO",
@@ -228,7 +209,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:35+09:00"
+      "collected_at": "2026-11-21T04:54:08+09:00"
     },
     {
       "source": "BIZINFO",
@@ -247,7 +228,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:39+09:00"
+      "collected_at": "2026-11-21T04:54:08+09:00"
     },
     {
       "source": "BIZINFO",
@@ -266,7 +247,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:39+09:00"
+      "collected_at": "2026-11-21T04:54:11+09:00"
     },
     {
       "source": "BIZINFO",
@@ -285,7 +266,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:39+09:00"
+      "collected_at": "2026-11-21T04:54:11+09:00"
     },
     {
       "source": "BIZINFO",
@@ -304,7 +285,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:44+09:00"
+      "collected_at": "2026-11-21T04:54:11+09:00"
     },
     {
       "source": "BIZINFO",
@@ -324,7 +305,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:48+09:00"
+      "collected_at": "2026-11-21T04:54:14+09:00"
     },
     {
       "source": "BIZINFO",
@@ -343,7 +324,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:48+09:00"
+      "collected_at": "2026-11-21T04:54:17+09:00"
     },
     {
       "source": "BIZINFO",
@@ -362,7 +343,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:48+09:00"
+      "collected_at": "2026-11-21T04:54:17+09:00"
     },
     {
       "source": "BIZINFO",
@@ -381,7 +362,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:53+09:00"
+      "collected_at": "2026-11-21T04:54:17+09:00"
     },
     {
       "source": "BIZINFO",
@@ -400,7 +381,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:53+09:00"
+      "collected_at": "2026-11-21T04:54:20+09:00"
     },
     {
       "source": "BIZINFO",
@@ -419,7 +400,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:57+09:00"
+      "collected_at": "2026-11-21T04:54:20+09:00"
     },
     {
       "source": "BIZINFO",
@@ -438,7 +419,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:57+09:00"
+      "collected_at": "2026-11-21T04:54:20+09:00"
     },
     {
       "source": "BIZINFO",
@@ -457,7 +438,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:57+09:00"
+      "collected_at": "2026-11-21T04:54:24+09:00"
     },
     {
       "source": "BIZINFO",
@@ -476,7 +457,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:50:57+09:00"
+      "collected_at": "2026-11-21T04:54:24+09:00"
     },
     {
       "source": "BIZINFO",
@@ -495,26 +476,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:51:07+09:00"
-    },
-    {
-      "source": "BIZINFO",
-      "source_name": "기업마당",
-      "title": "[광주] 2026년 소상공인주치의센터 컨설팅 참여업체 모집 공고",
-      "org": "전남광주통합특별시",
-      "period_text": "예산 소진시까지",
-      "period_start": null,
-      "period_end": null,
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121134",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "BIZINFO-PBLN_000000000121134",
-      "content": "광주광역시와 광주경제진흥상생일자리재단에서는 소상공인의 경영 안정 및 자생력을 확보하고자 「소상공인 주치의센터」를 운영하고 있습니다. 분야별 전문가와 맞춤형 컨설팅(전문컨설팅, 종합컨설팅)을 원하는 업체를 아래와 같이 모집하오니 많은 신청바랍니다. ☞ 사업자등록증 상 광주소재 소상공인 및 예비창업자 - 소상공인 : 상시근로자 5인 미만 사업자(제조ㆍ건설ㆍ운수ㆍ광업은 10인 미만) - 예비창업자 : 광주시에 2년 이상 주소지를 등록하고 거주한 자 (사업개시일 이전 사업자등록증 소지자 포함, 임대차계약서 소지자) ☞ 종합컨설팅, 전문컨설팅 등 지원 - 소비 트렌드 및 디지털 환경 변화에 따른 경영역량강화를 위한 종합컨설팅 - 세무ㆍ회계ㆍ노무ㆍ법률ㆍ기타(마케팅, 프랜차이즈 등) 전문컨설팅 - 소상공인 지원정책 안내 및 지원기관 연계",
-      "matched_keywords": [
-        "지원기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-11-20T15:51:07+09:00"
+      "collected_at": "2026-11-21T04:54:27+09:00"
     },
     {
       "source": "BIZINFO",
@@ -533,7 +495,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:51:11+09:00"
+      "collected_at": "2026-11-21T04:54:33+09:00"
     },
     {
       "source": "BIZINFO",
@@ -552,7 +514,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:51:16+09:00"
+      "collected_at": "2026-11-21T04:54:33+09:00"
     },
     {
       "source": "BIZINFO",
@@ -571,7 +533,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:51:16+09:00"
+      "collected_at": "2026-11-21T04:54:33+09:00"
     },
     {
       "source": "BIZINFO",
@@ -590,7 +552,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:51:16+09:00"
+      "collected_at": "2026-11-21T04:54:33+09:00"
     },
     {
       "source": "BIZINFO",
@@ -609,7 +571,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T15:51:16+09:00"
+      "collected_at": "2026-11-21T04:54:33+09:00"
     },
     {
       "source": "MOTIE",
@@ -628,7 +590,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:06+09:00"
+      "collected_at": "2026-11-21T10:51:06+09:00"
     },
     {
       "source": "MOTIE",
@@ -647,7 +609,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:06+09:00"
+      "collected_at": "2026-11-21T10:51:06+09:00"
     },
     {
       "source": "MOTIE",
@@ -666,7 +628,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:06+09:00"
+      "collected_at": "2026-11-21T10:51:06+09:00"
     },
     {
       "source": "MOTIE",
@@ -685,7 +647,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:06+09:00"
+      "collected_at": "2026-11-21T10:51:06+09:00"
     },
     {
       "source": "MOTIE",
@@ -704,7 +666,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:06+09:00"
+      "collected_at": "2026-11-21T10:51:06+09:00"
     },
     {
       "source": "MOTIE",
@@ -723,7 +685,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:06+09:00"
+      "collected_at": "2026-11-21T10:51:06+09:00"
     },
     {
       "source": "MOTIE",
@@ -742,7 +704,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:06+09:00"
+      "collected_at": "2026-11-21T10:51:06+09:00"
     },
     {
       "source": "MOTIE",
@@ -761,7 +723,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:06+09:00"
+      "collected_at": "2026-11-21T10:51:06+09:00"
     },
     {
       "source": "MOTIE",
@@ -780,7 +742,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:06+09:00"
+      "collected_at": "2026-11-21T10:51:06+09:00"
     },
     {
       "source": "MOTIE",
@@ -799,7 +761,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:06+09:00"
+      "collected_at": "2026-11-21T10:51:06+09:00"
     },
     {
       "source": "MOTIE",
@@ -818,7 +780,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:07+09:00"
+      "collected_at": "2026-11-21T10:51:07+09:00"
     },
     {
       "source": "MOTIE",
@@ -837,7 +799,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:07+09:00"
+      "collected_at": "2026-11-21T10:51:07+09:00"
     },
     {
       "source": "MOTIE",
@@ -856,7 +818,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:07+09:00"
+      "collected_at": "2026-11-21T10:51:07+09:00"
     },
     {
       "source": "MOTIE",
@@ -875,7 +837,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:07+09:00"
+      "collected_at": "2026-11-21T10:51:07+09:00"
     },
     {
       "source": "MOTIE",
@@ -894,7 +856,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:07+09:00"
+      "collected_at": "2026-11-21T10:51:07+09:00"
     },
     {
       "source": "MOTIE",
@@ -913,7 +875,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:07+09:00"
+      "collected_at": "2026-11-21T10:51:07+09:00"
     },
     {
       "source": "MOTIE",
@@ -932,7 +894,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:08+09:00"
     },
     {
       "source": "MOTIE",
@@ -951,7 +913,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:08+09:00"
     },
     {
       "source": "MOTIE",
@@ -971,7 +933,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:08+09:00"
     },
     {
       "source": "MOTIE",
@@ -990,7 +952,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:08+09:00"
     },
     {
       "source": "MOTIE",
@@ -1010,7 +972,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:08+09:00"
     },
     {
       "source": "MOTIE",
@@ -1029,7 +991,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:08+09:00"
     },
     {
       "source": "MOTIE",
@@ -1048,7 +1010,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:08+09:00"
     },
     {
       "source": "MOTIE",
@@ -1067,7 +1029,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:08+09:00"
     },
     {
       "source": "MOTIE",
@@ -1086,7 +1048,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:08+09:00"
     },
     {
       "source": "MOTIE",
@@ -1106,7 +1068,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:08+09:00"
     },
     {
       "source": "MOTIE",
@@ -1126,7 +1088,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1146,7 +1108,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1166,7 +1128,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1185,7 +1147,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1205,7 +1167,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1225,7 +1187,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1245,7 +1207,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1265,7 +1227,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1285,7 +1247,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:08+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1305,7 +1267,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1324,7 +1286,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1343,7 +1305,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1363,7 +1325,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1382,7 +1344,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1401,7 +1363,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1420,7 +1382,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1439,7 +1401,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1458,7 +1420,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:09+09:00"
     },
     {
       "source": "MOTIE",
@@ -1477,7 +1439,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:10+09:00"
     },
     {
       "source": "MOTIE",
@@ -1496,7 +1458,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:10+09:00"
     },
     {
       "source": "MOTIE",
@@ -1515,7 +1477,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:09+09:00"
+      "collected_at": "2026-11-21T10:51:10+09:00"
     },
     {
       "source": "MOTIE",
@@ -1534,7 +1496,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:10+09:00"
+      "collected_at": "2026-11-21T10:51:11+09:00"
     },
     {
       "source": "MOTIE",
@@ -1553,7 +1515,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:11+09:00"
+      "collected_at": "2026-11-21T10:51:12+09:00"
     },
     {
       "source": "MOTIE",
@@ -1572,7 +1534,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:11+09:00"
+      "collected_at": "2026-11-21T10:51:12+09:00"
     },
     {
       "source": "MOTIE",
@@ -1591,7 +1553,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:11+09:00"
+      "collected_at": "2026-11-21T10:51:12+09:00"
     },
     {
       "source": "MOTIE",
@@ -1610,7 +1572,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:11+09:00"
+      "collected_at": "2026-11-21T10:51:12+09:00"
     },
     {
       "source": "MOTIE",
@@ -1629,7 +1591,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:11+09:00"
+      "collected_at": "2026-11-21T10:51:12+09:00"
     },
     {
       "source": "MOTIE",
@@ -1648,7 +1610,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:11+09:00"
+      "collected_at": "2026-11-21T10:51:12+09:00"
     },
     {
       "source": "MOTIE",
@@ -1667,7 +1629,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:11+09:00"
+      "collected_at": "2026-11-21T10:51:12+09:00"
     },
     {
       "source": "MOTIE",
@@ -1686,7 +1648,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:11+09:00"
+      "collected_at": "2026-11-21T10:51:12+09:00"
     },
     {
       "source": "MOTIE",
@@ -1705,7 +1667,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:11+09:00"
+      "collected_at": "2026-11-21T10:51:12+09:00"
     },
     {
       "source": "MOTIE",
@@ -1724,7 +1686,7 @@
         "관리기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:13+09:00"
+      "collected_at": "2026-11-21T10:51:14+09:00"
     },
     {
       "source": "MOTIE",
@@ -1743,7 +1705,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:14+09:00"
+      "collected_at": "2026-11-21T10:51:15+09:00"
     },
     {
       "source": "MOTIE",
@@ -1762,7 +1724,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:14+09:00"
+      "collected_at": "2026-11-21T10:51:15+09:00"
     },
     {
       "source": "MOTIE",
@@ -1781,7 +1743,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:14+09:00"
+      "collected_at": "2026-11-21T10:51:15+09:00"
     },
     {
       "source": "MOTIE",
@@ -1800,7 +1762,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:14+09:00"
+      "collected_at": "2026-11-21T10:51:15+09:00"
     },
     {
       "source": "MOTIE",
@@ -1819,7 +1781,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:14+09:00"
+      "collected_at": "2026-11-21T10:51:15+09:00"
     },
     {
       "source": "MOTIE",
@@ -1838,7 +1800,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:14+09:00"
+      "collected_at": "2026-11-21T10:51:15+09:00"
     },
     {
       "source": "MOTIE",
@@ -1857,7 +1819,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:14+09:00"
+      "collected_at": "2026-11-21T10:51:15+09:00"
     },
     {
       "source": "MOTIE",
@@ -1876,7 +1838,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:15+09:00"
+      "collected_at": "2026-11-21T10:51:16+09:00"
     },
     {
       "source": "MOTIE",
@@ -1895,7 +1857,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:15+09:00"
+      "collected_at": "2026-11-21T10:51:16+09:00"
     },
     {
       "source": "MOTIE",
@@ -1914,7 +1876,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:15+09:00"
+      "collected_at": "2026-11-21T10:51:16+09:00"
     },
     {
       "source": "MOTIE",
@@ -1933,7 +1895,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:15+09:00"
+      "collected_at": "2026-11-21T10:51:16+09:00"
     },
     {
       "source": "MOTIE",
@@ -1952,7 +1914,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:15+09:00"
+      "collected_at": "2026-11-21T10:51:16+09:00"
     },
     {
       "source": "MOTIE",
@@ -1971,7 +1933,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:15+09:00"
+      "collected_at": "2026-11-21T10:51:16+09:00"
     },
     {
       "source": "KIAT",
@@ -1991,7 +1953,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:18+09:00"
+      "collected_at": "2026-11-21T10:51:20+09:00"
     },
     {
       "source": "KIAT",
@@ -2010,7 +1972,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:18+09:00"
+      "collected_at": "2026-11-21T10:51:20+09:00"
     },
     {
       "source": "KIAT",
@@ -2029,7 +1991,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:18+09:00"
+      "collected_at": "2026-11-21T10:51:20+09:00"
     },
     {
       "source": "KIAT",
@@ -2048,7 +2010,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:18+09:00"
+      "collected_at": "2026-11-21T10:51:20+09:00"
     },
     {
       "source": "KIAT",
@@ -2067,7 +2029,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:18+09:00"
+      "collected_at": "2026-11-21T10:51:20+09:00"
     },
     {
       "source": "KIAT",
@@ -2086,7 +2048,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:18+09:00"
+      "collected_at": "2026-11-21T10:51:20+09:00"
     },
     {
       "source": "KIAT",
@@ -2105,7 +2067,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:18+09:00"
+      "collected_at": "2026-11-21T10:51:20+09:00"
     },
     {
       "source": "KIAT",
@@ -2124,7 +2086,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:18+09:00"
+      "collected_at": "2026-11-21T10:51:20+09:00"
     },
     {
       "source": "KIAT",
@@ -2143,7 +2105,7 @@
         "주관기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:18+09:00"
+      "collected_at": "2026-11-21T10:51:20+09:00"
     },
     {
       "source": "KIAT",
@@ -2162,7 +2124,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:18+09:00"
+      "collected_at": "2026-11-21T10:51:20+09:00"
     },
     {
       "source": "KIAT",
@@ -2181,7 +2143,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:20+09:00"
+      "collected_at": "2026-11-21T10:51:21+09:00"
     },
     {
       "source": "KIAT",
@@ -2200,7 +2162,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:20+09:00"
+      "collected_at": "2026-11-21T10:51:21+09:00"
     },
     {
       "source": "KIAT",
@@ -2219,7 +2181,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:20+09:00"
+      "collected_at": "2026-11-21T10:51:21+09:00"
     },
     {
       "source": "KIAT",
@@ -2238,7 +2200,7 @@
         "주관기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:20+09:00"
+      "collected_at": "2026-11-21T10:51:21+09:00"
     },
     {
       "source": "KIAT",
@@ -2257,7 +2219,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:20+09:00"
+      "collected_at": "2026-11-21T10:51:21+09:00"
     },
     {
       "source": "KIAT",
@@ -2276,7 +2238,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:20+09:00"
+      "collected_at": "2026-11-21T10:51:21+09:00"
     },
     {
       "source": "KIAT",
@@ -2295,7 +2257,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:20+09:00"
+      "collected_at": "2026-11-21T10:51:21+09:00"
     },
     {
       "source": "KIAT",
@@ -2314,7 +2276,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:22+09:00"
+      "collected_at": "2026-11-21T10:51:24+09:00"
     },
     {
       "source": "KIAT",
@@ -2333,7 +2295,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:22+09:00"
+      "collected_at": "2026-11-21T10:51:24+09:00"
     },
     {
       "source": "KIAT",
@@ -2352,7 +2314,7 @@
         "운영기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:22+09:00"
+      "collected_at": "2026-11-21T10:51:24+09:00"
     },
     {
       "source": "KIAT",
@@ -2371,7 +2333,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:22+09:00"
+      "collected_at": "2026-11-21T10:51:24+09:00"
     },
     {
       "source": "KIAT",
@@ -2390,7 +2352,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:22+09:00"
+      "collected_at": "2026-11-21T10:51:24+09:00"
     },
     {
       "source": "KIAT",
@@ -2409,7 +2371,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:22+09:00"
+      "collected_at": "2026-11-21T10:51:24+09:00"
     },
     {
       "source": "KIAT",
@@ -2428,7 +2390,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:22+09:00"
+      "collected_at": "2026-11-21T10:51:24+09:00"
     },
     {
       "source": "KIAT",
@@ -2447,7 +2409,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:22+09:00"
+      "collected_at": "2026-11-21T10:51:24+09:00"
     },
     {
       "source": "KIAT",
@@ -2466,7 +2428,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:22+09:00"
+      "collected_at": "2026-11-21T10:51:24+09:00"
     },
     {
       "source": "KIAT",
@@ -2485,7 +2447,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:22+09:00"
+      "collected_at": "2026-11-21T10:51:24+09:00"
     },
     {
       "source": "KIAT",
@@ -2504,7 +2466,7 @@
         "수행기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:27+09:00"
+      "collected_at": "2026-11-21T10:51:29+09:00"
     },
     {
       "source": "KIAT",
@@ -2523,7 +2485,7 @@
         "수행기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:27+09:00"
+      "collected_at": "2026-11-21T10:51:29+09:00"
     },
     {
       "source": "KIAT",
@@ -2543,7 +2505,7 @@
         "지원기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:27+09:00"
+      "collected_at": "2026-11-21T10:51:29+09:00"
     },
     {
       "source": "KIAT",
@@ -2562,7 +2524,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:27+09:00"
+      "collected_at": "2026-11-21T10:51:29+09:00"
     },
     {
       "source": "KIAT",
@@ -2582,7 +2544,7 @@
         "지원기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:27+09:00"
+      "collected_at": "2026-11-21T10:51:29+09:00"
     },
     {
       "source": "KIAT",
@@ -2601,7 +2563,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:27+09:00"
+      "collected_at": "2026-11-21T10:51:29+09:00"
     },
     {
       "source": "KIAT",
@@ -2620,7 +2582,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:27+09:00"
+      "collected_at": "2026-11-21T10:51:29+09:00"
     },
     {
       "source": "KIAT",
@@ -2639,7 +2601,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:27+09:00"
+      "collected_at": "2026-11-21T10:51:29+09:00"
     },
     {
       "source": "KIAT",
@@ -2658,7 +2620,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:27+09:00"
+      "collected_at": "2026-11-21T10:51:29+09:00"
     },
     {
       "source": "KIAT",
@@ -2677,7 +2639,7 @@
         "수행기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:27+09:00"
+      "collected_at": "2026-11-21T10:51:29+09:00"
     },
     {
       "source": "KIAT",
@@ -2696,7 +2658,7 @@
         "수행기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:30+09:00"
+      "collected_at": "2026-11-21T10:51:33+09:00"
     },
     {
       "source": "KIAT",
@@ -2715,7 +2677,7 @@
         "수행기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:30+09:00"
+      "collected_at": "2026-11-21T10:51:33+09:00"
     },
     {
       "source": "KIAT",
@@ -2734,7 +2696,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:30+09:00"
+      "collected_at": "2026-11-21T10:51:33+09:00"
     },
     {
       "source": "KIAT",
@@ -2753,7 +2715,7 @@
         "수행기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:30+09:00"
+      "collected_at": "2026-11-21T10:51:33+09:00"
     },
     {
       "source": "KIAT",
@@ -2772,7 +2734,7 @@
         "수행기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:30+09:00"
+      "collected_at": "2026-11-21T10:51:33+09:00"
     },
     {
       "source": "KIAT",
@@ -2791,7 +2753,7 @@
         "수행기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:30+09:00"
+      "collected_at": "2026-11-21T10:51:33+09:00"
     },
     {
       "source": "KIAT",
@@ -2810,7 +2772,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:30+09:00"
+      "collected_at": "2026-11-21T10:51:33+09:00"
     },
     {
       "source": "KIAT",
@@ -2829,7 +2791,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:30+09:00"
+      "collected_at": "2026-11-21T10:51:33+09:00"
     },
     {
       "source": "KIAT",
@@ -2848,7 +2810,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:30+09:00"
+      "collected_at": "2026-11-21T10:51:33+09:00"
     },
     {
       "source": "KIAT",
@@ -2867,7 +2829,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:30+09:00"
+      "collected_at": "2026-11-21T10:51:33+09:00"
     },
     {
       "source": "KIAT",
@@ -2886,7 +2848,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:34+09:00"
+      "collected_at": "2026-11-21T10:51:36+09:00"
     },
     {
       "source": "KIAT",
@@ -2905,7 +2867,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:34+09:00"
+      "collected_at": "2026-11-21T10:51:36+09:00"
     },
     {
       "source": "KIAT",
@@ -2924,7 +2886,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:34+09:00"
+      "collected_at": "2026-11-21T10:51:36+09:00"
     },
     {
       "source": "KIAT",
@@ -2943,7 +2905,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:34+09:00"
+      "collected_at": "2026-11-21T10:51:36+09:00"
     },
     {
       "source": "KIAT",
@@ -2962,7 +2924,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:34+09:00"
+      "collected_at": "2026-11-21T10:51:36+09:00"
     },
     {
       "source": "KIAT",
@@ -2981,7 +2943,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:34+09:00"
+      "collected_at": "2026-11-21T10:51:36+09:00"
     },
     {
       "source": "KIAT",
@@ -3000,7 +2962,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:34+09:00"
+      "collected_at": "2026-11-21T10:51:36+09:00"
     },
     {
       "source": "KIAT",
@@ -3019,7 +2981,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:34+09:00"
+      "collected_at": "2026-11-21T10:51:36+09:00"
     },
     {
       "source": "KIAT",
@@ -3038,7 +3000,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:34+09:00"
+      "collected_at": "2026-11-21T10:51:36+09:00"
     },
     {
       "source": "KIAT",
@@ -3057,7 +3019,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:34+09:00"
+      "collected_at": "2026-11-21T10:51:36+09:00"
     },
     {
       "source": "KIAT",
@@ -3076,7 +3038,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:35+09:00"
+      "collected_at": "2026-11-21T10:51:37+09:00"
     },
     {
       "source": "KIAT",
@@ -3095,7 +3057,7 @@
         "지원기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:35+09:00"
+      "collected_at": "2026-11-21T10:51:37+09:00"
     },
     {
       "source": "KIAT",
@@ -3114,7 +3076,7 @@
         "지원기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:35+09:00"
+      "collected_at": "2026-11-21T10:51:37+09:00"
     },
     {
       "source": "KIAT",
@@ -3133,7 +3095,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:35+09:00"
+      "collected_at": "2026-11-21T10:51:37+09:00"
     },
     {
       "source": "KIAT",
@@ -3153,7 +3115,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:35+09:00"
+      "collected_at": "2026-11-21T10:51:37+09:00"
     },
     {
       "source": "KIAT",
@@ -3172,7 +3134,7 @@
         "지원기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:35+09:00"
+      "collected_at": "2026-11-21T10:51:37+09:00"
     },
     {
       "source": "KIAT",
@@ -3191,7 +3153,7 @@
         "지원기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:35+09:00"
+      "collected_at": "2026-11-21T10:51:37+09:00"
     },
     {
       "source": "KIAT",
@@ -3210,7 +3172,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:37+09:00"
+      "collected_at": "2026-11-21T10:51:39+09:00"
     },
     {
       "source": "KIAT",
@@ -3229,7 +3191,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:37+09:00"
+      "collected_at": "2026-11-21T10:51:39+09:00"
     },
     {
       "source": "KIAT",
@@ -3248,7 +3210,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:39+09:00"
+      "collected_at": "2026-11-21T10:51:41+09:00"
     },
     {
       "source": "KIAT",
@@ -3267,7 +3229,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:39+09:00"
+      "collected_at": "2026-11-21T10:51:41+09:00"
     },
     {
       "source": "KIAT",
@@ -3286,7 +3248,7 @@
         "참여기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:39+09:00"
+      "collected_at": "2026-11-21T10:51:41+09:00"
     },
     {
       "source": "KIAT",
@@ -3305,7 +3267,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:39+09:00"
+      "collected_at": "2026-11-21T10:51:41+09:00"
     },
     {
       "source": "KIAT",
@@ -3324,7 +3286,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:39+09:00"
+      "collected_at": "2026-11-21T10:51:41+09:00"
     },
     {
       "source": "KIAT",
@@ -3343,7 +3305,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:39+09:00"
+      "collected_at": "2026-11-21T10:51:41+09:00"
     },
     {
       "source": "KIAT",
@@ -3353,16 +3315,16 @@
       "period_text": "2015-02-10~2015-02-10",
       "period_start": "2015-02-10",
       "period_end": "2015-02-10",
-      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=44673",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e&contents_id=44675",
       "collect_method": "CRAWL",
       "stage": "모집공고",
-      "external_id": "KIAT-44673",
+      "external_id": "KIAT-44675",
       "content": "",
       "matched_keywords": [
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:39+09:00"
+      "collected_at": "2026-11-21T10:51:41+09:00"
     },
     {
       "source": "KIAT",
@@ -3381,7 +3343,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:41+09:00"
+      "collected_at": "2026-11-21T10:51:43+09:00"
     },
     {
       "source": "KIAT",
@@ -3400,7 +3362,7 @@
         "전담기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:41+09:00"
+      "collected_at": "2026-11-21T10:51:43+09:00"
     },
     {
       "source": "KIAT",
@@ -3419,7 +3381,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:41+09:00"
+      "collected_at": "2026-11-21T10:51:43+09:00"
     },
     {
       "source": "KIAT",
@@ -3438,7 +3400,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:42+09:00"
+      "collected_at": "2026-11-21T10:51:45+09:00"
     },
     {
       "source": "KIAT",
@@ -3457,7 +3419,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:42+09:00"
+      "collected_at": "2026-11-21T10:51:45+09:00"
     },
     {
       "source": "KIAT",
@@ -3476,7 +3438,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:42+09:00"
+      "collected_at": "2026-11-21T10:51:45+09:00"
     },
     {
       "source": "KIAT",
@@ -3495,7 +3457,7 @@
         "보조사업자"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:42+09:00"
+      "collected_at": "2026-11-21T10:51:45+09:00"
     },
     {
       "source": "KIAT",
@@ -3514,7 +3476,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:42+09:00"
+      "collected_at": "2026-11-21T10:51:45+09:00"
     },
     {
       "source": "KIAT",
@@ -3533,7 +3495,7 @@
         "보조사업자"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:42+09:00"
+      "collected_at": "2026-11-21T10:51:45+09:00"
     },
     {
       "source": "KIAT",
@@ -3552,7 +3514,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:42+09:00"
+      "collected_at": "2026-11-21T10:51:45+09:00"
     },
     {
       "source": "KIAT",
@@ -3571,7 +3533,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:42+09:00"
+      "collected_at": "2026-11-21T10:51:45+09:00"
     },
     {
       "source": "KIAT",
@@ -3590,7 +3552,7 @@
         "사업수행자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:44+09:00"
+      "collected_at": "2026-11-21T10:51:46+09:00"
     },
     {
       "source": "KIAT",
@@ -3609,7 +3571,7 @@
         "사업수행자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:44+09:00"
+      "collected_at": "2026-11-21T10:51:46+09:00"
     },
     {
       "source": "KIAT",
@@ -3628,7 +3590,7 @@
         "사업수행자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:44+09:00"
+      "collected_at": "2026-11-21T10:51:46+09:00"
     },
     {
       "source": "KEIT",
@@ -3647,7 +3609,7 @@
         "주관기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:48+09:00"
+      "collected_at": "2026-11-21T10:51:51+09:00"
     },
     {
       "source": "KEIT",
@@ -3666,7 +3628,7 @@
         "주관기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:56:48+09:00"
+      "collected_at": "2026-11-21T10:51:51+09:00"
     },
     {
       "source": "KETEP",
@@ -3685,7 +3647,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:58+09:00"
+      "collected_at": "2026-11-21T10:52:02+09:00"
     },
     {
       "source": "KETEP",
@@ -3704,7 +3666,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:58+09:00"
+      "collected_at": "2026-11-21T10:52:02+09:00"
     },
     {
       "source": "KETEP",
@@ -3723,7 +3685,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:58+09:00"
+      "collected_at": "2026-11-21T10:52:02+09:00"
     },
     {
       "source": "KETEP",
@@ -3742,7 +3704,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:56:58+09:00"
+      "collected_at": "2026-11-21T10:52:02+09:00"
     },
     {
       "source": "KETEP",
@@ -3761,7 +3723,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:02+09:00"
+      "collected_at": "2026-11-21T10:52:05+09:00"
     },
     {
       "source": "KETEP",
@@ -3780,7 +3742,7 @@
         "보조사업자"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:57:02+09:00"
+      "collected_at": "2026-11-21T10:52:05+09:00"
     },
     {
       "source": "KETEP",
@@ -3799,7 +3761,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:02+09:00"
+      "collected_at": "2026-11-21T10:52:05+09:00"
     },
     {
       "source": "SEMAS",
@@ -3818,7 +3780,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:10+09:00"
     },
     {
       "source": "SEMAS",
@@ -3837,7 +3799,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:10+09:00"
     },
     {
       "source": "SEMAS",
@@ -3856,7 +3818,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:10+09:00"
     },
     {
       "source": "SEMAS",
@@ -3875,7 +3837,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:10+09:00"
     },
     {
       "source": "SEMAS",
@@ -3894,7 +3856,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:10+09:00"
     },
     {
       "source": "SEMAS",
@@ -3913,7 +3875,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:10+09:00"
     },
     {
       "source": "SEMAS",
@@ -3932,7 +3894,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:10+09:00"
     },
     {
       "source": "SEMAS",
@@ -3951,7 +3913,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:10+09:00"
     },
     {
       "source": "SEMAS",
@@ -3970,7 +3932,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:10+09:00"
     },
     {
       "source": "SEMAS",
@@ -3989,7 +3951,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:10+09:00"
     },
     {
       "source": "SEMAS",
@@ -4008,7 +3970,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:11+09:00"
     },
     {
       "source": "SEMAS",
@@ -4027,7 +3989,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:11+09:00"
     },
     {
       "source": "SEMAS",
@@ -4046,7 +4008,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:11+09:00"
     },
     {
       "source": "SEMAS",
@@ -4065,7 +4027,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:11+09:00"
     },
     {
       "source": "SEMAS",
@@ -4084,7 +4046,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:05+09:00"
+      "collected_at": "2026-11-21T10:52:11+09:00"
     },
     {
       "source": "SEMAS",
@@ -4103,7 +4065,7 @@
         "운영기관"
       ],
       "is_duplicate": true,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:11+09:00"
     },
     {
       "source": "SEMAS",
@@ -4122,7 +4084,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:11+09:00"
     },
     {
       "source": "SEMAS",
@@ -4141,7 +4103,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:11+09:00"
     },
     {
       "source": "SEMAS",
@@ -4160,7 +4122,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:11+09:00"
     },
     {
       "source": "SEMAS",
@@ -4179,7 +4141,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:11+09:00"
     },
     {
       "source": "SEMAS",
@@ -4198,7 +4160,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:12+09:00"
     },
     {
       "source": "SEMAS",
@@ -4217,7 +4179,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:12+09:00"
     },
     {
       "source": "SEMAS",
@@ -4236,7 +4198,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:12+09:00"
     },
     {
       "source": "SEMAS",
@@ -4255,7 +4217,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:12+09:00"
     },
     {
       "source": "SEMAS",
@@ -4274,7 +4236,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:12+09:00"
     },
     {
       "source": "SEMAS",
@@ -4293,7 +4255,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:12+09:00"
     },
     {
       "source": "SEMAS",
@@ -4312,7 +4274,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:12+09:00"
     },
     {
       "source": "SEMAS",
@@ -4331,7 +4293,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:12+09:00"
     },
     {
       "source": "SEMAS",
@@ -4350,7 +4312,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:12+09:00"
     },
     {
       "source": "SEMAS",
@@ -4369,7 +4331,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:06+09:00"
+      "collected_at": "2026-11-21T10:52:12+09:00"
     },
     {
       "source": "SEMAS",
@@ -4388,7 +4350,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4407,7 +4369,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4426,7 +4388,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4445,7 +4407,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4464,7 +4426,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4483,7 +4445,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4502,7 +4464,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4521,7 +4483,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4540,7 +4502,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4559,7 +4521,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4578,7 +4540,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4597,7 +4559,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4616,7 +4578,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:07+09:00"
+      "collected_at": "2026-11-21T10:52:13+09:00"
     },
     {
       "source": "SEMAS",
@@ -4635,7 +4597,7 @@
         "전담기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:08+09:00"
+      "collected_at": "2026-11-21T10:52:14+09:00"
     },
     {
       "source": "KOSMES",
@@ -4654,7 +4616,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:11+09:00"
+      "collected_at": "2026-11-21T10:52:18+09:00"
     },
     {
       "source": "KOSMES",
@@ -4673,7 +4635,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:11+09:00"
+      "collected_at": "2026-11-21T10:52:18+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4692,7 +4654,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:14+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4711,7 +4673,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:14+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4730,7 +4692,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:14+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4749,7 +4711,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:14+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4768,7 +4730,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:14+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4787,7 +4749,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:14+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4806,7 +4768,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:14+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4825,7 +4787,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:14+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4844,7 +4806,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:14+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4863,7 +4825,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:14+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4882,7 +4844,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4901,7 +4863,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4920,7 +4882,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4939,7 +4901,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4958,7 +4920,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4977,7 +4939,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -4996,7 +4958,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5015,7 +4977,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5034,7 +4996,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5053,7 +5015,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5072,7 +5034,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5091,7 +5053,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5110,7 +5072,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5129,7 +5091,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5148,7 +5110,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5167,7 +5129,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5186,7 +5148,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5205,7 +5167,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5224,7 +5186,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5243,7 +5205,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:17+09:00"
+      "collected_at": "2026-11-21T10:52:21+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5262,7 +5224,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5281,7 +5243,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5300,7 +5262,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5319,7 +5281,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5338,7 +5300,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5357,7 +5319,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5376,7 +5338,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5395,7 +5357,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5414,7 +5376,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5433,7 +5395,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5452,7 +5414,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5471,7 +5433,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5490,7 +5452,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5509,7 +5471,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5528,7 +5490,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5547,7 +5509,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5566,7 +5528,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5585,7 +5547,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5604,7 +5566,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5623,7 +5585,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5642,7 +5604,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5661,7 +5623,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5680,7 +5642,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5699,7 +5661,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5719,7 +5681,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5738,7 +5700,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5757,7 +5719,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5776,7 +5738,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5795,7 +5757,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5814,7 +5776,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5833,7 +5795,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5852,7 +5814,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:18+09:00"
+      "collected_at": "2026-11-21T10:52:22+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5871,7 +5833,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:20+09:00"
+      "collected_at": "2026-11-21T10:52:24+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5890,7 +5852,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:20+09:00"
+      "collected_at": "2026-11-21T10:52:24+09:00"
     },
     {
       "source": "TIPA_SMARTFACTORY",
@@ -5909,7 +5871,7 @@
         "보조사업자"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-20T10:57:20+09:00"
+      "collected_at": "2026-11-21T10:52:24+09:00"
     }
   ]
 }
