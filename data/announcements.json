@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T16:06:31+09:00",
-  "count": 311,
+  "generated_at": "2026-11-24T08:44:49+09:00",
+  "count": 310,
   "items": [
     {
       "source": "KSTARTUP",
@@ -19,7 +19,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:23+09:00"
+      "collected_at": "2026-11-24T08:43:12+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -38,7 +38,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:23+09:00"
+      "collected_at": "2026-11-24T08:43:12+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -57,7 +57,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:23+09:00"
+      "collected_at": "2026-11-24T08:43:12+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -76,7 +76,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:23+09:00"
+      "collected_at": "2026-11-24T08:43:12+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -95,7 +95,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:25+09:00"
+      "collected_at": "2026-11-24T08:43:15+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -114,7 +114,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:25+09:00"
+      "collected_at": "2026-11-24T08:43:15+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -133,7 +133,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:25+09:00"
+      "collected_at": "2026-11-24T08:43:15+09:00"
     },
     {
       "source": "BIZINFO",
@@ -152,7 +152,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:30+09:00"
+      "collected_at": "2026-11-24T08:43:19+09:00"
     },
     {
       "source": "BIZINFO",
@@ -171,7 +171,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:30+09:00"
+      "collected_at": "2026-11-24T08:43:19+09:00"
     },
     {
       "source": "BIZINFO",
@@ -190,7 +190,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:30+09:00"
+      "collected_at": "2026-11-24T08:43:19+09:00"
     },
     {
       "source": "BIZINFO",
@@ -209,7 +209,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:30+09:00"
+      "collected_at": "2026-11-24T08:43:19+09:00"
     },
     {
       "source": "BIZINFO",
@@ -228,7 +228,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:34+09:00"
+      "collected_at": "2026-11-24T08:43:23+09:00"
     },
     {
       "source": "BIZINFO",
@@ -247,7 +247,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:34+09:00"
+      "collected_at": "2026-11-24T08:43:23+09:00"
     },
     {
       "source": "BIZINFO",
@@ -266,7 +266,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:34+09:00"
+      "collected_at": "2026-11-24T08:43:23+09:00"
     },
     {
       "source": "BIZINFO",
@@ -285,7 +285,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:38+09:00"
+      "collected_at": "2026-11-24T08:43:23+09:00"
     },
     {
       "source": "BIZINFO",
@@ -304,26 +304,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:38+09:00"
-    },
-    {
-      "source": "BIZINFO",
-      "source_name": "기업마당",
-      "title": "2027년 초기창업ㆍ창업도약 패키지 사업 신규 주관기관 모집 수정 공고",
-      "org": "중소벤처기업부",
-      "period_text": "2026-10-30 ~ 2026-11-23",
-      "period_start": "2026-10-30",
-      "period_end": "2026-11-23",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127641",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "BIZINFO-PBLN_000000000127641",
-      "content": "성장단계별(초기ㆍ도약기) 창업기업 발굴 및 육성을 위해 우수한 창업지원 역량을 갖춘 초기창업ㆍ창업도약 패키지 사업의 주관기관을 다음과 같이 모집 공고합니다. ☞ 창업기업 지원역량을 보유한 공공기관, 대학ㆍ연구기관, 민간기관(협ㆍ단체, 투자 전문기관 포함) 등 모든 유형의 기관 ☞ 창업기업 지원 및 특화 프로그램 등 지원 - (초기창업패키지) 창업 3년 이내 초기 창업기업의 시장안착을 위해 사업화자금, 실증 및 판로개척, 초기 투자유치 등을 지원 - (창업도약패키지) 창업 3년 초과 7년 이내 도약기 창업기업의 성장을 위해 사업화자금, 글로벌 진출 및 투자유치 등을 지원 ※ [중요] 모집공고 내 수정사항 - 신청기간 : (기존) ‘26.10.30.(금)~‘26.11.20.(금) 16:00까지, (수정) ‘26.10.30.(금)~‘26.11.23.(월) 16:00까지 / 본문 4P - 전담조직 및 인력구성, 대응자금 및 투자재원 변경 / 본문 18P ㆍ(기존) ※ ‘전담조직 및 인력 구성, 재원(대응자금 및 투자재원)’ 조성은 ’27년 계획한 규모에 따라 사업기간(2년+2년) 동안 동일하게 조성되어야 하며, 미이행 시 제재 등 불이익이 있을 수 있음 ㆍ(수정) ※ ‘전담조직 및 인력 구성, 재원(대응자금 및 투자재원)’ 조성은 ’27년 계획한 규모에 따라 사업기간(2년+2년) 동안 동일하게 조성되어야 하며, 미이행 시 제재 등 불이익이 있을 수 있음 ※ 단, ’27년 주관기관 선정평가결과 등에 따른 정부지원예산 변동시, ‘전담조직 및 인력 구성, 대응자금 및 투자재원’ 변경 가능함",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:38+09:00"
+      "collected_at": "2026-11-24T08:43:27+09:00"
     },
     {
       "source": "BIZINFO",
@@ -342,7 +323,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:42+09:00"
+      "collected_at": "2026-11-24T08:43:27+09:00"
     },
     {
       "source": "BIZINFO",
@@ -362,7 +343,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:42+09:00"
+      "collected_at": "2026-11-24T08:43:31+09:00"
     },
     {
       "source": "BIZINFO",
@@ -381,7 +362,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:46+09:00"
+      "collected_at": "2026-11-24T08:43:31+09:00"
     },
     {
       "source": "BIZINFO",
@@ -400,7 +381,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:46+09:00"
+      "collected_at": "2026-11-24T08:43:35+09:00"
     },
     {
       "source": "BIZINFO",
@@ -419,7 +400,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:50+09:00"
+      "collected_at": "2026-11-24T08:43:35+09:00"
     },
     {
       "source": "BIZINFO",
@@ -438,7 +419,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:50+09:00"
+      "collected_at": "2026-11-24T08:43:39+09:00"
     },
     {
       "source": "BIZINFO",
@@ -457,7 +438,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:50+09:00"
+      "collected_at": "2026-11-24T08:43:39+09:00"
     },
     {
       "source": "BIZINFO",
@@ -476,7 +457,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:50+09:00"
+      "collected_at": "2026-11-24T08:43:39+09:00"
     },
     {
       "source": "BIZINFO",
@@ -495,7 +476,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:54+09:00"
+      "collected_at": "2026-11-24T08:43:43+09:00"
     },
     {
       "source": "BIZINFO",
@@ -514,7 +495,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:05:54+09:00"
+      "collected_at": "2026-11-24T08:43:43+09:00"
     },
     {
       "source": "BIZINFO",
@@ -533,7 +514,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:06:03+09:00"
+      "collected_at": "2026-11-24T08:43:47+09:00"
     },
     {
       "source": "BIZINFO",
@@ -552,7 +533,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:06:07+09:00"
+      "collected_at": "2026-11-24T08:43:55+09:00"
     },
     {
       "source": "BIZINFO",
@@ -571,7 +552,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:06:07+09:00"
+      "collected_at": "2026-11-24T08:43:55+09:00"
     },
     {
       "source": "BIZINFO",
@@ -590,7 +571,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:06:07+09:00"
+      "collected_at": "2026-11-24T08:43:55+09:00"
     },
     {
       "source": "BIZINFO",
@@ -609,7 +590,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:06:07+09:00"
+      "collected_at": "2026-11-24T08:43:55+09:00"
     },
     {
       "source": "BIZINFO",
@@ -628,7 +609,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-23T16:06:07+09:00"
+      "collected_at": "2026-11-24T08:43:55+09:00"
     },
     {
       "source": "MOTIE",
