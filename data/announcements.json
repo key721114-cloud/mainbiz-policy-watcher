@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T12:00:32+09:00",
-  "count": 310,
+  "generated_at": "2026-11-28T16:23:06+09:00",
+  "count": 305,
   "items": [
     {
       "source": "KSTARTUP",
@@ -19,7 +19,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T05:59:54+09:00"
+      "collected_at": "2026-11-28T16:22:11+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -38,7 +38,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T05:59:55+09:00"
+      "collected_at": "2026-11-28T16:22:12+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -57,7 +57,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T05:59:55+09:00"
+      "collected_at": "2026-11-28T16:22:12+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -76,7 +76,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T05:59:55+09:00"
+      "collected_at": "2026-11-28T16:22:12+09:00"
     },
     {
       "source": "KSTARTUP",
@@ -95,102 +95,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T05:59:56+09:00"
-    },
-    {
-      "source": "KSTARTUP",
-      "source_name": "창업진흥원(K-Startup)",
-      "title": "2027년 초격차 스타트업 프로젝트 정부 첫 실증·구매 주관기관 모집공고",
-      "org": "중소벤처기업부 장관",
-      "period_text": "2026-10-08~2026-10-29",
-      "period_start": "2026-10-08",
-      "period_end": "2026-10-29",
-      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179428",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "KSTARTUP-179428",
-      "content": "공공 인프라에서 스타트업의 혁신 기술을 실증하고 정부의 조달 구매로 연결하여 판로 개척을 지원하는 『정부 첫 실증·구매 프로젝트』 주관기관을 다음과 같이 모집 공고합니다.",
-      "matched_keywords": [
-        "주관기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-11-28T05:59:58+09:00"
-    },
-    {
-      "source": "KSTARTUP",
-      "source_name": "창업진흥원(K-Startup)",
-      "title": "제46회 창업가정신포럼",
-      "org": "(재)경기창조경제혁신센터",
-      "period_text": "2026-10-06~2026-10-20",
-      "period_start": "2026-10-06",
-      "period_end": "2026-10-20",
-      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179425",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "KSTARTUP-179425",
-      "content": "적은 인원으로 더 높은 생산성을 만들고 싶은 스타트업, AI를 어디서부터 어떻게 활용해야 할까요? 경기창조경제혁신센터는 「AI 네이티브 컴퍼니를 만드는 방법」을 주제로 제46회 창업가정신포럼을 개최합니다. AI 에이전트·업무 자동화 전문가 빌더 조쉬(김승권)와 함께 스타트업이 AI로 경쟁력을 높이는 전략과 실전 활용법을 살펴봅니다. AI 기업이 아니어도 좋습니다. AI 도입을 고민하는 창업가, 실무자, 창업지원기관 관계자 누구나 참여하실 수 있습니다.",
-      "matched_keywords": [
-        "지원기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-11-28T05:59:58+09:00"
-    },
-    {
-      "source": "KSTARTUP",
-      "source_name": "창업진흥원(K-Startup)",
-      "title": "해운대 청년채움공간(청년창업지원시설) 위탁운영기관 모집 공고",
-      "org": "부산광역시 해운대구청장",
-      "period_text": "2026-10-01~2026-10-14",
-      "period_start": "2026-10-01",
-      "period_end": "2026-10-14",
-      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179412",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "KSTARTUP-179412",
-      "content": "해운대 청년채움공간(청년 창업 지원 시설)의 위탁운영기관을 모집 공고합니다.",
-      "matched_keywords": [
-        "운영기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-11-28T05:59:58+09:00"
-    },
-    {
-      "source": "KSTARTUP",
-      "source_name": "창업진흥원(K-Startup)",
-      "title": "2026 하반기 배민스타트업스퀘어 스타트업 모집",
-      "org": "경기창조경제혁신센터",
-      "period_text": "2026-09-28~2026-09-30",
-      "period_start": "2026-09-28",
-      "period_end": "2026-09-30",
-      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179362",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "KSTARTUP-179362",
-      "content": "경기창조경제혁신센터, 우아한형제들은 제2판교 신사옥을 무대로 다양한 지원기관과 함께 AI·배달 생태계·소셜벤처 스타트업들의 혁신 성장을 지원합니다. 배민스타트업스퀘어에서 ‘식지 않은 성장’을 함께 만들어 나갈 스타트업들을 모집하오니 우수한 역량을 보유한 (예비)초기 창업기업의 많은 신청 바랍니다.",
-      "matched_keywords": [
-        "지원기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-11-28T05:59:58+09:00"
-    },
-    {
-      "source": "KSTARTUP",
-      "source_name": "창업진흥원(K-Startup)",
-      "title": "2026 전북-수도권 기업 『투자 & 비즈니스 라운드』",
-      "org": "쿠키미디어(주)",
-      "period_text": "2026-09-23~2026-10-07",
-      "period_start": "2026-09-23",
-      "period_end": "2026-10-07",
-      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179349",
-      "collect_method": "API",
-      "stage": "모집공고",
-      "external_id": "KSTARTUP-179349",
-      "content": "전북특별자치도와 전북테크노파크, 쿠키뉴스가 『2026 전북-수도권 기업 투자 & 비즈니스 라운드』를 개최합니다. 전북의 투자 라인업을 서울에 한자리로 모아, 수도권 기업이 전북에서 투자와 사업 확장의 기회를 찾도록 지원하겠다는 취지를 담았습니다. 이번 행사는 1조 원 규모의 전북 벤처펀드와 전국 최초로 결성된 1,036억 원 규모의 지역성장펀드를 소개하고 전북도 선정 유망기업 IR 피칭과 투자사 32곳·기업지원기관과의 1:1 상담으로 진행합니다. 현대차그룹의 미래 비전과 새만금 투자 전략을 공유하며 투자·금융·정책자금부터 R&D, 입지·인센티브, 판로·수출까지 기업별 맞춤 상담을 제공합니다. 본 행사는 『J-Startup Festa 2026』 5개 릴레이 행사 중 첫 번째 프로그램으로 전북과 수도권 기업을 잇는 실질적인 투자·협력 플랫폼이 되고자 합니다.",
-      "matched_keywords": [
-        "지원기관"
-      ],
-      "is_duplicate": false,
-      "collected_at": "2026-11-28T05:59:58+09:00"
+      "collected_at": "2026-11-28T16:22:13+09:00"
     },
     {
       "source": "BIZINFO",
@@ -209,7 +114,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:02+09:00"
+      "collected_at": "2026-11-28T16:22:17+09:00"
     },
     {
       "source": "BIZINFO",
@@ -228,7 +133,7 @@
         "참여기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:02+09:00"
+      "collected_at": "2026-11-28T16:22:17+09:00"
     },
     {
       "source": "BIZINFO",
@@ -247,7 +152,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:02+09:00"
+      "collected_at": "2026-11-28T16:22:17+09:00"
     },
     {
       "source": "BIZINFO",
@@ -266,7 +171,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:05+09:00"
+      "collected_at": "2026-11-28T16:22:20+09:00"
     },
     {
       "source": "BIZINFO",
@@ -285,7 +190,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:05+09:00"
+      "collected_at": "2026-11-28T16:22:20+09:00"
     },
     {
       "source": "BIZINFO",
@@ -304,7 +209,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:05+09:00"
+      "collected_at": "2026-11-28T16:22:20+09:00"
     },
     {
       "source": "BIZINFO",
@@ -323,7 +228,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:09+09:00"
+      "collected_at": "2026-11-28T16:22:24+09:00"
     },
     {
       "source": "BIZINFO",
@@ -342,7 +247,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:13+09:00"
+      "collected_at": "2026-11-28T16:22:27+09:00"
     },
     {
       "source": "BIZINFO",
@@ -362,7 +267,7 @@
         "지원기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:13+09:00"
+      "collected_at": "2026-11-28T16:22:27+09:00"
     },
     {
       "source": "BIZINFO",
@@ -381,7 +286,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:16+09:00"
+      "collected_at": "2026-11-28T16:22:30+09:00"
     },
     {
       "source": "BIZINFO",
@@ -400,7 +305,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:16+09:00"
+      "collected_at": "2026-11-28T16:22:30+09:00"
     },
     {
       "source": "BIZINFO",
@@ -419,7 +324,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:16+09:00"
+      "collected_at": "2026-11-28T16:22:30+09:00"
     },
     {
       "source": "BIZINFO",
@@ -438,7 +343,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:20+09:00"
+      "collected_at": "2026-11-28T16:22:34+09:00"
     },
     {
       "source": "BIZINFO",
@@ -457,7 +362,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:20+09:00"
+      "collected_at": "2026-11-28T16:22:34+09:00"
     },
     {
       "source": "BIZINFO",
@@ -476,7 +381,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:20+09:00"
+      "collected_at": "2026-11-28T16:22:34+09:00"
     },
     {
       "source": "BIZINFO",
@@ -495,7 +400,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:23+09:00"
+      "collected_at": "2026-11-28T16:22:37+09:00"
     },
     {
       "source": "BIZINFO",
@@ -514,7 +419,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:23+09:00"
+      "collected_at": "2026-11-28T16:22:37+09:00"
     },
     {
       "source": "BIZINFO",
@@ -533,7 +438,7 @@
         "주관기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:27+09:00"
+      "collected_at": "2026-11-28T16:22:40+09:00"
     },
     {
       "source": "BIZINFO",
@@ -552,7 +457,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:34+09:00"
+      "collected_at": "2026-11-28T16:22:46+09:00"
     },
     {
       "source": "BIZINFO",
@@ -571,7 +476,7 @@
         "수행기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:34+09:00"
+      "collected_at": "2026-11-28T16:22:46+09:00"
     },
     {
       "source": "BIZINFO",
@@ -590,7 +495,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:34+09:00"
+      "collected_at": "2026-11-28T16:22:46+09:00"
     },
     {
       "source": "BIZINFO",
@@ -609,7 +514,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:34+09:00"
+      "collected_at": "2026-11-28T16:22:46+09:00"
     },
     {
       "source": "BIZINFO",
@@ -628,7 +533,7 @@
         "운영기관"
       ],
       "is_duplicate": false,
-      "collected_at": "2026-11-28T06:00:34+09:00"
+      "collected_at": "2026-11-28T16:22:46+09:00"
     },
     {
       "source": "MOTIE",
